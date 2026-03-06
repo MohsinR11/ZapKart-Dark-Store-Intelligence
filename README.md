@@ -118,7 +118,7 @@ ZapKart-DarkStore-Intelligence/
 |---|---|---|
 | 1 | Executive Overview | 6 KPI cards · Revenue trend · Orders by city · Order status donut |
 | 2 | Delivery & SLA | SLA by store with target line · Hourly demand vs delivery time |
-| 3 | Store P&L | Revenue by store · Monthly trend · Revenue vs delivery cost scatter |
+| 3 | Store P&L | Revenue by store · Monthly trend · Revenue vs delivery cost scatter | 
 | 4 | Picker Intelligence | Pick rate by store/skill/shift · Picker leaderboard with gradient |
 | 5 | Product Intelligence | Revenue by category · Revenue vs margin · Substitution donut |
 
