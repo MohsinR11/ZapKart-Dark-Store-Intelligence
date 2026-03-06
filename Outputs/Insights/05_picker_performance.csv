@@ -1,0 +1,81 @@
+picker_name,skill_level,shift,store_name,total_picks,avg_pick_rate,total_errors,error_rate_pct
+Ekbal Menon,Expert,Morning,ZapKart Andheri,5042,1.666,942,18.68
+Kabir Ghose,Expert,Morning,ZapKart Dwarka,5139,1.662,891,17.34
+Krishna Bawa,Expert,Night,ZapKart Whitefield,4167,1.656,790,18.96
+Hemani Goda,Expert,Morning,ZapKart Bandra,5842,1.654,1041,17.82
+Ekaraj Goswami,Expert,Night,ZapKart Powai,5854,1.652,1002,17.12
+Kamya Savant,Expert,Morning,ZapKart Andheri,4994,1.652,888,17.78
+Lohit Patla,Expert,Night,ZapKart Andheri,5004,1.651,953,19.04
+Sachi Gola,Expert,Night,ZapKart Indiranagar,5030,1.649,927,18.43
+Manya Shah,Expert,Morning,ZapKart Bandra,5813,1.648,1034,17.79
+Yachana Gulati,Expert,Afternoon,ZapKart Andheri,5178,1.641,914,17.65
+Irya Bawa,Expert,Morning,ZapKart Saket,4669,1.64,855,18.31
+Ekanta Kalla,Expert,Morning,ZapKart Indiranagar,5219,1.639,902,17.28
+Rayaan Kala,Expert,Night,ZapKart Powai,5775,1.638,999,17.3
+Reva Memon,Expert,Night,ZapKart Indiranagar,4839,1.635,935,19.32
+Yashasvi Lalla,Expert,Morning,ZapKart Saket,4953,1.635,885,17.87
+Tarak Sahni,Expert,Afternoon,ZapKart Powai,5840,1.634,1026,17.57
+Bhavini Bawa,Expert,Afternoon,ZapKart Whitefield,4146,1.632,760,18.33
+Henry Mistry,Expert,Morning,ZapKart Saket,4840,1.629,925,19.11
+Ikbal Som,Expert,Afternoon,ZapKart Connaught Place,5208,1.625,899,17.26
+Nimrat Srinivas,Expert,Afternoon,ZapKart Powai,5846,1.625,1009,17.26
+Ubika Shan,Expert,Night,ZapKart Koramangala,4895,1.612,890,18.18
+Hiral Khatri,Expert,Afternoon,ZapKart Saket,4819,1.599,860,17.85
+Ganga Badal,Intermediate,Afternoon,ZapKart Indiranagar,4909,1.347,891,18.15
+Anamika Reddy,Intermediate,Morning,ZapKart Dwarka,4997,1.342,898,17.97
+Arunima Pau,Intermediate,Night,ZapKart Powai,5915,1.342,1012,17.11
+Christopher Mahajan,Intermediate,Afternoon,ZapKart Powai,5844,1.338,1048,17.93
+Pavani Ramesh,Intermediate,Afternoon,ZapKart Bandra,5883,1.335,1088,18.49
+Anusha Saraf,Intermediate,Morning,ZapKart Powai,5752,1.334,1041,18.1
+Bhavna Jhaveri,Intermediate,Night,ZapKart Connaught Place,5197,1.332,925,17.8
+Ubika Gaba,Intermediate,Afternoon,ZapKart Bandra,5918,1.329,1075,18.16
+Darpan Murty,Intermediate,Afternoon,ZapKart Andheri,5038,1.328,885,17.57
+Wahab More,Intermediate,Afternoon,ZapKart Bandra,5812,1.328,1055,18.15
+Avi Goda,Intermediate,Morning,ZapKart Connaught Place,5291,1.324,971,18.35
+Lila Babu,Intermediate,Morning,ZapKart Indiranagar,5014,1.323,850,16.95
+Shivansh Rajan,Intermediate,Night,ZapKart Dwarka,4997,1.322,869,17.39
+Noah Palla,Intermediate,Afternoon,ZapKart Dwarka,5057,1.322,914,18.07
+Rachit Kibe,Intermediate,Night,ZapKart Lajpat Nagar,5267,1.32,984,18.68
+Qasim Magar,Intermediate,Afternoon,ZapKart Lajpat Nagar,5163,1.319,937,18.15
+Vrinda Yadav,Intermediate,Night,ZapKart Dwarka,5063,1.319,903,17.84
+Pahal Minhas,Intermediate,Night,ZapKart Indiranagar,5089,1.316,944,18.55
+Madhav Bhalla,Intermediate,Afternoon,ZapKart Koramangala,5003,1.315,840,16.79
+Balvan Chaudry,Intermediate,Morning,ZapKart Koramangala,4900,1.315,837,17.08
+Tanish Khatri,Intermediate,Afternoon,ZapKart Lajpat Nagar,5262,1.312,926,17.6
+Dakshesh Misra,Intermediate,Morning,ZapKart Indiranagar,5009,1.312,891,17.79
+Hredhaan Kalla,Intermediate,Afternoon,ZapKart Dwarka,4971,1.311,911,18.33
+Nachiket Chowdhury,Intermediate,Afternoon,ZapKart Connaught Place,5309,1.31,903,17.01
+Abhiram Hora,Intermediate,Afternoon,ZapKart Koramangala,4930,1.31,926,18.78
+Chaitaly Doctor,Intermediate,Afternoon,ZapKart Indiranagar,5122,1.309,899,17.55
+Harita Nori,Intermediate,Morning,ZapKart Dwarka,5046,1.309,904,17.92
+Kabir Gala,Intermediate,Afternoon,ZapKart Whitefield,4342,1.309,810,18.65
+Dakshesh Bhandari,Intermediate,Afternoon,ZapKart Saket,4823,1.308,834,17.29
+Robert Rastogi,Intermediate,Morning,ZapKart Connaught Place,5322,1.308,989,18.58
+Finn Thaman,Intermediate,Morning,ZapKart Andheri,5203,1.306,914,17.57
+Umang Borde,Intermediate,Morning,ZapKart Connaught Place,5305,1.306,942,17.76
+Chaaya Sanghvi,Intermediate,Night,ZapKart Saket,4913,1.306,897,18.26
+Vansha Krishnamurthy,Intermediate,Morning,ZapKart Andheri,5093,1.305,901,17.69
+Meera Bahri,Intermediate,Afternoon,ZapKart Lajpat Nagar,5182,1.304,942,18.18
+Aradhana Chandra,Intermediate,Afternoon,ZapKart Saket,4817,1.304,876,18.19
+Oni Wason,Intermediate,Afternoon,ZapKart Saket,4870,1.304,933,19.16
+Darika Sengupta,Intermediate,Morning,ZapKart Bandra,5820,1.303,1062,18.25
+Amrita Saraf,Intermediate,Night,ZapKart Whitefield,4293,1.301,787,18.33
+Harita Balay,Intermediate,Night,ZapKart Whitefield,4212,1.297,787,18.68
+Odika Kunda,Intermediate,Afternoon,ZapKart Koramangala,4857,1.296,830,17.09
+Qasim Seshadri,Intermediate,Night,ZapKart Whitefield,4238,1.294,742,17.51
+Ishanvi Sane,Intermediate,Night,ZapKart Bandra,5926,1.291,1060,17.89
+Arya Bora,Beginner,Morning,ZapKart Lajpat Nagar,5046,1.034,936,18.55
+Aryan Kapoor,Beginner,Morning,ZapKart Lajpat Nagar,5201,1.033,953,18.32
+Isha Tandon,Beginner,Morning,ZapKart Powai,5936,1.03,1060,17.86
+Aahana Rama,Beginner,Afternoon,ZapKart Indiranagar,5007,1.028,878,17.54
+Ekanta Keer,Beginner,Morning,ZapKart Andheri,5139,1.028,917,17.84
+Upma D’Alia,Beginner,Morning,ZapKart Dwarka,4974,1.027,888,17.85
+Hemani Babu,Beginner,Afternoon,ZapKart Powai,5827,1.024,1033,17.73
+Wahab Puri,Beginner,Morning,ZapKart Lajpat Nagar,5161,1.024,934,18.1
+Zilmil Basu,Beginner,Night,ZapKart Connaught Place,5353,1.023,886,16.55
+Ganga Palla,Beginner,Morning,ZapKart Bandra,5953,1.021,1105,18.56
+Azaan Mitter,Beginner,Morning,ZapKart Connaught Place,5299,1.021,904,17.06
+Oscar Jayaraman,Beginner,Night,ZapKart Koramangala,4909,1.017,849,17.29
+Sai Dara,Beginner,Night,ZapKart Koramangala,4904,1.015,918,18.72
+Tanmayi Sem,Beginner,Night,ZapKart Koramangala,4846,1.015,896,18.49
+Neel Vohra,Beginner,Night,ZapKart Whitefield,4374,1.008,760,17.38

@@ -1,0 +1,11 @@
+store_id,store_name,city,zone,latitude,longitude,store_area_sqft,max_picker_capacity,launch_date,monthly_fixed_cost_inr,catchment_radius_km,is_active,store_age_days,cost_per_sqft
+STR_001,ZapKart Koramangala,Bengaluru,South,12.9352,77.6245,2800,8,2022-01-15,485000,2.5,True,1509,173.21
+STR_002,ZapKart Indiranagar,Bengaluru,East,12.9784,77.6408,3200,10,2022-03-01,520000,3.0,True,1464,162.5
+STR_003,ZapKart Whitefield,Bengaluru,East,12.9698,77.75,2500,7,2022-06-10,410000,2.8,True,1363,164.0
+STR_004,ZapKart Bandra,Mumbai,West,19.0596,72.8295,3000,9,2022-02-01,610000,2.5,True,1492,203.33
+STR_005,ZapKart Andheri,Mumbai,West,19.1136,72.8697,2700,8,2022-04-15,540000,2.7,True,1419,200.0
+STR_006,ZapKart Powai,Mumbai,East,19.1197,72.9081,3500,11,2022-07-01,680000,3.2,True,1342,194.29
+STR_007,ZapKart Connaught Place,Delhi,Central,28.6315,77.2167,2900,9,2022-01-20,495000,2.3,True,1504,170.69
+STR_008,ZapKart Lajpat Nagar,Delhi,South,28.5677,77.2437,2600,8,2022-05-01,460000,2.6,True,1403,176.92
+STR_009,ZapKart Dwarka,Delhi,West,28.5921,77.0672,3100,10,2022-08-15,510000,2.9,True,1297,164.52
+STR_010,ZapKart Saket,Delhi,South,28.5244,77.2167,2800,9,2022-09-01,490000,2.4,True,1280,175.0

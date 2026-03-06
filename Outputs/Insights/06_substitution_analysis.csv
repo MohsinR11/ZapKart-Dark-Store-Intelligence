@@ -1,0 +1,49 @@
+original_category,same_category,reason_for_sub,total_subs,acceptance_rate_pct
+Dairy & Eggs,True,Expired,67,79.1
+Snacks & Confectionery,True,Damaged,100,79.0
+Fruits & Vegetables,True,Damaged,112,78.57
+Beverages,True,Damaged,106,78.3
+Snacks & Confectionery,True,Expired,63,77.78
+Packaged Food,True,Expired,73,76.71
+Dairy & Eggs,True,Damaged,84,76.19
+Snacks & Confectionery,True,Out of Stock,698,75.5
+Personal Care,True,Damaged,124,75.0
+Packaged Food,True,Damaged,106,74.53
+Beverages,True,Out of Stock,657,74.28
+Fruits & Vegetables,True,Out of Stock,609,74.06
+Personal Care,True,Expired,65,73.85
+Personal Care,True,Out of Stock,646,73.37
+Packaged Food,True,Out of Stock,633,72.67
+Household,True,Out of Stock,653,72.13
+Dairy & Eggs,True,Out of Stock,662,72.05
+Fruits & Vegetables,True,Expired,57,71.93
+Household,True,Damaged,101,71.29
+Household,True,Expired,80,71.25
+Baby & Kids,True,Out of Stock,622,70.74
+Beverages,True,Expired,61,68.85
+Baby & Kids,True,Damaged,108,66.67
+Baby & Kids,True,Expired,57,59.65
+Fruits & Vegetables,False,Damaged,803,43.71
+Dairy & Eggs,False,Damaged,821,43.36
+Beverages,False,Expired,463,42.76
+Packaged Food,False,Damaged,801,41.95
+Snacks & Confectionery,False,Out of Stock,4778,41.4
+Household,False,Out of Stock,4831,41.3
+Baby & Kids,False,Out of Stock,4625,41.21
+Personal Care,False,Expired,477,41.09
+Dairy & Eggs,False,Out of Stock,4583,40.63
+Dairy & Eggs,False,Expired,453,40.62
+Fruits & Vegetables,False,Out of Stock,4675,40.6
+Packaged Food,False,Out of Stock,4658,40.49
+Personal Care,False,Out of Stock,4714,40.41
+Baby & Kids,False,Damaged,878,40.21
+Packaged Food,False,Expired,451,40.13
+Beverages,False,Damaged,839,39.69
+Beverages,False,Out of Stock,4616,39.58
+Fruits & Vegetables,False,Expired,463,39.09
+Household,False,Damaged,844,38.98
+Personal Care,False,Damaged,834,38.73
+Baby & Kids,False,Expired,483,38.51
+Snacks & Confectionery,False,Damaged,848,37.97
+Household,False,Expired,461,34.49
+Snacks & Confectionery,False,Expired,453,33.55

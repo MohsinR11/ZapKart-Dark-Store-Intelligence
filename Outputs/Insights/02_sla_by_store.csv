@@ -1,0 +1,11 @@
+store_name,city,total_orders,avg_delivery_mins,avg_pick_mins,avg_travel_mins,sla_pct
+ZapKart Connaught Place,Delhi,42284,10.7,2.5,4.5,61.0
+ZapKart Whitefield,Bengaluru,29772,10.5,2.5,4.49,65.0
+ZapKart Dwarka,Delhi,40244,10.4,2.5,4.5,69.0
+ZapKart Andheri,Mumbai,40691,10.3,2.5,4.51,72.0
+ZapKart Lajpat Nagar,Delhi,36282,10.1,2.5,4.5,76.0
+ZapKart Koramangala,Bengaluru,39244,9.7,2.5,4.5,78.0
+ZapKart Indiranagar,Bengaluru,45238,10.0,2.51,4.51,82.0
+ZapKart Bandra,Mumbai,46967,9.8,2.5,4.51,85.0
+ZapKart Saket,Delhi,38704,9.6,2.5,4.51,88.0
+ZapKart Powai,Mumbai,52589,9.4,2.5,4.5,91.0

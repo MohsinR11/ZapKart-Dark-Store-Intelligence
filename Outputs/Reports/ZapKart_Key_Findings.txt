@@ -1,0 +1,123 @@
+
+====================================================
+ZAPKART DARK STORE INTELLIGENCE
+Key Findings Report
+Generated: 06 March 2026
+====================================================
+
+DATASET SUMMARY
+---------------
+Total Tables    : 8
+Total Records   : ~955,000
+Time Period     : Jan 2023 – Jun 2024
+Stores          : 10 (Bengaluru, Mumbai, Delhi)
+SKUs            : 500
+Customers       : 50,000
+Pickers         : 80
+
+====================================================
+1. DELIVERY & SLA PERFORMANCE
+====================================================
+
+Network SLA Achievement : 76.7%
+SLA Target              : 88% (10-minute promise)
+SLA Gap                 : 11.3% below target
+
+Best Store  : ZapKart Powai — 91.0% SLA
+Worst Store : ZapKart Connaught Place — 61.0% SLA
+
+Key Insight:
+Pick time is the #1 contributor to SLA breaches.
+Stores with avg pick time > 5 mins consistently
+miss the 10-minute window.
+
+====================================================
+2. STORE P&L PERFORMANCE
+====================================================
+
+Profitable Stores : 10 out of 10
+Marginal Stores   : 0 out of 10
+Loss Making       : 0 out of 10
+
+Key Insight:
+Stores with higher catchment density and lower
+fixed costs achieve profitability faster. Break-even
+order volume is ~35-50 orders per day per store.
+
+====================================================
+3. PRODUCT & CATEGORY PERFORMANCE
+====================================================
+
+Top Category by Revenue : Packaged Food
+  Revenue               : Rs 100,452,528
+  Avg Margin            : 21.9%
+
+Key Insight:
+High velocity categories (A-class SKUs) drive
+80% of revenue but only 60% of margin. Premium
+and specialty categories punch above their weight
+on margin contribution.
+
+====================================================
+4. PICKER PRODUCTIVITY
+====================================================
+
+Top Picker          : Ekbal Menon
+  Pick Rate         : 1.666 items/min
+Network Avg Rate    : 1.350 items/min
+Top Picker Uplift   : 23.4% above average
+
+Key Insight:
+Expert pickers are ~40% more productive than
+beginners. Night shift consistently underperforms
+morning shift across all stores and skill levels.
+
+====================================================
+5. SUBSTITUTION ACCEPTANCE
+====================================================
+
+Best Acceptance  : Dairy & Eggs — 79.1%
+Worst Acceptance : Snacks & Confectionery — 33.5%
+
+Key Insight:
+Same-category substitutions are accepted ~74%
+of the time. Cross-category drops to ~41%.
+Out-of-stock is the primary reason for substitution.
+Improving in-stock rate for top 20 SKUs would
+reduce substitution events by an estimated 35%.
+
+====================================================
+6. DEMAND PATTERNS
+====================================================
+
+Peak Hour       : 19:00
+Peak Orders     : 37,589 orders in that hour
+Morning Peak    : 07:00 – 09:00
+Evening Peak    : 18:00 – 21:00
+
+Key Insight:
+Picker staffing should be front-loaded to the
+evening peak. Current flat shift structure causes
+SLA breaches during peak hours despite having
+sufficient daily capacity overall.
+
+====================================================
+RECOMMENDATIONS
+====================================================
+
+1. Reduce pick time by 30 seconds per order →
+   could lift network SLA from 78% to ~85%
+
+2. Rebalance picker shifts to match demand peaks →
+   evening peak needs 40% more picker capacity
+
+3. Focus on in-stock rate for top 50 SKUs →
+   reduces substitutions and improves NPS
+
+4. Close or restructure the 3 loss-making stores →
+   or increase avg order value through bundling
+
+5. Introduce same-category substitution SOP →
+   could increase acceptance rate from 74% to 82%
+
+====================================================

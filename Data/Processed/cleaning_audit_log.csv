@@ -1,0 +1,10 @@
+table,issue_found,action_taken,rows_affected
+dim_stores,Added derived columns,"store_age_days, cost_per_sqft added",10
+dim_skus,Derived columns added,"gross_margin_pct_actual, is_high_margin added",499
+dim_customers,Extreme basket size > 985,Capped at 99th percentile,500
+dim_customers,Duplicate emails,Kept first occurrence,2390
+dim_customers,Derived columns added,tenure_days added,47610
+dim_pickers,Recalculated experience_months from join_date,experience_months updated,80
+fact_orders,Delivery time discrepancy in 79875 rows,Recalculated from components,79875
+fact_orders,SLA flag recalculated,Based on total_delivery_mins <= 10,453036
+fact_orders,Derived columns added,"gross_profit_inr, is_profitable, bands added",453036

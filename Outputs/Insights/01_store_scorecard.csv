@@ -1,0 +1,11 @@
+store_name,city,total_orders,revenue_lac,avg_delivery_mins,sla_pct,avg_profit_per_order
+ZapKart Powai,Mumbai,52589,174.6,9.4,11.6,266.42
+ZapKart Bandra,Mumbai,46967,155.0,9.8,9.7,266.65
+ZapKart Indiranagar,Bengaluru,45238,150.2,10.0,9.0,267.12
+ZapKart Connaught Place,Delhi,42284,140.3,10.7,6.3,268.63
+ZapKart Dwarka,Delhi,40244,134.2,10.4,6.7,268.82
+ZapKart Andheri,Mumbai,40691,134.2,10.3,7.1,267.57
+ZapKart Koramangala,Bengaluru,39244,129.1,9.7,7.4,266.6
+ZapKart Saket,Delhi,38704,128.4,9.6,8.3,268.8
+ZapKart Lajpat Nagar,Delhi,36282,120.4,10.1,6.7,268.5
+ZapKart Whitefield,Bengaluru,29772,99.0,10.5,4.7,267.89

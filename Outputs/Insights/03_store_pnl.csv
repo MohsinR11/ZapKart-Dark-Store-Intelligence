@@ -1,0 +1,11 @@
+store_name,city,avg_monthly_revenue,avg_monthly_profit,fixed_cost,store_status
+ZapKart Indiranagar,Bengaluru,834603.0,151329.0,520000,PROFITABLE
+ZapKart Connaught Place,Delhi,779346.0,136033.0,495000,PROFITABLE
+ZapKart Powai,Mumbai,969847.0,98390.0,680000,PROFITABLE
+ZapKart Koramangala,Bengaluru,717096.0,96255.0,485000,PROFITABLE
+ZapKart Dwarka,Delhi,745373.0,91016.0,510000,PROFITABLE
+ZapKart Saket,Delhi,713349.0,87987.0,490000,PROFITABLE
+ZapKart Bandra,Mumbai,861237.0,85772.0,610000,PROFITABLE
+ZapKart Lajpat Nagar,Delhi,668864.0,81213.0,460000,PROFITABLE
+ZapKart Andheri,Mumbai,745414.0,64878.0,540000,PROFITABLE
+ZapKart Whitefield,Bengaluru,549952.0,33088.0,410000,PROFITABLE
