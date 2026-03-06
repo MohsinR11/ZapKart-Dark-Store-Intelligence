@@ -122,7 +122,7 @@ ZapKart-DarkStore-Intelligence/
 | 4 | Picker Intelligence | Pick rate by store/skill/shift · Picker leaderboard with gradient |
 | 5 | Product Intelligence | Revenue by category · Revenue vs margin · Substitution donut |
 
-## Dashboard
+## Live Dashboard
 🔗 [Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1SCIJl-xWPg3X5E8BQNXbxzORUexviWnz/view?usp=sharing)
 
 All pages feature a **dark premium theme** (`#0F172A` background) with interactive slicers for City, Store, Date Range, Skill Level, and Shift.
