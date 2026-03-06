@@ -1,11 +1,5 @@
 # 🛒 ZapKart Dark Store Operations Intelligence
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 > An end-to-end data analytics project simulating real-world quick commerce operations — covering data generation, cleaning, SQL analysis, Excel reporting, and an interactive Power BI dashboard.
 
 ---
@@ -132,6 +126,21 @@ ZapKart-DarkStore-Intelligence/
 🔗 [Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1SCIJl-xWPg3X5E8BQNXbxzORUexviWnz/view?usp=sharing)
 
 All pages feature a **dark premium theme** (`#0F172A` background) with interactive slicers for City, Store, Date Range, Skill Level, and Shift.
+
+### Page 1 — Executive Overview
+![Executive Overview](https://github.com/MohsinR11/ZapKart-Dark-Store-Intelligence/blob/main/Dashboard%20Screenshots/Page%201%20Executive%20Overview.png)
+
+### Page 2 — Delivery & SLA Intelligence
+![Page 2 - Delivery & SLA](https://github.com/MohsinR11/ZapKart-Dark-Store-Intelligence/blob/main/Dashboard%20Screenshots/Page%202%20Delivery%20%26%20SLA.png)
+
+### Page 3 - Store P&L Intelligence
+![Page 3 - Store P&L](https://github.com/MohsinR11/ZapKart-Dark-Store-Intelligence/blob/main/Dashboard%20Screenshots/Page%203%20Store%20P%26L.png)
+
+### Page 4 - Picker Productivity Intelligence
+![Page 4 - Picker Intelligence](https://github.com/MohsinR11/ZapKart-Dark-Store-Intelligence/blob/main/Dashboard%20Screenshots/Page%204%20Picker%20Intelligence.png)
+
+### Page 5 - Product & Substitution Intelligence
+![Page 5 - Product Intelligence](https://github.com/MohsinR11/ZapKart-Dark-Store-Intelligence/blob/main/Dashboard%20Screenshots/Page%205%20Product%20Intelligence.png)
 
 ---
 
