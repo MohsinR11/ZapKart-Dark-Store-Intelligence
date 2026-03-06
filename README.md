@@ -1,6 +1,6 @@
 # 🛒 ZapKart Dark Store Operations Intelligence
 
-> An end-to-end data analytics project simulating real-world quick commerce operations — covering data generation, cleaning, SQL analysis, Excel reporting, and an interactive Power BI dashboard.
+> An end-to-end data analytics project simulating real-world quick commerce operations - covering data generation, cleaning, SQL analysis, Excel reporting, and an interactive Power BI dashboard.
 
 ---
 
@@ -8,7 +8,7 @@
 
 ZapKart is a fictional quick commerce company operating **10 dark stores** across **Bengaluru, Mumbai, and Delhi** with a **10-minute delivery promise**.
 
-This project replicates the exact analytics challenges faced by companies like **Zepto, Blinkit, and Swiggy Instamart** — from SLA monitoring and store profitability to picker productivity and substitution intelligence.
+This project replicates the exact analytics challenges faced by companies like **Zepto, Blinkit, and Swiggy Instamart** - from SLA monitoring and store profitability to picker productivity and substitution intelligence.
 
 ---
 
@@ -31,9 +31,9 @@ This project replicates the exact analytics challenges faced by companies like *
 Fully synthetic dataset generated using Python (NumPy + Faker) with realistic business logic:
 
 - Store-specific SLA profiles (61% to 91% achievement)
-- Hourly demand weights — morning (7–9 AM) and evening (6–9 PM) peaks
+- Hourly demand weights - morning (7–9 AM) and evening (6–9 PM) peaks
 - Weekend order multiplier (1.35×)
-- Festive season boost — Oct/Nov (1.45×)
+- Festive season boost - Oct/Nov (1.45×)
 - Skill-based picker efficiency (Beginner → Expert)
 - Same-category vs cross-category substitution acceptance rates
 
@@ -243,4 +243,4 @@ Built as a portfolio project targeting **Data Analyst roles** in Indian D2C and 
 
 ## 📄 License
 
-This project is for portfolio and educational purposes. The dataset is entirely synthetic — no real customer or business data is used.
+This project is for portfolio and educational purposes. The dataset is entirely synthetic - no real customer or business data is used.
