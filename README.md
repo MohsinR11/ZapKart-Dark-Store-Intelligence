@@ -127,10 +127,10 @@ ZapKart-DarkStore-Intelligence/
 
 All pages feature a **dark premium theme** (`#0F172A` background) with interactive slicers for City, Store, Date Range, Skill Level, and Shift.
 
-### Page 1 — Executive Overview
+### Page 1 - Executive Overview
 ![Executive Overview](https://github.com/MohsinR11/ZapKart-Dark-Store-Intelligence/blob/main/Dashboard%20Screenshots/Page%201%20Executive%20Overview.png)
 
-### Page 2 — Delivery & SLA Intelligence
+### Page 2 - Delivery & SLA Intelligence
 ![Page 2 - Delivery & SLA](https://github.com/MohsinR11/ZapKart-Dark-Store-Intelligence/blob/main/Dashboard%20Screenshots/Page%202%20Delivery%20%26%20SLA.png)
 
 ### Page 3 - Store P&L Intelligence
