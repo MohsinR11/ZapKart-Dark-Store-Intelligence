@@ -1,0 +1,500 @@
+sku_id,sku_name,category,subcategory,brand,unit_price_inr,mrp_inr,cost_price_inr,gross_margin_pct,weight_kg,shelf_life_days,requires_refrigeration,velocity_class,is_active,gross_margin_pct_actual,is_high_margin
+SKU_0001,Tomato 500g,Fruits & Vegetables,Fruits & Vegetables,"Choudhury,",55.0,66.0,45.0,0.18,0.53,4,True,A,True,0.1818,False
+SKU_0002,Onion 1kg,Fruits & Vegetables,Fruits & Vegetables,Kapoor,42.0,45.0,34.0,0.18,0.4,4,True,A,True,0.1905,False
+SKU_0003,Potato 1kg,Fruits & Vegetables,Fruits & Vegetables,"Chaudry,",77.0,81.0,63.0,0.18,0.64,4,True,A,True,0.1818,False
+SKU_0004,Banana 6pcs,Fruits & Vegetables,Fruits & Vegetables,Balan,60.0,73.0,49.0,0.18,0.41,4,True,A,True,0.1833,False
+SKU_0005,Apple 4pcs,Fruits & Vegetables,Fruits & Vegetables,Kaul,36.0,40.0,30.0,0.18,0.51,4,True,A,True,0.1667,False
+SKU_0006,Spinach 250g,Fruits & Vegetables,Fruits & Vegetables,"Bala,",36.0,41.0,30.0,0.18,0.44,4,True,A,True,0.1667,False
+SKU_0007,Capsicum 3pcs,Fruits & Vegetables,Fruits & Vegetables,Sen,25.0,28.0,20.0,0.18,0.46,4,True,A,True,0.2,False
+SKU_0008,Lemon 6pcs,Fruits & Vegetables,Fruits & Vegetables,Ahuja-Dutta,51.0,58.0,42.0,0.18,0.59,4,True,A,True,0.1765,False
+SKU_0009,Carrot 500g,Fruits & Vegetables,Fruits & Vegetables,"Sami,",46.0,54.0,38.0,0.18,0.36,4,True,A,True,0.1739,False
+SKU_0010,Cucumber 2pcs,Fruits & Vegetables,Fruits & Vegetables,Kale,17.0,20.0,14.0,0.18,0.4,4,True,A,True,0.1765,False
+SKU_0011,Coriander 100g,Fruits & Vegetables,Fruits & Vegetables,Chanda,33.0,39.0,27.0,0.18,0.48,4,True,A,True,0.1818,False
+SKU_0012,Ginger 100g,Fruits & Vegetables,Fruits & Vegetables,Parmer,39.0,42.0,32.0,0.18,0.5,4,True,A,True,0.1795,False
+SKU_0013,Garlic 100g,Fruits & Vegetables,Fruits & Vegetables,"Lalla,",61.0,68.0,50.0,0.18,0.51,4,True,A,True,0.1803,False
+SKU_0014,Green Chilli 100g,Fruits & Vegetables,Fruits & Vegetables,"Dash,",21.0,24.0,17.0,0.18,0.41,4,True,A,True,0.1905,False
+SKU_0015,Cauliflower 1pc,Fruits & Vegetables,Fruits & Vegetables,"Memon,",60.0,64.0,49.0,0.18,0.41,4,True,A,True,0.1833,False
+SKU_0016,Brinjal 500g,Fruits & Vegetables,Fruits & Vegetables,"Boase,",48.0,51.0,39.0,0.18,0.45,4,True,A,True,0.1875,False
+SKU_0017,Beans 250g,Fruits & Vegetables,Fruits & Vegetables,Buch-Kaul,15.0,18.0,12.0,0.18,0.46,4,True,A,True,0.2,False
+SKU_0018,Peas 250g,Fruits & Vegetables,Fruits & Vegetables,Rai,31.0,34.0,25.0,0.18,0.51,4,True,A,True,0.1935,False
+SKU_0019,Beetroot 2pcs,Fruits & Vegetables,Fruits & Vegetables,Patla-Gaba,51.0,54.0,42.0,0.18,0.65,4,True,A,True,0.1765,False
+SKU_0020,Mushroom 200g,Fruits & Vegetables,Fruits & Vegetables,Pant-Kadakia,37.0,45.0,30.0,0.18,0.41,4,True,A,True,0.1892,False
+SKU_0021,Tomato 500g Var2,Fruits & Vegetables,Fruits & Vegetables,"Loke,",66.0,79.0,54.0,0.18,0.37,4,True,A,True,0.1818,False
+SKU_0022,Onion 1kg Var3,Fruits & Vegetables,Fruits & Vegetables,"Konda,",64.0,72.0,52.0,0.18,0.38,4,True,A,True,0.1875,False
+SKU_0023,Potato 1kg Var4,Fruits & Vegetables,Fruits & Vegetables,Madan-Kanda,52.0,58.0,43.0,0.18,0.37,4,True,A,True,0.1731,False
+SKU_0024,Banana 6pcs Var5,Fruits & Vegetables,Fruits & Vegetables,"Nair,",65.0,72.0,53.0,0.18,0.45,4,True,A,True,0.1846,False
+SKU_0025,Apple 4pcs Var6,Fruits & Vegetables,Fruits & Vegetables,Mutti,61.0,75.0,50.0,0.18,0.49,4,True,A,True,0.1803,False
+SKU_0026,Spinach 250g Var7,Fruits & Vegetables,Fruits & Vegetables,Bhatti-Kakar,72.0,77.0,59.0,0.18,0.56,4,True,A,True,0.1806,False
+SKU_0027,Capsicum 3pcs Var8,Fruits & Vegetables,Fruits & Vegetables,"Murty,",52.0,63.0,43.0,0.18,0.5,4,True,A,True,0.1731,False
+SKU_0028,Lemon 6pcs Var9,Fruits & Vegetables,Fruits & Vegetables,Shanker-Dhar,76.0,88.0,62.0,0.18,0.48,4,True,A,True,0.1842,False
+SKU_0029,Carrot 500g Var10,Fruits & Vegetables,Fruits & Vegetables,Dewan-Koshy,47.0,52.0,39.0,0.18,0.5,4,True,A,True,0.1702,False
+SKU_0030,Cucumber 2pcs Var11,Fruits & Vegetables,Fruits & Vegetables,"Yohannan,",39.0,48.0,32.0,0.18,0.42,4,True,A,True,0.1795,False
+SKU_0031,Coriander 100g Var12,Fruits & Vegetables,Fruits & Vegetables,"Rastogi,",75.0,82.0,62.0,0.18,0.37,4,True,A,True,0.1733,False
+SKU_0032,Ginger 100g Var13,Fruits & Vegetables,Fruits & Vegetables,Upadhyay,35.0,39.0,29.0,0.18,0.4,4,True,A,True,0.1714,False
+SKU_0033,Garlic 100g Var14,Fruits & Vegetables,Fruits & Vegetables,Batta,63.0,76.0,52.0,0.18,0.41,4,True,A,True,0.1746,False
+SKU_0034,Green Chilli 100g Var15,Fruits & Vegetables,Fruits & Vegetables,Dutta,52.0,64.0,43.0,0.18,0.51,4,True,A,True,0.1731,False
+SKU_0035,Cauliflower 1pc Var16,Fruits & Vegetables,Fruits & Vegetables,Bhatt-Rajan,31.0,34.0,25.0,0.18,0.48,4,True,A,True,0.1935,False
+SKU_0036,Brinjal 500g Var17,Fruits & Vegetables,Fruits & Vegetables,Sidhu-Wadhwa,38.0,46.0,31.0,0.18,0.61,4,True,A,True,0.1842,False
+SKU_0037,Beans 250g Var18,Fruits & Vegetables,Fruits & Vegetables,Apte-Contractor,45.0,51.0,37.0,0.18,0.42,4,True,A,True,0.1778,False
+SKU_0038,Peas 250g Var19,Fruits & Vegetables,Fruits & Vegetables,"Yadav,",40.0,43.0,33.0,0.18,0.45,4,True,A,True,0.175,False
+SKU_0039,Beetroot 2pcs Var20,Fruits & Vegetables,Fruits & Vegetables,Memon,42.0,48.0,34.0,0.18,0.56,4,True,A,True,0.1905,False
+SKU_0040,Mushroom 200g Var21,Fruits & Vegetables,Fruits & Vegetables,Setty,53.0,60.0,43.0,0.18,0.64,4,True,A,True,0.1887,False
+SKU_0041,Tomato 500g Var22,Fruits & Vegetables,Fruits & Vegetables,"Lall,",10.0,11.0,8.0,0.18,0.36,4,True,A,True,0.2,False
+SKU_0042,Onion 1kg Var23,Fruits & Vegetables,Fruits & Vegetables,"Cherian,",44.0,52.0,36.0,0.18,0.5,4,True,A,True,0.1818,False
+SKU_0043,Potato 1kg Var24,Fruits & Vegetables,Fruits & Vegetables,"Issac,",41.0,44.0,34.0,0.18,0.5,4,True,A,True,0.1707,False
+SKU_0044,Banana 6pcs Var25,Fruits & Vegetables,Fruits & Vegetables,Zacharia,51.0,64.0,42.0,0.18,0.42,4,True,A,True,0.1765,False
+SKU_0045,Apple 4pcs Var26,Fruits & Vegetables,Fruits & Vegetables,Naik,68.0,75.0,56.0,0.18,0.57,4,True,A,True,0.1765,False
+SKU_0046,Spinach 250g Var27,Fruits & Vegetables,Fruits & Vegetables,Choudhury,60.0,67.0,49.0,0.18,0.54,4,True,A,True,0.1833,False
+SKU_0047,Capsicum 3pcs Var28,Fruits & Vegetables,Fruits & Vegetables,Khatri-Bhardwaj,57.0,61.0,47.0,0.18,0.6,4,True,A,True,0.1754,False
+SKU_0048,Lemon 6pcs Var29,Fruits & Vegetables,Fruits & Vegetables,Brar,89.0,99.0,73.0,0.18,0.41,4,True,A,True,0.1798,False
+SKU_0049,Carrot 500g Var30,Fruits & Vegetables,Fruits & Vegetables,"Sunder,",47.0,56.0,39.0,0.18,0.35,4,True,A,True,0.1702,False
+SKU_0050,Cucumber 2pcs Var31,Fruits & Vegetables,Fruits & Vegetables,Dave,35.0,40.0,29.0,0.18,0.42,4,True,A,True,0.1714,False
+SKU_0051,Coriander 100g Var32,Fruits & Vegetables,Fruits & Vegetables,Gandhi-Lanka,24.0,29.0,20.0,0.18,0.47,4,True,A,True,0.1667,False
+SKU_0052,Ginger 100g Var33,Fruits & Vegetables,Fruits & Vegetables,"Sampath,",54.0,67.0,44.0,0.18,0.39,4,True,A,True,0.1852,False
+SKU_0053,Garlic 100g Var34,Fruits & Vegetables,Fruits & Vegetables,"Iyer,",29.0,36.0,24.0,0.18,0.61,4,True,A,True,0.1724,False
+SKU_0054,Green Chilli 100g Var35,Fruits & Vegetables,Fruits & Vegetables,"Prakash,",39.0,43.0,32.0,0.18,0.55,4,True,A,True,0.1795,False
+SKU_0055,Cauliflower 1pc Var36,Fruits & Vegetables,Fruits & Vegetables,Dara-Kota,50.0,58.0,41.0,0.18,0.42,4,True,A,True,0.18,False
+SKU_0056,Brinjal 500g Var37,Fruits & Vegetables,Fruits & Vegetables,Bhatt,71.0,76.0,58.0,0.18,0.62,4,True,A,True,0.1831,False
+SKU_0057,Beans 250g Var38,Fruits & Vegetables,Fruits & Vegetables,Karpe,50.0,56.0,41.0,0.18,0.45,4,True,A,True,0.18,False
+SKU_0058,Peas 250g Var39,Fruits & Vegetables,Fruits & Vegetables,Amble,61.0,73.0,50.0,0.18,0.62,4,True,A,True,0.1803,False
+SKU_0059,Beetroot 2pcs Var40,Fruits & Vegetables,Fruits & Vegetables,"Bhargava,",50.0,59.0,41.0,0.18,0.38,4,True,A,True,0.18,False
+SKU_0060,Mushroom 200g Var41,Fruits & Vegetables,Fruits & Vegetables,Narayanan,52.0,56.0,43.0,0.18,0.62,4,True,A,True,0.1731,False
+SKU_0061,Tomato 500g Var42,Fruits & Vegetables,Fruits & Vegetables,"Khanna,",51.0,54.0,42.0,0.18,0.4,4,True,A,True,0.1765,False
+SKU_0062,Onion 1kg Var43,Fruits & Vegetables,Fruits & Vegetables,Zacharia,31.0,36.0,25.0,0.18,0.56,4,True,A,True,0.1935,False
+SKU_0063,Amul Milk 1L,Dairy & Eggs,Dairy & Eggs,"Solanki,",37.0,44.0,31.0,0.16,0.34,6,True,A,True,0.1622,False
+SKU_0064,Amul Butter 500g,Dairy & Eggs,Dairy & Eggs,Gupta-Chandra,111.0,124.0,93.0,0.16,0.46,6,True,A,True,0.1622,False
+SKU_0065,Amul Paneer 200g,Dairy & Eggs,Dairy & Eggs,Sankar,124.0,147.0,104.0,0.16,0.42,6,True,A,True,0.1613,False
+SKU_0066,Eggs 12pcs,Dairy & Eggs,Dairy & Eggs,Roy-Sibal,102.0,109.0,86.0,0.16,0.37,6,True,A,True,0.1569,False
+SKU_0067,Curd 400g,Dairy & Eggs,Dairy & Eggs,"Bhagat,",49.0,61.0,41.0,0.16,0.37,6,True,A,True,0.1633,False
+SKU_0068,Amul Cheese Slice 200g,Dairy & Eggs,Dairy & Eggs,Nori-Chopra,52.0,64.0,44.0,0.16,0.43,6,True,A,True,0.1538,False
+SKU_0069,Mother Dairy Lassi 200ml,Dairy & Eggs,Dairy & Eggs,Handa,86.0,100.0,72.0,0.16,0.4,6,True,A,True,0.1628,False
+SKU_0070,Ghee 500ml,Dairy & Eggs,Dairy & Eggs,"Sen,",143.0,156.0,120.0,0.16,0.45,6,True,A,True,0.1608,False
+SKU_0071,Condensed Milk 400g,Dairy & Eggs,Dairy & Eggs,Mallick,42.0,52.0,35.0,0.16,0.51,6,True,A,True,0.1667,False
+SKU_0072,Buttermilk 500ml,Dairy & Eggs,Dairy & Eggs,Borra,104.0,128.0,87.0,0.16,0.37,6,True,A,True,0.1635,False
+SKU_0073,Mozzarella 200g,Dairy & Eggs,Dairy & Eggs,"Chaudhari,",104.0,129.0,87.0,0.16,0.48,6,True,A,True,0.1635,False
+SKU_0074,Cream 200ml,Dairy & Eggs,Dairy & Eggs,Chander,82.0,91.0,69.0,0.16,0.37,6,True,A,True,0.1585,False
+SKU_0075,Whipped Cream 250ml,Dairy & Eggs,Dairy & Eggs,Ray,67.0,73.0,56.0,0.16,0.41,6,True,A,True,0.1642,False
+SKU_0076,Flavoured Milk 200ml,Dairy & Eggs,Dairy & Eggs,Kala-Rattan,119.0,147.0,100.0,0.16,0.45,6,True,A,True,0.1597,False
+SKU_0077,Tofu 200g,Dairy & Eggs,Dairy & Eggs,Gala,50.0,59.0,42.0,0.16,0.52,6,True,A,True,0.16,False
+SKU_0078,Amul Milk 1L Var2,Dairy & Eggs,Dairy & Eggs,Ramakrishnan,91.0,98.0,76.0,0.16,0.4,6,True,A,True,0.1648,False
+SKU_0079,Amul Butter 500g Var3,Dairy & Eggs,Dairy & Eggs,Mangal-Sampath,99.0,118.0,83.0,0.16,0.45,6,True,A,True,0.1616,False
+SKU_0080,Amul Paneer 200g Var4,Dairy & Eggs,Dairy & Eggs,"Sur,",107.0,120.0,90.0,0.16,0.35,6,True,A,True,0.1589,False
+SKU_0081,Eggs 12pcs Var5,Dairy & Eggs,Dairy & Eggs,Kalla-Bhardwaj,106.0,130.0,89.0,0.16,0.5,6,True,A,True,0.1604,False
+SKU_0082,Curd 400g Var6,Dairy & Eggs,Dairy & Eggs,"Bhat,",106.0,122.0,89.0,0.16,0.4,6,True,A,True,0.1604,False
+SKU_0083,Amul Cheese Slice 200g Var7,Dairy & Eggs,Dairy & Eggs,Sood,108.0,129.0,91.0,0.16,0.47,6,True,A,True,0.1574,False
+SKU_0084,Mother Dairy Lassi 200ml Var8,Dairy & Eggs,Dairy & Eggs,"Dugar,",130.0,160.0,109.0,0.16,0.36,6,True,A,True,0.1615,False
+SKU_0085,Ghee 500ml Var9,Dairy & Eggs,Dairy & Eggs,Grewal,54.0,63.0,45.0,0.16,0.29,6,True,A,True,0.1667,False
+SKU_0086,Condensed Milk 400g Var10,Dairy & Eggs,Dairy & Eggs,"Bir,",76.0,87.0,64.0,0.16,0.41,6,True,A,True,0.1579,False
+SKU_0087,Buttermilk 500ml Var11,Dairy & Eggs,Dairy & Eggs,Koshy,112.0,118.0,94.0,0.16,0.29,6,True,A,True,0.1607,False
+SKU_0088,Mozzarella 200g Var12,Dairy & Eggs,Dairy & Eggs,"Baral,",20.0,24.0,17.0,0.16,0.37,6,True,A,True,0.15,False
+SKU_0089,Cream 200ml Var13,Dairy & Eggs,Dairy & Eggs,"Virk,",88.0,106.0,74.0,0.16,0.33,6,True,A,True,0.1591,False
+SKU_0090,Whipped Cream 250ml Var14,Dairy & Eggs,Dairy & Eggs,Murthy,42.0,49.0,35.0,0.16,0.3,6,True,A,True,0.1667,False
+SKU_0091,Flavoured Milk 200ml Var15,Dairy & Eggs,Dairy & Eggs,Randhawa-Deep,87.0,101.0,73.0,0.16,0.43,6,True,A,True,0.1609,False
+SKU_0092,Tofu 200g Var16,Dairy & Eggs,Dairy & Eggs,"Mital,",59.0,71.0,50.0,0.16,0.51,6,True,A,True,0.1525,False
+SKU_0093,Amul Milk 1L Var17,Dairy & Eggs,Dairy & Eggs,Andra,10.0,12.0,8.0,0.16,0.34,6,True,A,True,0.2,False
+SKU_0094,Amul Butter 500g Var18,Dairy & Eggs,Dairy & Eggs,"Chaudhry,",92.0,105.0,77.0,0.16,0.3,6,True,A,True,0.163,False
+SKU_0095,Amul Paneer 200g Var19,Dairy & Eggs,Dairy & Eggs,Toor,105.0,119.0,88.0,0.16,0.32,6,True,A,True,0.1619,False
+SKU_0096,Eggs 12pcs Var20,Dairy & Eggs,Dairy & Eggs,Palla,120.0,130.0,101.0,0.16,0.34,6,True,A,True,0.1583,False
+SKU_0097,Curd 400g Var21,Dairy & Eggs,Dairy & Eggs,Pingle,156.0,184.0,131.0,0.16,0.35,6,True,A,True,0.1603,False
+SKU_0098,Amul Cheese Slice 200g Var22,Dairy & Eggs,Dairy & Eggs,Sarma,101.0,125.0,85.0,0.16,0.46,6,True,A,True,0.1584,False
+SKU_0099,Mother Dairy Lassi 200ml Var23,Dairy & Eggs,Dairy & Eggs,"Mittal,",170.0,193.0,143.0,0.16,0.34,6,True,A,True,0.1588,False
+SKU_0100,Ghee 500ml Var24,Dairy & Eggs,Dairy & Eggs,"Mistry,",126.0,141.0,106.0,0.16,0.46,6,True,A,True,0.1587,False
+SKU_0101,Condensed Milk 400g Var25,Dairy & Eggs,Dairy & Eggs,D’Alia-Chhabra,103.0,118.0,87.0,0.16,0.3,6,True,A,True,0.1553,False
+SKU_0102,Buttermilk 500ml Var26,Dairy & Eggs,Dairy & Eggs,"Dugal,",116.0,133.0,97.0,0.16,0.39,6,True,A,True,0.1638,False
+SKU_0103,Mozzarella 200g Var27,Dairy & Eggs,Dairy & Eggs,"Kade,",75.0,85.0,63.0,0.16,0.43,6,True,A,True,0.16,False
+SKU_0104,Cream 200ml Var28,Dairy & Eggs,Dairy & Eggs,"Lalla,",35.0,41.0,29.0,0.16,0.29,6,True,A,True,0.1714,False
+SKU_0105,Whipped Cream 250ml Var29,Dairy & Eggs,Dairy & Eggs,Behl-Chanda,143.0,165.0,120.0,0.16,0.49,6,True,A,True,0.1608,False
+SKU_0106,Flavoured Milk 200ml Var30,Dairy & Eggs,Dairy & Eggs,"Sampath,",28.0,33.0,24.0,0.16,0.32,6,True,A,True,0.1429,False
+SKU_0107,Tofu 200g Var31,Dairy & Eggs,Dairy & Eggs,Nath,93.0,98.0,78.0,0.16,0.42,6,True,A,True,0.1613,False
+SKU_0108,Amul Milk 1L Var32,Dairy & Eggs,Dairy & Eggs,"Lala,",61.0,76.0,51.0,0.16,0.42,6,True,A,True,0.1639,False
+SKU_0109,Amul Butter 500g Var33,Dairy & Eggs,Dairy & Eggs,"Sane,",148.0,169.0,124.0,0.16,0.41,6,True,A,True,0.1622,False
+SKU_0110,Amul Paneer 200g Var34,Dairy & Eggs,Dairy & Eggs,Dixit,35.0,43.0,29.0,0.16,0.37,6,True,A,True,0.1714,False
+SKU_0111,Eggs 12pcs Var35,Dairy & Eggs,Dairy & Eggs,Pingle,96.0,102.0,81.0,0.16,0.36,6,True,A,True,0.1562,False
+SKU_0112,Curd 400g Var36,Dairy & Eggs,Dairy & Eggs,"Divan,",60.0,73.0,50.0,0.16,0.29,6,True,A,True,0.1667,False
+SKU_0113,Amul Cheese Slice 200g Var37,Dairy & Eggs,Dairy & Eggs,Morar,61.0,65.0,51.0,0.16,0.45,6,True,A,True,0.1639,False
+SKU_0114,Mother Dairy Lassi 200ml Var38,Dairy & Eggs,Dairy & Eggs,Parmar,119.0,140.0,100.0,0.16,0.49,6,True,A,True,0.1597,False
+SKU_0115,Ghee 500ml Var39,Dairy & Eggs,Dairy & Eggs,"Krish,",118.0,131.0,99.0,0.16,0.32,6,True,A,True,0.161,False
+SKU_0116,Condensed Milk 400g Var40,Dairy & Eggs,Dairy & Eggs,"Ray,",110.0,132.0,92.0,0.16,0.47,6,True,A,True,0.1636,False
+SKU_0117,Buttermilk 500ml Var41,Dairy & Eggs,Dairy & Eggs,Goel,84.0,94.0,71.0,0.16,0.47,6,True,A,True,0.1548,False
+SKU_0118,Mozzarella 200g Var42,Dairy & Eggs,Dairy & Eggs,Gola,90.0,101.0,76.0,0.16,0.5,6,True,A,True,0.1556,False
+SKU_0119,Cream 200ml Var43,Dairy & Eggs,Dairy & Eggs,Sabharwal-Kothari,76.0,91.0,64.0,0.16,0.46,6,True,A,True,0.1579,False
+SKU_0120,Whipped Cream 250ml Var44,Dairy & Eggs,Dairy & Eggs,Dutta-Chokshi,129.0,138.0,108.0,0.16,0.5,6,True,A,True,0.1628,False
+SKU_0121,Flavoured Milk 200ml Var45,Dairy & Eggs,Dairy & Eggs,Barad-Singhal,137.0,153.0,115.0,0.16,0.49,6,True,A,True,0.1606,False
+SKU_0122,Tofu 200g Var46,Dairy & Eggs,Dairy & Eggs,Iyengar,86.0,97.0,72.0,0.16,0.28,6,True,A,True,0.1628,False
+SKU_0123,Amul Milk 1L Var47,Dairy & Eggs,Dairy & Eggs,Mody-Kari,98.0,122.0,82.0,0.16,0.42,6,True,A,True,0.1633,False
+SKU_0124,Amul Butter 500g Var48,Dairy & Eggs,Dairy & Eggs,Bajwa,80.0,94.0,67.0,0.16,0.39,6,True,A,True,0.1625,False
+SKU_0125,Maggi 2-min Noodles 4pk,Packaged Food,Packaged Food,Rastogi,40.0,47.0,31.0,0.22,1.15,180,False,A,True,0.225,False
+SKU_0126,Aashirvaad Atta 5kg,Packaged Food,Packaged Food,Boase-Mallick,23.0,28.0,18.0,0.22,1.17,180,False,A,True,0.2174,False
+SKU_0127,Tata Salt 1kg,Packaged Food,Packaged Food,Upadhyay-Ratta,119.0,126.0,93.0,0.22,1.03,180,False,A,True,0.2185,False
+SKU_0128,Fortune Sunflower Oil 1L,Packaged Food,Packaged Food,"Yadav,",48.0,55.0,37.0,0.22,1.23,180,False,A,True,0.2292,False
+SKU_0129,Parle-G Biscuits 800g,Packaged Food,Packaged Food,Lal,54.0,58.0,42.0,0.22,1.16,180,False,A,True,0.2222,False
+SKU_0130,Britannia Bread White,Packaged Food,Packaged Food,"Lanka,",94.0,110.0,73.0,0.22,0.76,180,False,A,True,0.2234,False
+SKU_0131,Haldirams Namkeen 400g,Packaged Food,Packaged Food,"Saraf,",140.0,149.0,109.0,0.22,1.19,180,False,A,True,0.2214,False
+SKU_0132,MDH Chaat Masala,Packaged Food,Packaged Food,Vaidya-D’Alia,79.0,94.0,62.0,0.22,0.75,180,False,A,True,0.2152,False
+SKU_0133,Kissan Jam 500g,Packaged Food,Packaged Food,Gupta-Kumar,10.0,12.0,8.0,0.22,1.27,180,False,A,True,0.2,False
+SKU_0134,Heinz Ketchup 500g,Packaged Food,Packaged Food,Sarin,10.0,12.0,8.0,0.22,1.15,180,False,A,True,0.2,False
+SKU_0135,Lays Classic 90g,Packaged Food,Packaged Food,"Yohannan,",63.0,76.0,49.0,0.22,1.04,180,False,A,True,0.2222,False
+SKU_0136,Kurkure Masala 90g,Packaged Food,Packaged Food,Boase-Narayanan,103.0,117.0,80.0,0.22,1.24,180,False,A,True,0.2233,False
+SKU_0137,Cornflakes 500g,Packaged Food,Packaged Food,"Murthy,",118.0,124.0,92.0,0.22,0.98,180,False,A,True,0.2203,False
+SKU_0138,Oats 500g,Packaged Food,Packaged Food,"More,",40.0,42.0,31.0,0.22,0.77,180,False,A,True,0.225,False
+SKU_0139,Poha 500g,Packaged Food,Packaged Food,Merchant-Datta,146.0,175.0,114.0,0.22,1.05,180,False,A,True,0.2192,False
+SKU_0140,Rajma 500g,Packaged Food,Packaged Food,Salvi,54.0,67.0,42.0,0.22,0.92,180,False,A,True,0.2222,False
+SKU_0141,Chana Dal 500g,Packaged Food,Packaged Food,Ghosh-Mitra,175.0,192.0,136.0,0.22,1.28,180,False,A,True,0.2229,False
+SKU_0142,Basmati Rice 5kg,Packaged Food,Packaged Food,Acharya-Modi,88.0,93.0,69.0,0.22,1.28,180,False,A,True,0.2159,False
+SKU_0143,Semolina 500g,Packaged Food,Packaged Food,Kade-Sani,138.0,147.0,108.0,0.22,1.03,180,False,A,True,0.2174,False
+SKU_0144,Besan 500g,Packaged Food,Packaged Food,"Nagy,",121.0,151.0,94.0,0.22,1.01,180,False,A,True,0.2231,False
+SKU_0145,Maggi 2-min Noodles 4pk Var2,Packaged Food,Packaged Food,Kala-Vaidya,236.0,269.0,184.0,0.22,1.08,180,False,A,True,0.2203,False
+SKU_0146,Aashirvaad Atta 5kg Var3,Packaged Food,Packaged Food,Gara-Chad,197.0,230.0,154.0,0.22,1.24,180,False,A,True,0.2183,False
+SKU_0147,Tata Salt 1kg Var4,Packaged Food,Packaged Food,Varma-Nayak,295.0,326.0,230.0,0.22,0.81,180,False,A,True,0.2203,False
+SKU_0148,Fortune Sunflower Oil 1L Var5,Packaged Food,Packaged Food,Keer,55.0,63.0,43.0,0.22,0.91,180,False,A,True,0.2182,False
+SKU_0149,Parle-G Biscuits 800g Var6,Packaged Food,Packaged Food,Kar-Issac,59.0,73.0,46.0,0.22,1.29,180,False,A,True,0.2203,False
+SKU_0150,Britannia Bread White Var7,Packaged Food,Packaged Food,Bakshi,132.0,157.0,103.0,0.22,1.02,180,False,A,True,0.2197,False
+SKU_0151,Haldirams Namkeen 400g Var8,Packaged Food,Packaged Food,Soman,196.0,233.0,153.0,0.22,0.8,180,False,A,True,0.2194,False
+SKU_0152,MDH Chaat Masala Var9,Packaged Food,Packaged Food,Shah,74.0,91.0,58.0,0.22,1.19,180,False,A,True,0.2162,False
+SKU_0153,Kissan Jam 500g Var10,Packaged Food,Packaged Food,"Hayer,",14.0,17.0,11.0,0.22,1.22,180,False,A,True,0.2143,False
+SKU_0154,Heinz Ketchup 500g Var11,Packaged Food,Packaged Food,Kohli-Divan,267.0,283.0,208.0,0.22,0.72,180,False,A,True,0.221,False
+SKU_0155,Lays Classic 90g Var12,Packaged Food,Packaged Food,"Ahluwalia,",214.0,267.0,167.0,0.22,0.79,180,False,A,True,0.2196,False
+SKU_0156,Kurkure Masala 90g Var13,Packaged Food,Packaged Food,Goda,82.0,96.0,64.0,0.22,0.93,180,False,A,True,0.2195,False
+SKU_0157,Cornflakes 500g Var14,Packaged Food,Packaged Food,"Shetty,",111.0,126.0,87.0,0.22,0.86,180,False,A,True,0.2162,False
+SKU_0158,Oats 500g Var15,Packaged Food,Packaged Food,Shan,219.0,232.0,171.0,0.22,1.22,180,False,A,True,0.2192,False
+SKU_0159,Poha 500g Var16,Packaged Food,Packaged Food,Wali-Nadig,120.0,144.0,94.0,0.22,1.27,180,False,A,True,0.2167,False
+SKU_0160,Rajma 500g Var17,Packaged Food,Packaged Food,Thaman-Sandhu,124.0,151.0,97.0,0.22,0.85,180,False,A,True,0.2177,False
+SKU_0161,Chana Dal 500g Var18,Packaged Food,Packaged Food,"Sehgal,",35.0,43.0,27.0,0.22,1.06,180,False,A,True,0.2286,False
+SKU_0162,Basmati Rice 5kg Var19,Packaged Food,Packaged Food,Lad-Kota,109.0,119.0,85.0,0.22,1.1,180,False,A,True,0.2202,False
+SKU_0163,Semolina 500g Var20,Packaged Food,Packaged Food,"Malhotra,",10.0,11.0,8.0,0.22,1.1,180,False,A,True,0.2,False
+SKU_0164,Besan 500g Var21,Packaged Food,Packaged Food,"Khare,",222.0,256.0,173.0,0.22,1.16,180,False,A,True,0.2207,False
+SKU_0165,Maggi 2-min Noodles 4pk Var22,Packaged Food,Packaged Food,Mangal,214.0,248.0,167.0,0.22,1.04,180,False,A,True,0.2196,False
+SKU_0166,Aashirvaad Atta 5kg Var23,Packaged Food,Packaged Food,Nayak-Nagarajan,125.0,153.0,98.0,0.22,0.94,180,False,A,True,0.216,False
+SKU_0167,Tata Salt 1kg Var24,Packaged Food,Packaged Food,"Buch,",172.0,205.0,134.0,0.22,0.83,180,False,A,True,0.2209,False
+SKU_0168,Fortune Sunflower Oil 1L Var25,Packaged Food,Packaged Food,Rajagopal,229.0,247.0,179.0,0.22,0.71,180,False,A,True,0.2183,False
+SKU_0169,Parle-G Biscuits 800g Var26,Packaged Food,Packaged Food,Kala,205.0,231.0,160.0,0.22,0.96,180,False,A,True,0.2195,False
+SKU_0170,Britannia Bread White Var27,Packaged Food,Packaged Food,Reddy-Narayanan,10.0,12.0,8.0,0.22,0.91,180,False,A,True,0.2,False
+SKU_0171,Haldirams Namkeen 400g Var28,Packaged Food,Packaged Food,"Shukla,",240.0,271.0,187.0,0.22,1.07,180,False,A,True,0.2208,False
+SKU_0172,MDH Chaat Masala Var29,Packaged Food,Packaged Food,Salvi,126.0,154.0,98.0,0.22,1.27,180,False,A,True,0.2222,False
+SKU_0173,Kissan Jam 500g Var30,Packaged Food,Packaged Food,"Bahri,",10.0,11.0,8.0,0.22,1.29,180,False,A,True,0.2,False
+SKU_0174,Heinz Ketchup 500g Var31,Packaged Food,Packaged Food,Pandey,116.0,133.0,90.0,0.22,0.9,180,False,A,True,0.2241,False
+SKU_0175,Lays Classic 90g Var32,Packaged Food,Packaged Food,Saini-Yohannan,16.0,17.0,12.0,0.22,0.78,180,False,A,True,0.25,False
+SKU_0176,Kurkure Masala 90g Var33,Packaged Food,Packaged Food,"Kannan,",174.0,187.0,136.0,0.22,0.79,180,False,A,True,0.2184,False
+SKU_0177,Cornflakes 500g Var34,Packaged Food,Packaged Food,Sarin-Sunder,149.0,162.0,116.0,0.22,0.91,180,False,A,True,0.2215,False
+SKU_0178,Oats 500g Var35,Packaged Food,Packaged Food,Ramachandran,45.0,55.0,35.0,0.22,0.98,180,False,A,True,0.2222,False
+SKU_0179,Poha 500g Var36,Packaged Food,Packaged Food,"Ravel,",41.0,45.0,32.0,0.22,0.72,180,False,A,True,0.2195,False
+SKU_0180,Rajma 500g Var37,Packaged Food,Packaged Food,Walla,160.0,173.0,125.0,0.22,0.87,180,False,A,True,0.2188,False
+SKU_0181,Chana Dal 500g Var38,Packaged Food,Packaged Food,Bala-Chacko,111.0,121.0,87.0,0.22,0.92,180,False,A,True,0.2162,False
+SKU_0182,Basmati Rice 5kg Var39,Packaged Food,Packaged Food,"Sangha,",37.0,43.0,29.0,0.22,1.11,180,False,A,True,0.2162,False
+SKU_0183,Semolina 500g Var40,Packaged Food,Packaged Food,Bedi,64.0,78.0,50.0,0.22,1.25,180,False,A,True,0.2188,False
+SKU_0184,Besan 500g Var41,Packaged Food,Packaged Food,Narang-Kakar,137.0,146.0,107.0,0.22,0.87,180,False,A,True,0.219,False
+SKU_0185,Maggi 2-min Noodles 4pk Var42,Packaged Food,Packaged Food,Narain-Nazareth,169.0,184.0,132.0,0.22,0.83,180,False,A,True,0.2189,False
+SKU_0186,Aashirvaad Atta 5kg Var43,Packaged Food,Packaged Food,Mall-Sama,181.0,203.0,141.0,0.22,0.99,180,False,A,True,0.221,False
+SKU_0187,Coca Cola 2L,Beverages,Beverages,Bumb-Singhal,12.0,14.0,10.0,0.2,1.38,365,False,B,True,0.1667,False
+SKU_0188,Pepsi 2L,Beverages,Beverages,Zacharia,170.0,180.0,136.0,0.2,1.02,365,False,B,True,0.2,False
+SKU_0189,Sprite 1.5L,Beverages,Beverages,Kapur-Biswas,127.0,146.0,102.0,0.2,1.22,365,False,B,True,0.1969,False
+SKU_0190,Red Bull 250ml,Beverages,Beverages,"Baria,",112.0,120.0,90.0,0.2,1.16,365,False,B,True,0.1964,False
+SKU_0191,Paper Boat Aam Panna 200ml,Beverages,Beverages,Bahri,10.0,11.0,8.0,0.2,1.11,365,False,B,True,0.2,False
+SKU_0192,Tropicana Orange 1L,Beverages,Beverages,Khare,106.0,112.0,85.0,0.2,1.07,365,False,B,True,0.1981,False
+SKU_0193,Real Juice Mixed Fruit 1L,Beverages,Beverages,Contractor-Kamdar,59.0,63.0,47.0,0.2,1.48,365,False,B,True,0.2034,False
+SKU_0194,Bisleri Water 1L,Beverages,Beverages,Kunda-Pillay,36.0,42.0,29.0,0.2,1.33,365,False,B,True,0.1944,False
+SKU_0195,Tata Tea Premium 500g,Beverages,Beverages,Contractor,95.0,101.0,76.0,0.2,1.23,365,False,B,True,0.2,False
+SKU_0196,Nescafe Classic 50g,Beverages,Beverages,Chokshi-Bal,176.0,205.0,141.0,0.2,1.38,365,False,B,True,0.1989,False
+SKU_0197,Horlicks 500g,Beverages,Beverages,Prashad-Ranganathan,38.0,42.0,30.0,0.2,1.1,365,False,B,True,0.2105,False
+SKU_0198,Boost 500g,Beverages,Beverages,"Issac,",85.0,100.0,68.0,0.2,1.25,365,False,B,True,0.2,False
+SKU_0199,Complan 500g,Beverages,Beverages,Mitra,18.0,19.0,14.0,0.2,0.95,365,False,B,True,0.2222,False
+SKU_0200,Green Tea 25bags,Beverages,Beverages,"Dara,",126.0,138.0,101.0,0.2,0.96,365,False,B,True,0.1984,False
+SKU_0201,Minute Maid Pulpy Orange 1L,Beverages,Beverages,"Sangha,",62.0,67.0,50.0,0.2,1.49,365,False,B,True,0.1935,False
+SKU_0202,Coca Cola 2L Var2,Beverages,Beverages,"Om,",47.0,50.0,38.0,0.2,1.22,365,False,B,True,0.1915,False
+SKU_0203,Pepsi 2L Var3,Beverages,Beverages,Cherian-Sant,110.0,118.0,88.0,0.2,1.13,365,False,B,True,0.2,False
+SKU_0204,Sprite 1.5L Var4,Beverages,Beverages,Sharaf-Dua,92.0,114.0,74.0,0.2,1.46,365,False,B,True,0.1957,False
+SKU_0205,Red Bull 250ml Var5,Beverages,Beverages,Goda-Vig,63.0,68.0,50.0,0.2,1.32,365,False,B,True,0.2063,False
+SKU_0206,Paper Boat Aam Panna 200ml Var6,Beverages,Beverages,"Madan,",137.0,169.0,110.0,0.2,1.24,365,False,B,True,0.1971,False
+SKU_0207,Tropicana Orange 1L Var7,Beverages,Beverages,Sarin-Loyal,10.0,12.0,8.0,0.2,0.97,365,False,B,True,0.2,False
+SKU_0208,Real Juice Mixed Fruit 1L Var8,Beverages,Beverages,Korpal-Chadha,125.0,139.0,100.0,0.2,1.15,365,False,B,True,0.2,False
+SKU_0209,Bisleri Water 1L Var9,Beverages,Beverages,Seshadri-Kohli,10.0,11.0,8.0,0.2,1.28,365,False,B,True,0.2,False
+SKU_0210,Tata Tea Premium 500g Var10,Beverages,Beverages,Raghavan-Nayar,98.0,109.0,78.0,0.2,1.26,365,False,B,True,0.2041,False
+SKU_0211,Nescafe Classic 50g Var11,Beverages,Beverages,Talwar,91.0,105.0,73.0,0.2,0.88,365,False,B,True,0.1978,False
+SKU_0212,Horlicks 500g Var12,Beverages,Beverages,Sura,28.0,31.0,22.0,0.2,0.94,365,False,B,True,0.2143,False
+SKU_0213,Boost 500g Var13,Beverages,Beverages,Kuruvilla-Oak,150.0,165.0,120.0,0.2,1.33,365,False,B,True,0.2,False
+SKU_0214,Complan 500g Var14,Beverages,Beverages,Majumdar-Anne,63.0,76.0,50.0,0.2,1.27,365,False,B,True,0.2063,False
+SKU_0215,Green Tea 25bags Var15,Beverages,Beverages,"Halder,",10.0,11.0,8.0,0.2,1.51,365,False,B,True,0.2,False
+SKU_0216,Minute Maid Pulpy Orange 1L Var16,Beverages,Beverages,"Ray,",51.0,62.0,41.0,0.2,1.53,365,False,B,True,0.1961,False
+SKU_0217,Coca Cola 2L Var17,Beverages,Beverages,"Soni,",115.0,142.0,92.0,0.2,0.97,365,False,B,True,0.2,False
+SKU_0218,Pepsi 2L Var18,Beverages,Beverages,Chander,62.0,66.0,50.0,0.2,1.37,365,False,B,True,0.1935,False
+SKU_0219,Sprite 1.5L Var19,Beverages,Beverages,Ravel,159.0,171.0,127.0,0.2,1.41,365,False,B,True,0.2013,False
+SKU_0220,Red Bull 250ml Var20,Beverages,Beverages,Mohan,109.0,119.0,87.0,0.2,0.96,365,False,B,True,0.2018,False
+SKU_0221,Paper Boat Aam Panna 200ml Var21,Beverages,Beverages,"Pillay,",117.0,138.0,94.0,0.2,1.22,365,False,B,True,0.1966,False
+SKU_0222,Tropicana Orange 1L Var22,Beverages,Beverages,Sandal-Narayanan,72.0,81.0,58.0,0.2,1.47,365,False,B,True,0.1944,False
+SKU_0223,Real Juice Mixed Fruit 1L Var23,Beverages,Beverages,Setty-Madan,161.0,183.0,129.0,0.2,1.11,365,False,B,True,0.1988,False
+SKU_0224,Bisleri Water 1L Var24,Beverages,Beverages,Krishnamurthy-Kashyap,73.0,83.0,58.0,0.2,1.06,365,False,B,True,0.2055,False
+SKU_0225,Tata Tea Premium 500g Var25,Beverages,Beverages,Hans,96.0,105.0,77.0,0.2,1.49,365,False,B,True,0.1979,False
+SKU_0226,Nescafe Classic 50g Var26,Beverages,Beverages,Wason,187.0,211.0,150.0,0.2,1.23,365,False,B,True,0.1979,False
+SKU_0227,Horlicks 500g Var27,Beverages,Beverages,Handa,108.0,116.0,86.0,0.2,1.52,365,False,B,True,0.2037,False
+SKU_0228,Boost 500g Var28,Beverages,Beverages,"Sule,",137.0,161.0,110.0,0.2,1.08,365,False,B,True,0.1971,False
+SKU_0229,Complan 500g Var29,Beverages,Beverages,"Mandal,",114.0,134.0,91.0,0.2,1.22,365,False,B,True,0.2018,False
+SKU_0230,Green Tea 25bags Var30,Beverages,Beverages,Karan-Patel,72.0,88.0,58.0,0.2,1.41,365,False,B,True,0.1944,False
+SKU_0231,Minute Maid Pulpy Orange 1L Var31,Beverages,Beverages,Mittal,70.0,77.0,56.0,0.2,1.38,365,False,B,True,0.2,False
+SKU_0232,Coca Cola 2L Var32,Beverages,Beverages,"Walla,",48.0,51.0,38.0,0.2,1.25,365,False,B,True,0.2083,False
+SKU_0233,Pepsi 2L Var33,Beverages,Beverages,Bhagat,121.0,135.0,97.0,0.2,1.43,365,False,B,True,0.1983,False
+SKU_0234,Sprite 1.5L Var34,Beverages,Beverages,Date-Swaminathan,113.0,121.0,90.0,0.2,1.45,365,False,B,True,0.2035,False
+SKU_0235,Red Bull 250ml Var35,Beverages,Beverages,Arora,80.0,97.0,64.0,0.2,0.95,365,False,B,True,0.2,False
+SKU_0236,Paper Boat Aam Panna 200ml Var36,Beverages,Beverages,Singh-Srinivas,41.0,45.0,33.0,0.2,1.36,365,False,B,True,0.1951,False
+SKU_0237,Tropicana Orange 1L Var37,Beverages,Beverages,Oak-Gour,143.0,170.0,114.0,0.2,1.23,365,False,B,True,0.2028,False
+SKU_0238,Real Juice Mixed Fruit 1L Var38,Beverages,Beverages,Krishnan,170.0,187.0,136.0,0.2,1.09,365,False,B,True,0.2,False
+SKU_0239,Bisleri Water 1L Var39,Beverages,Beverages,Bhattacharyya,10.0,11.0,8.0,0.2,1.52,365,False,B,True,0.2,False
+SKU_0240,Tata Tea Premium 500g Var40,Beverages,Beverages,Borah-Bera,177.0,191.0,142.0,0.2,1.26,365,False,B,True,0.1977,False
+SKU_0241,Nescafe Classic 50g Var41,Beverages,Beverages,Dixit,230.0,242.0,184.0,0.2,1.47,365,False,B,True,0.2,False
+SKU_0242,Horlicks 500g Var42,Beverages,Beverages,Chada-Kothari,102.0,126.0,82.0,0.2,1.25,365,False,B,True,0.1961,False
+SKU_0243,Boost 500g Var43,Beverages,Beverages,Saha,121.0,144.0,97.0,0.2,0.95,365,False,B,True,0.1983,False
+SKU_0244,Complan 500g Var44,Beverages,Beverages,"Kara,",107.0,125.0,86.0,0.2,1.28,365,False,B,True,0.1963,False
+SKU_0245,Green Tea 25bags Var45,Beverages,Beverages,Savant-Mishra,183.0,226.0,146.0,0.2,1.51,365,False,B,True,0.2022,False
+SKU_0246,Minute Maid Pulpy Orange 1L Var46,Beverages,Beverages,"Sanghvi,",67.0,76.0,54.0,0.2,0.92,365,False,B,True,0.194,False
+SKU_0247,Coca Cola 2L Var47,Beverages,Beverages,"Chaudhary,",98.0,114.0,78.0,0.2,1.13,365,False,B,True,0.2041,False
+SKU_0248,Pepsi 2L Var48,Beverages,Beverages,Bumb-Dugar,155.0,164.0,124.0,0.2,1.08,365,False,B,True,0.2,False
+SKU_0249,Dove Soap 100g,Personal Care,Personal Care,Ghose,74.0,86.0,53.0,0.28,0.38,730,False,B,True,0.2838,False
+SKU_0250,Head & Shoulders 400ml,Personal Care,Personal Care,Dugar,10.0,11.0,7.0,0.28,0.27,730,False,B,True,0.3,False
+SKU_0251,Colgate MaxFresh 150g,Personal Care,Personal Care,Seshadri-Singhal,141.0,154.0,102.0,0.28,0.29,730,False,B,True,0.2766,False
+SKU_0252,Gillette Mach3 Blades 4pk,Personal Care,Personal Care,Bali-Kata,342.0,369.0,246.0,0.28,0.24,730,False,B,True,0.2807,False
+SKU_0253,Whisper Ultra Thin 15pk,Personal Care,Personal Care,Mandal-Setty,10.0,12.0,7.0,0.28,0.28,730,False,B,True,0.3,False
+SKU_0254,Dettol Handwash 220ml,Personal Care,Personal Care,Kaur,170.0,198.0,122.0,0.28,0.32,730,False,B,True,0.2824,False
+SKU_0255,Vaseline Lotion 400ml,Personal Care,Personal Care,"Hora,",148.0,158.0,107.0,0.28,0.39,730,False,B,True,0.277,False
+SKU_0256,Lakme Sunscreen SPF50,Personal Care,Personal Care,"Kar,",64.0,74.0,46.0,0.28,0.32,730,False,B,True,0.2812,False
+SKU_0257,Nivea Cream 100ml,Personal Care,Personal Care,Bora,176.0,192.0,127.0,0.28,0.37,730,False,B,True,0.2784,False
+SKU_0258,Garnier Face Wash 100ml,Personal Care,Personal Care,Mohanty,173.0,189.0,125.0,0.28,0.24,730,False,B,True,0.2775,False
+SKU_0259,Parachute Coconut Oil 500ml,Personal Care,Personal Care,"Mani,",172.0,200.0,124.0,0.28,0.22,730,False,B,True,0.2791,False
+SKU_0260,Dabur Amla Hair Oil 500ml,Personal Care,Personal Care,Modi-Rau,121.0,146.0,87.0,0.28,0.29,730,False,B,True,0.281,False
+SKU_0261,Listerine Mouthwash 500ml,Personal Care,Personal Care,Tella-Zacharia,10.0,11.0,7.0,0.28,0.31,730,False,B,True,0.3,False
+SKU_0262,Vicks Vaporub 50g,Personal Care,Personal Care,Sarma-Buch,284.0,307.0,204.0,0.28,0.24,730,False,B,True,0.2817,False
+SKU_0263,Band-Aid Box 20pk,Personal Care,Personal Care,"Baral,",34.0,40.0,24.0,0.28,0.28,730,False,B,True,0.2941,False
+SKU_0264,Dove Soap 100g Var2,Personal Care,Personal Care,"Krishna,",97.0,102.0,70.0,0.28,0.24,730,False,B,True,0.2784,False
+SKU_0265,Head & Shoulders 400ml Var3,Personal Care,Personal Care,Bail,269.0,284.0,194.0,0.28,0.25,730,False,B,True,0.2788,False
+SKU_0266,Colgate MaxFresh 150g Var4,Personal Care,Personal Care,Baria-Gill,302.0,331.0,217.0,0.28,0.33,730,False,B,True,0.2815,False
+SKU_0267,Gillette Mach3 Blades 4pk Var5,Personal Care,Personal Care,Venkataraman-Sathe,123.0,145.0,89.0,0.28,0.25,730,False,B,True,0.2764,False
+SKU_0268,Whisper Ultra Thin 15pk Var6,Personal Care,Personal Care,Golla-Sarin,224.0,240.0,161.0,0.28,0.25,730,False,B,True,0.2812,False
+SKU_0269,Dettol Handwash 220ml Var7,Personal Care,Personal Care,"Swamy,",246.0,299.0,177.0,0.28,0.28,730,False,B,True,0.2805,False
+SKU_0270,Vaseline Lotion 400ml Var8,Personal Care,Personal Care,Rege-Nath,219.0,259.0,158.0,0.28,0.25,730,False,B,True,0.2785,False
+SKU_0271,Lakme Sunscreen SPF50 Var9,Personal Care,Personal Care,Cheema-Dyal,234.0,246.0,168.0,0.28,0.23,730,False,B,True,0.2821,False
+SKU_0272,Nivea Cream 100ml Var10,Personal Care,Personal Care,Sabharwal-Tandon,144.0,157.0,104.0,0.28,0.21,730,False,B,True,0.2778,False
+SKU_0273,Garnier Face Wash 100ml Var11,Personal Care,Personal Care,Rattan-Bansal,208.0,236.0,150.0,0.28,0.37,730,False,B,True,0.2788,False
+SKU_0274,Parachute Coconut Oil 500ml Var12,Personal Care,Personal Care,Chakrabarti-Murty,50.0,61.0,36.0,0.28,0.27,730,False,B,True,0.28,False
+SKU_0275,Dabur Amla Hair Oil 500ml Var13,Personal Care,Personal Care,Naik-D’Alia,105.0,123.0,76.0,0.28,0.26,730,False,B,True,0.2762,False
+SKU_0276,Listerine Mouthwash 500ml Var14,Personal Care,Personal Care,Varkey-Agarwal,34.0,40.0,24.0,0.28,0.28,730,False,B,True,0.2941,False
+SKU_0277,Vicks Vaporub 50g Var15,Personal Care,Personal Care,"Shere,",10.0,11.0,7.0,0.28,0.38,730,False,B,True,0.3,False
+SKU_0278,Band-Aid Box 20pk Var16,Personal Care,Personal Care,Vasa,345.0,415.0,248.0,0.28,0.24,730,False,B,True,0.2812,False
+SKU_0279,Dove Soap 100g Var17,Personal Care,Personal Care,"Tara,",171.0,210.0,123.0,0.28,0.35,730,False,B,True,0.2807,False
+SKU_0280,Head & Shoulders 400ml Var18,Personal Care,Personal Care,Loke,285.0,323.0,205.0,0.28,0.21,730,False,B,True,0.2807,False
+SKU_0281,Colgate MaxFresh 150g Var19,Personal Care,Personal Care,Mani,206.0,242.0,148.0,0.28,0.26,730,False,B,True,0.2816,False
+SKU_0282,Gillette Mach3 Blades 4pk Var20,Personal Care,Personal Care,"Sundaram,",10.0,11.0,7.0,0.28,0.36,730,False,B,True,0.3,False
+SKU_0283,Whisper Ultra Thin 15pk Var21,Personal Care,Personal Care,"Khatri,",177.0,192.0,127.0,0.28,0.26,730,False,B,True,0.2825,False
+SKU_0284,Dettol Handwash 220ml Var22,Personal Care,Personal Care,"Atwal,",210.0,221.0,151.0,0.28,0.37,730,False,B,True,0.281,False
+SKU_0285,Vaseline Lotion 400ml Var23,Personal Care,Personal Care,Comar,195.0,215.0,140.0,0.28,0.31,730,False,B,True,0.2821,False
+SKU_0286,Lakme Sunscreen SPF50 Var24,Personal Care,Personal Care,Dube,77.0,91.0,55.0,0.28,0.36,730,False,B,True,0.2857,False
+SKU_0287,Nivea Cream 100ml Var25,Personal Care,Personal Care,"Manne,",201.0,235.0,145.0,0.28,0.33,730,False,B,True,0.2786,False
+SKU_0288,Garnier Face Wash 100ml Var26,Personal Care,Personal Care,Subramanian-Sodhi,273.0,296.0,197.0,0.28,0.37,730,False,B,True,0.2784,False
+SKU_0289,Parachute Coconut Oil 500ml Var27,Personal Care,Personal Care,Shan,10.0,12.0,7.0,0.28,0.22,730,False,B,True,0.3,False
+SKU_0290,Dabur Amla Hair Oil 500ml Var28,Personal Care,Personal Care,Rajagopal,47.0,51.0,34.0,0.28,0.34,730,False,B,True,0.2766,False
+SKU_0291,Listerine Mouthwash 500ml Var29,Personal Care,Personal Care,"Trivedi,",194.0,213.0,140.0,0.28,0.28,730,False,B,True,0.2784,False
+SKU_0292,Vicks Vaporub 50g Var30,Personal Care,Personal Care,Sachdeva-Oak,99.0,110.0,71.0,0.28,0.27,730,False,B,True,0.2828,False
+SKU_0293,Band-Aid Box 20pk Var31,Personal Care,Personal Care,"Loke,",77.0,90.0,55.0,0.28,0.3,730,False,B,True,0.2857,False
+SKU_0294,Dove Soap 100g Var32,Personal Care,Personal Care,"Misra,",280.0,331.0,202.0,0.28,0.38,730,False,B,True,0.2786,False
+SKU_0295,Head & Shoulders 400ml Var33,Personal Care,Personal Care,Yohannan-Sule,89.0,94.0,64.0,0.28,0.26,730,False,B,True,0.2809,False
+SKU_0296,Colgate MaxFresh 150g Var34,Personal Care,Personal Care,Natarajan-Purohit,245.0,286.0,176.0,0.28,0.22,730,False,B,True,0.2816,False
+SKU_0297,Gillette Mach3 Blades 4pk Var35,Personal Care,Personal Care,Nagy-Gulati,431.0,481.0,310.0,0.28,0.35,730,False,B,True,0.2807,False
+SKU_0298,Whisper Ultra Thin 15pk Var36,Personal Care,Personal Care,"Khare,",165.0,177.0,119.0,0.28,0.22,730,False,B,True,0.2788,False
+SKU_0299,Dettol Handwash 220ml Var37,Personal Care,Personal Care,Bassi-Nadkarni,172.0,204.0,124.0,0.28,0.29,730,False,B,True,0.2791,False
+SKU_0300,Vaseline Lotion 400ml Var38,Personal Care,Personal Care,"Solanki,",352.0,387.0,253.0,0.28,0.36,730,False,B,True,0.2812,False
+SKU_0301,Lakme Sunscreen SPF50 Var39,Personal Care,Personal Care,"Doshi,",238.0,263.0,171.0,0.28,0.32,730,False,B,True,0.2815,False
+SKU_0302,Nivea Cream 100ml Var40,Personal Care,Personal Care,Thakkar,272.0,305.0,196.0,0.28,0.23,730,False,B,True,0.2794,False
+SKU_0303,Garnier Face Wash 100ml Var41,Personal Care,Personal Care,Chaudhry-Sarraf,168.0,183.0,121.0,0.28,0.31,730,False,B,True,0.2798,False
+SKU_0304,Parachute Coconut Oil 500ml Var42,Personal Care,Personal Care,Vora,237.0,290.0,171.0,0.28,0.34,730,False,B,True,0.2785,False
+SKU_0305,Dabur Amla Hair Oil 500ml Var43,Personal Care,Personal Care,Dhawan,231.0,275.0,166.0,0.28,0.36,730,False,B,True,0.2814,False
+SKU_0306,Listerine Mouthwash 500ml Var44,Personal Care,Personal Care,"Dubey,",283.0,311.0,204.0,0.28,0.3,730,False,B,True,0.2792,False
+SKU_0307,Vicks Vaporub 50g Var45,Personal Care,Personal Care,Nigam-Rao,218.0,237.0,157.0,0.28,0.31,730,False,B,True,0.2798,False
+SKU_0308,Band-Aid Box 20pk Var46,Personal Care,Personal Care,"Buch,",196.0,242.0,141.0,0.28,0.22,730,False,B,True,0.2806,False
+SKU_0309,Dove Soap 100g Var47,Personal Care,Personal Care,Nadig-Sura,67.0,83.0,48.0,0.28,0.38,730,False,B,True,0.2836,False
+SKU_0310,Head & Shoulders 400ml Var48,Personal Care,Personal Care,"Banik,",280.0,347.0,202.0,0.28,0.3,730,False,B,True,0.2786,False
+SKU_0311,Surf Excel 2kg,Household,Household,"Mani,",147.0,164.0,112.0,0.24,0.96,365,False,B,True,0.2381,False
+SKU_0312,Vim Dishwash Bar 200g,Household,Household,Chaudhari-Chaudhry,148.0,156.0,112.0,0.24,0.85,365,False,B,True,0.2432,False
+SKU_0313,Harpic Toilet Cleaner 500ml,Household,Household,Ganesan-Mistry,108.0,115.0,82.0,0.24,0.89,365,False,B,True,0.2407,False
+SKU_0314,Colin Glass Cleaner 500ml,Household,Household,Batra,119.0,133.0,90.0,0.24,0.91,365,False,B,True,0.2437,False
+SKU_0315,All Out Mosquito Liquid Refill,Household,Household,Memon,129.0,149.0,98.0,0.24,0.94,365,False,B,True,0.2403,False
+SKU_0316,Scotch-Brite Scrub 2pk,Household,Household,Sankar-Dhingra,108.0,120.0,82.0,0.24,0.86,365,False,B,True,0.2407,False
+SKU_0317,Godrej Goodnight Advanced,Household,Household,Wali,168.0,184.0,128.0,0.24,0.57,365,False,B,True,0.2381,False
+SKU_0318,Lizol Floor Cleaner 1L,Household,Household,"Gole,",221.0,271.0,168.0,0.24,0.57,365,False,B,True,0.2398,False
+SKU_0319,Ariel Matic Liquid 1L,Household,Household,Raja,152.0,188.0,116.0,0.24,0.94,365,False,B,True,0.2368,False
+SKU_0320,Comfort Fabric Softener 860ml,Household,Household,"Khosla,",236.0,295.0,179.0,0.24,0.73,365,False,B,True,0.2415,False
+SKU_0321,Garbage Bags 30pk,Household,Household,Shenoy,101.0,116.0,77.0,0.24,0.86,365,False,B,True,0.2376,False
+SKU_0322,Tissue Paper 100 pulls,Household,Household,Sharaf-Kumer,265.0,325.0,201.0,0.24,1.03,365,False,B,True,0.2415,False
+SKU_0323,Aluminium Foil 11m,Household,Household,"Andra,",107.0,121.0,81.0,0.24,0.91,365,False,B,True,0.243,False
+SKU_0324,Zip Lock Bags 20pk,Household,Household,"Dugar,",269.0,295.0,204.0,0.24,0.61,365,False,B,True,0.2416,False
+SKU_0325,Floor Mop Refill,Household,Household,Mistry-Samra,31.0,34.0,24.0,0.24,0.67,365,False,B,True,0.2258,False
+SKU_0326,Surf Excel 2kg Var2,Household,Household,"Krishna,",67.0,71.0,51.0,0.24,0.57,365,False,B,True,0.2388,False
+SKU_0327,Vim Dishwash Bar 200g Var3,Household,Household,Rajagopalan,142.0,160.0,108.0,0.24,0.89,365,False,B,True,0.2394,False
+SKU_0328,Harpic Toilet Cleaner 500ml Var4,Household,Household,Khalsa,165.0,180.0,125.0,0.24,1.02,365,False,B,True,0.2424,False
+SKU_0329,Colin Glass Cleaner 500ml Var5,Household,Household,"Parmer,",229.0,284.0,174.0,0.24,0.78,365,False,B,True,0.2402,False
+SKU_0330,All Out Mosquito Liquid Refill Var6,Household,Household,Randhawa,127.0,149.0,97.0,0.24,0.64,365,False,B,True,0.2362,False
+SKU_0331,Scotch-Brite Scrub 2pk Var7,Household,Household,Bawa,159.0,186.0,121.0,0.24,0.81,365,False,B,True,0.239,False
+SKU_0332,Godrej Goodnight Advanced Var8,Household,Household,"Taneja,",187.0,205.0,142.0,0.24,0.64,365,False,B,True,0.2406,False
+SKU_0333,Lizol Floor Cleaner 1L Var9,Household,Household,"Pandey,",92.0,111.0,70.0,0.24,0.73,365,False,B,True,0.2391,False
+SKU_0334,Ariel Matic Liquid 1L Var10,Household,Household,"Krishna,",98.0,104.0,74.0,0.24,1.03,365,False,B,True,0.2449,False
+SKU_0335,Comfort Fabric Softener 860ml Var11,Household,Household,"Baral,",266.0,316.0,202.0,0.24,0.63,365,False,B,True,0.2406,False
+SKU_0336,Garbage Bags 30pk Var12,Household,Household,Patla,96.0,116.0,73.0,0.24,0.67,365,False,B,True,0.2396,False
+SKU_0337,Tissue Paper 100 pulls Var13,Household,Household,Chana,162.0,189.0,123.0,0.24,0.84,365,False,B,True,0.2407,False
+SKU_0338,Aluminium Foil 11m Var14,Household,Household,Sagar-Gill,16.0,17.0,12.0,0.24,0.98,365,False,B,True,0.25,False
+SKU_0339,Zip Lock Bags 20pk Var15,Household,Household,Deo,93.0,114.0,71.0,0.24,1.02,365,False,B,True,0.2366,False
+SKU_0340,Floor Mop Refill Var16,Household,Household,Wali-Thaker,112.0,137.0,85.0,0.24,0.95,365,False,B,True,0.2411,False
+SKU_0341,Surf Excel 2kg Var17,Household,Household,Gala-Kurian,201.0,215.0,153.0,0.24,0.76,365,False,B,True,0.2388,False
+SKU_0342,Vim Dishwash Bar 200g Var18,Household,Household,Merchant-Nigam,316.0,355.0,240.0,0.24,0.68,365,False,B,True,0.2405,False
+SKU_0343,Harpic Toilet Cleaner 500ml Var19,Household,Household,Sidhu,142.0,151.0,108.0,0.24,0.67,365,False,B,True,0.2394,False
+SKU_0344,Colin Glass Cleaner 500ml Var20,Household,Household,Kara,298.0,354.0,226.0,0.24,0.6,365,False,B,True,0.2416,False
+SKU_0345,All Out Mosquito Liquid Refill Var21,Household,Household,"Ranganathan,",144.0,165.0,109.0,0.24,0.84,365,False,B,True,0.2431,False
+SKU_0346,Scotch-Brite Scrub 2pk Var22,Household,Household,Atwal-Lalla,246.0,299.0,187.0,0.24,0.73,365,False,B,True,0.2398,False
+SKU_0347,Godrej Goodnight Advanced Var23,Household,Household,"Dasgupta,",203.0,224.0,154.0,0.24,0.98,365,False,B,True,0.2414,False
+SKU_0348,Lizol Floor Cleaner 1L Var24,Household,Household,"Lala,",302.0,365.0,230.0,0.24,0.88,365,False,B,True,0.2384,False
+SKU_0349,Ariel Matic Liquid 1L Var25,Household,Household,Kaur,215.0,256.0,163.0,0.24,0.89,365,False,B,True,0.2419,False
+SKU_0350,Comfort Fabric Softener 860ml Var26,Household,Household,Narang,188.0,221.0,143.0,0.24,0.92,365,False,B,True,0.2394,False
+SKU_0351,Garbage Bags 30pk Var27,Household,Household,Bhatnagar,131.0,146.0,100.0,0.24,0.92,365,False,B,True,0.2366,False
+SKU_0352,Tissue Paper 100 pulls Var28,Household,Household,Mittal-Rege,157.0,170.0,119.0,0.24,0.95,365,False,B,True,0.242,False
+SKU_0353,Aluminium Foil 11m Var29,Household,Household,Dey,147.0,155.0,112.0,0.24,0.7,365,False,B,True,0.2381,False
+SKU_0354,Zip Lock Bags 20pk Var30,Household,Household,Modi,254.0,298.0,193.0,0.24,1.03,365,False,B,True,0.2402,False
+SKU_0355,Floor Mop Refill Var31,Household,Household,Chatterjee,29.0,34.0,22.0,0.24,0.82,365,False,B,True,0.2414,False
+SKU_0356,Surf Excel 2kg Var32,Household,Household,"Deshmukh,",208.0,251.0,158.0,0.24,0.61,365,False,B,True,0.2404,False
+SKU_0357,Vim Dishwash Bar 200g Var33,Household,Household,Zachariah-Saini,166.0,206.0,126.0,0.24,0.72,365,False,B,True,0.241,False
+SKU_0358,Harpic Toilet Cleaner 500ml Var34,Household,Household,"Dubey,",279.0,328.0,212.0,0.24,1.01,365,False,B,True,0.2401,False
+SKU_0359,Colin Glass Cleaner 500ml Var35,Household,Household,Reddy-Mammen,107.0,119.0,81.0,0.24,0.9,365,False,B,True,0.243,False
+SKU_0360,All Out Mosquito Liquid Refill Var36,Household,Household,Prabhakar,161.0,171.0,122.0,0.24,0.84,365,False,B,True,0.2422,False
+SKU_0361,Scotch-Brite Scrub 2pk Var37,Household,Household,Saxena-Keer,247.0,262.0,188.0,0.24,0.98,365,False,B,True,0.2389,False
+SKU_0362,Godrej Goodnight Advanced Var38,Household,Household,Chaudhary-Pillai,16.0,20.0,12.0,0.24,1.03,365,False,B,True,0.25,False
+SKU_0363,Lizol Floor Cleaner 1L Var39,Household,Household,"Parmer,",97.0,117.0,74.0,0.24,0.57,365,False,B,True,0.2371,False
+SKU_0364,Ariel Matic Liquid 1L Var40,Household,Household,Gupta-Das,177.0,187.0,135.0,0.24,0.72,365,False,B,True,0.2373,False
+SKU_0365,Comfort Fabric Softener 860ml Var41,Household,Household,Chand-Kala,278.0,330.0,211.0,0.24,0.77,365,False,B,True,0.241,False
+SKU_0366,Garbage Bags 30pk Var42,Household,Household,"Bail,",139.0,154.0,106.0,0.24,1.04,365,False,B,True,0.2374,False
+SKU_0367,Tissue Paper 100 pulls Var43,Household,Household,Dass,22.0,24.0,17.0,0.24,0.94,365,False,B,True,0.2273,False
+SKU_0368,Aluminium Foil 11m Var44,Household,Household,Biswas,10.0,12.0,8.0,0.24,0.67,365,False,B,True,0.2,False
+SKU_0369,Zip Lock Bags 20pk Var45,Household,Household,Kalita,166.0,196.0,126.0,0.24,0.69,365,False,B,True,0.241,False
+SKU_0370,Floor Mop Refill Var46,Household,Household,Divan-Agate,97.0,120.0,74.0,0.24,0.63,365,False,B,True,0.2371,False
+SKU_0371,Surf Excel 2kg Var47,Household,Household,Dhillon-De,200.0,227.0,152.0,0.24,0.87,365,False,B,True,0.24,False
+SKU_0372,Vim Dishwash Bar 200g Var48,Household,Household,"Krishna,",137.0,155.0,104.0,0.24,0.69,365,False,B,True,0.2409,False
+SKU_0373,Harpic Toilet Cleaner 500ml Var49,Household,Household,"Bal,",141.0,173.0,107.0,0.24,0.67,365,False,B,True,0.2411,False
+SKU_0374,Pampers Diapers M 40pk,Baby & Kids,Baby & Kids,Khanna-Naik,424.0,463.0,297.0,0.3,0.43,540,False,C,True,0.2995,False
+SKU_0375,Huggies Pants L 36pk,Baby & Kids,Baby & Kids,Ghosh,155.0,190.0,108.0,0.3,0.59,540,False,C,True,0.3032,True
+SKU_0376,Johnson Baby Powder 200g,Baby & Kids,Baby & Kids,Date,640.0,796.0,448.0,0.3,0.49,540,False,C,True,0.3,False
+SKU_0377,Cerelac Wheat 300g,Baby & Kids,Baby & Kids,Vora-Comar,442.0,532.0,309.0,0.3,0.72,540,False,C,True,0.3009,True
+SKU_0378,Nestle NAN Pro 400g,Baby & Kids,Baby & Kids,"Bhatt,",462.0,555.0,323.0,0.3,0.65,540,False,C,True,0.3009,True
+SKU_0379,Farex Rice Cereal 300g,Baby & Kids,Baby & Kids,Varghese-Chopra,415.0,502.0,290.0,0.3,0.59,540,False,C,True,0.3012,True
+SKU_0380,Mamy Poko Pants XL 32pk,Baby & Kids,Baby & Kids,Thakur-Kant,508.0,545.0,356.0,0.3,0.47,540,False,C,True,0.2992,False
+SKU_0381,Chicco Baby Lotion 250ml,Baby & Kids,Baby & Kids,"Bassi,",258.0,281.0,181.0,0.3,0.6,540,False,C,True,0.2984,False
+SKU_0382,Himalaya Baby Soap 75g,Baby & Kids,Baby & Kids,Balasubramanian-Bhat,704.0,748.0,493.0,0.3,0.63,540,False,C,True,0.2997,False
+SKU_0383,Dabur Lal Tail 100ml,Baby & Kids,Baby & Kids,Ratti-Sandhu,531.0,591.0,372.0,0.3,0.58,540,False,C,True,0.2994,False
+SKU_0384,Pampers Diapers M 40pk Var2,Baby & Kids,Baby & Kids,"Chokshi,",263.0,277.0,184.0,0.3,0.45,540,False,C,True,0.3004,True
+SKU_0385,Huggies Pants L 36pk Var3,Baby & Kids,Baby & Kids,Buch,299.0,350.0,209.0,0.3,0.52,540,False,C,True,0.301,True
+SKU_0386,Johnson Baby Powder 200g Var4,Baby & Kids,Baby & Kids,"Divan,",10.0,12.0,7.0,0.3,0.73,540,False,C,True,0.3,False
+SKU_0387,Cerelac Wheat 300g Var5,Baby & Kids,Baby & Kids,Nair-Raj,206.0,226.0,144.0,0.3,0.78,540,False,C,True,0.301,True
+SKU_0388,Nestle NAN Pro 400g Var6,Baby & Kids,Baby & Kids,"Wali,",371.0,400.0,260.0,0.3,0.6,540,False,C,True,0.2992,False
+SKU_0389,Farex Rice Cereal 300g Var7,Baby & Kids,Baby & Kids,"Sani,",651.0,756.0,456.0,0.3,0.42,540,False,C,True,0.2995,False
+SKU_0390,Mamy Poko Pants XL 32pk Var8,Baby & Kids,Baby & Kids,"Kale,",538.0,600.0,377.0,0.3,0.61,540,False,C,True,0.2993,False
+SKU_0391,Chicco Baby Lotion 250ml Var9,Baby & Kids,Baby & Kids,Sachdev,336.0,355.0,235.0,0.3,0.45,540,False,C,True,0.3006,True
+SKU_0392,Himalaya Baby Soap 75g Var10,Baby & Kids,Baby & Kids,Rastogi-Sagar,257.0,290.0,180.0,0.3,0.47,540,False,C,True,0.2996,False
+SKU_0393,Dabur Lal Tail 100ml Var11,Baby & Kids,Baby & Kids,"Chandran,",704.0,852.0,493.0,0.3,0.49,540,False,C,True,0.2997,False
+SKU_0394,Pampers Diapers M 40pk Var12,Baby & Kids,Baby & Kids,Kumer-Prasad,495.0,536.0,346.0,0.3,0.46,540,False,C,True,0.301,True
+SKU_0395,Huggies Pants L 36pk Var13,Baby & Kids,Baby & Kids,Som,632.0,668.0,442.0,0.3,0.76,540,False,C,True,0.3006,True
+SKU_0396,Johnson Baby Powder 200g Var14,Baby & Kids,Baby & Kids,Chada,546.0,579.0,382.0,0.3,0.61,540,False,C,True,0.3004,True
+SKU_0397,Cerelac Wheat 300g Var15,Baby & Kids,Baby & Kids,Char-Pradhan,506.0,604.0,354.0,0.3,0.71,540,False,C,True,0.3004,True
+SKU_0398,Nestle NAN Pro 400g Var16,Baby & Kids,Baby & Kids,Bhasin,451.0,504.0,316.0,0.3,0.71,540,False,C,True,0.2993,False
+SKU_0399,Farex Rice Cereal 300g Var17,Baby & Kids,Baby & Kids,"Narayan,",617.0,704.0,432.0,0.3,0.65,540,False,C,True,0.2998,False
+SKU_0400,Mamy Poko Pants XL 32pk Var18,Baby & Kids,Baby & Kids,Sampath-Behl,416.0,481.0,291.0,0.3,0.68,540,False,C,True,0.3005,True
+SKU_0401,Chicco Baby Lotion 250ml Var19,Baby & Kids,Baby & Kids,Muni-Pandey,263.0,322.0,184.0,0.3,0.5,540,False,C,True,0.3004,True
+SKU_0402,Himalaya Baby Soap 75g Var20,Baby & Kids,Baby & Kids,Tripathi,293.0,365.0,205.0,0.3,0.54,540,False,C,True,0.3003,True
+SKU_0403,Dabur Lal Tail 100ml Var21,Baby & Kids,Baby & Kids,Subramaniam,474.0,560.0,332.0,0.3,0.6,540,False,C,True,0.2996,False
+SKU_0404,Pampers Diapers M 40pk Var22,Baby & Kids,Baby & Kids,Palla,277.0,322.0,194.0,0.3,0.68,540,False,C,True,0.2996,False
+SKU_0405,Huggies Pants L 36pk Var23,Baby & Kids,Baby & Kids,Contractor-Mallick,387.0,422.0,271.0,0.3,0.66,540,False,C,True,0.2997,False
+SKU_0406,Johnson Baby Powder 200g Var24,Baby & Kids,Baby & Kids,"Kara,",402.0,428.0,281.0,0.3,0.43,540,False,C,True,0.301,True
+SKU_0407,Cerelac Wheat 300g Var25,Baby & Kids,Baby & Kids,"Loke,",334.0,409.0,234.0,0.3,0.68,540,False,C,True,0.2994,False
+SKU_0408,Nestle NAN Pro 400g Var26,Baby & Kids,Baby & Kids,More-Nori,80.0,96.0,56.0,0.3,0.57,540,False,C,True,0.3,False
+SKU_0409,Farex Rice Cereal 300g Var27,Baby & Kids,Baby & Kids,Ahuja-Golla,159.0,198.0,111.0,0.3,0.43,540,False,C,True,0.3019,True
+SKU_0410,Mamy Poko Pants XL 32pk Var28,Baby & Kids,Baby & Kids,Rattan,116.0,142.0,81.0,0.3,0.63,540,False,C,True,0.3017,True
+SKU_0411,Chicco Baby Lotion 250ml Var29,Baby & Kids,Baby & Kids,Balasubramanian,683.0,784.0,478.0,0.3,0.73,540,False,C,True,0.3001,True
+SKU_0412,Himalaya Baby Soap 75g Var30,Baby & Kids,Baby & Kids,"Wali,",297.0,365.0,208.0,0.3,0.57,540,False,C,True,0.2997,False
+SKU_0413,Dabur Lal Tail 100ml Var31,Baby & Kids,Baby & Kids,Setty-Om,497.0,613.0,348.0,0.3,0.5,540,False,C,True,0.2998,False
+SKU_0414,Pampers Diapers M 40pk Var32,Baby & Kids,Baby & Kids,Pingle,96.0,113.0,67.0,0.3,0.65,540,False,C,True,0.3021,True
+SKU_0415,Huggies Pants L 36pk Var33,Baby & Kids,Baby & Kids,"Nair,",267.0,319.0,187.0,0.3,0.75,540,False,C,True,0.2996,False
+SKU_0416,Johnson Baby Powder 200g Var34,Baby & Kids,Baby & Kids,Dugar,451.0,490.0,316.0,0.3,0.51,540,False,C,True,0.2993,False
+SKU_0417,Cerelac Wheat 300g Var35,Baby & Kids,Baby & Kids,Bumb,375.0,412.0,262.0,0.3,0.73,540,False,C,True,0.3013,True
+SKU_0418,Nestle NAN Pro 400g Var36,Baby & Kids,Baby & Kids,Samra-Sunder,591.0,673.0,414.0,0.3,0.61,540,False,C,True,0.2995,False
+SKU_0419,Farex Rice Cereal 300g Var37,Baby & Kids,Baby & Kids,"Sathe,",587.0,636.0,411.0,0.3,0.56,540,False,C,True,0.2998,False
+SKU_0420,Mamy Poko Pants XL 32pk Var38,Baby & Kids,Baby & Kids,Vala,67.0,83.0,47.0,0.3,0.51,540,False,C,True,0.2985,False
+SKU_0421,Chicco Baby Lotion 250ml Var39,Baby & Kids,Baby & Kids,Sani-Choudhry,147.0,177.0,103.0,0.3,0.47,540,False,C,True,0.2993,False
+SKU_0422,Himalaya Baby Soap 75g Var40,Baby & Kids,Baby & Kids,Sur-Vyas,589.0,733.0,412.0,0.3,0.58,540,False,C,True,0.3005,True
+SKU_0423,Dabur Lal Tail 100ml Var41,Baby & Kids,Baby & Kids,"Morar,",394.0,440.0,276.0,0.3,0.72,540,False,C,True,0.2995,False
+SKU_0424,Pampers Diapers M 40pk Var42,Baby & Kids,Baby & Kids,Bhakta-Amble,149.0,169.0,104.0,0.3,0.51,540,False,C,True,0.302,True
+SKU_0425,Huggies Pants L 36pk Var43,Baby & Kids,Baby & Kids,Mitra,650.0,704.0,455.0,0.3,0.48,540,False,C,True,0.3,False
+SKU_0426,Johnson Baby Powder 200g Var44,Baby & Kids,Baby & Kids,Kumer,533.0,564.0,373.0,0.3,0.69,540,False,C,True,0.3002,True
+SKU_0427,Cerelac Wheat 300g Var45,Baby & Kids,Baby & Kids,Dar-Amble,322.0,392.0,225.0,0.3,0.71,540,False,C,True,0.3012,True
+SKU_0428,Nestle NAN Pro 400g Var46,Baby & Kids,Baby & Kids,Sani-Gill,754.0,880.0,528.0,0.3,0.73,540,False,C,True,0.2997,False
+SKU_0429,Farex Rice Cereal 300g Var47,Baby & Kids,Baby & Kids,Rai,333.0,368.0,233.0,0.3,0.44,540,False,C,True,0.3003,True
+SKU_0430,Mamy Poko Pants XL 32pk Var48,Baby & Kids,Baby & Kids,"Karpe,",345.0,399.0,241.0,0.3,0.76,540,False,C,True,0.3014,True
+SKU_0431,Chicco Baby Lotion 250ml Var49,Baby & Kids,Baby & Kids,Ranganathan,512.0,570.0,358.0,0.3,0.6,540,False,C,True,0.3008,True
+SKU_0432,Himalaya Baby Soap 75g Var50,Baby & Kids,Baby & Kids,Sarin,365.0,386.0,255.0,0.3,0.47,540,False,C,True,0.3014,True
+SKU_0433,Dabur Lal Tail 100ml Var51,Baby & Kids,Baby & Kids,Brahmbhatt-Munshi,545.0,622.0,382.0,0.3,0.61,540,False,C,True,0.2991,False
+SKU_0434,Pampers Diapers M 40pk Var52,Baby & Kids,Baby & Kids,"Sanghvi,",442.0,507.0,309.0,0.3,0.66,540,False,C,True,0.3009,True
+SKU_0435,Huggies Pants L 36pk Var53,Baby & Kids,Baby & Kids,Contractor-Ravel,579.0,631.0,405.0,0.3,0.66,540,False,C,True,0.3005,True
+SKU_0436,Johnson Baby Powder 200g Var54,Baby & Kids,Baby & Kids,Nair,193.0,240.0,135.0,0.3,0.45,540,False,C,True,0.3005,True
+SKU_0437,Cadbury Dairy Milk 50g,Snacks & Confectionery,Snacks & Confectionery,"Sharma,",37.0,45.0,25.0,0.32,0.12,270,False,B,True,0.3243,True
+SKU_0438,KitKat 4-finger 41.5g,Snacks & Confectionery,Snacks & Confectionery,Cherian-Kohli,151.0,179.0,103.0,0.32,0.18,270,False,B,True,0.3179,True
+SKU_0439,Ferrero Rocher 16pcs,Snacks & Confectionery,Snacks & Confectionery,Rattan-Viswanathan,72.0,83.0,49.0,0.32,0.16,270,False,B,True,0.3194,True
+SKU_0440,5 Star Chocolate 40g,Snacks & Confectionery,Snacks & Confectionery,Randhawa,81.0,99.0,55.0,0.32,0.16,270,False,B,True,0.321,True
+SKU_0441,Mentos Roll,Snacks & Confectionery,Snacks & Confectionery,"Nori,",115.0,126.0,78.0,0.32,0.16,270,False,B,True,0.3217,True
+SKU_0442,Centre Fresh Gum 9pk,Snacks & Confectionery,Snacks & Confectionery,Bose,118.0,133.0,80.0,0.32,0.16,270,False,B,True,0.322,True
+SKU_0443,Too Yumm Multigrain Crisps 55g,Snacks & Confectionery,Snacks & Confectionery,"Comar,",79.0,99.0,54.0,0.32,0.11,270,False,B,True,0.3165,True
+SKU_0444,Bingo Mad Angles 65g,Snacks & Confectionery,Snacks & Confectionery,Palla,31.0,39.0,21.0,0.32,0.14,270,False,B,True,0.3226,True
+SKU_0445,Doritos Nacho Cheese 100g,Snacks & Confectionery,Snacks & Confectionery,"Divan,",79.0,92.0,54.0,0.32,0.17,270,False,B,True,0.3165,True
+SKU_0446,Pringles Original 107g,Snacks & Confectionery,Snacks & Confectionery,Kunda,84.0,103.0,57.0,0.32,0.14,270,False,B,True,0.3214,True
+SKU_0447,Oreo Original 300g,Snacks & Confectionery,Snacks & Confectionery,Dua,119.0,144.0,81.0,0.32,0.17,270,False,B,True,0.3193,True
+SKU_0448,Hide & Seek 150g,Snacks & Confectionery,Snacks & Confectionery,Goel,10.0,12.0,7.0,0.32,0.14,270,False,B,True,0.3,False
+SKU_0449,Cadbury Dairy Milk 50g Var2,Snacks & Confectionery,Snacks & Confectionery,Shetty-Sen,58.0,67.0,39.0,0.32,0.11,270,False,B,True,0.3276,True
+SKU_0450,KitKat 4-finger 41.5g Var3,Snacks & Confectionery,Snacks & Confectionery,"Naidu,",71.0,79.0,48.0,0.32,0.14,270,False,B,True,0.3239,True
+SKU_0451,Ferrero Rocher 16pcs Var4,Snacks & Confectionery,Snacks & Confectionery,Bir-Singh,137.0,154.0,93.0,0.32,0.15,270,False,B,True,0.3212,True
+SKU_0452,5 Star Chocolate 40g Var5,Snacks & Confectionery,Snacks & Confectionery,Mitter-Maharaj,27.0,30.0,18.0,0.32,0.14,270,False,B,True,0.3333,True
+SKU_0453,Mentos Roll Var6,Snacks & Confectionery,Snacks & Confectionery,"Bhalla,",139.0,163.0,95.0,0.32,0.15,270,False,B,True,0.3165,True
+SKU_0454,Centre Fresh Gum 9pk Var7,Snacks & Confectionery,Snacks & Confectionery,Mukherjee,110.0,124.0,75.0,0.32,0.18,270,False,B,True,0.3182,True
+SKU_0455,Too Yumm Multigrain Crisps 55g Var8,Snacks & Confectionery,Snacks & Confectionery,Barad-Bhandari,10.0,11.0,7.0,0.32,0.14,270,False,B,True,0.3,False
+SKU_0456,Bingo Mad Angles 65g Var9,Snacks & Confectionery,Snacks & Confectionery,Mangat-Bose,168.0,189.0,114.0,0.32,0.14,270,False,B,True,0.3214,True
+SKU_0457,Doritos Nacho Cheese 100g Var10,Snacks & Confectionery,Snacks & Confectionery,"Chana,",111.0,130.0,75.0,0.32,0.17,270,False,B,True,0.3243,True
+SKU_0458,Pringles Original 107g Var11,Snacks & Confectionery,Snacks & Confectionery,Barman-Sengupta,175.0,212.0,119.0,0.32,0.17,270,False,B,True,0.32,True
+SKU_0459,Oreo Original 300g Var12,Snacks & Confectionery,Snacks & Confectionery,"Guha,",99.0,109.0,67.0,0.32,0.19,270,False,B,True,0.3232,True
+SKU_0460,Hide & Seek 150g Var13,Snacks & Confectionery,Snacks & Confectionery,"Dora,",78.0,83.0,53.0,0.32,0.19,270,False,B,True,0.3205,True
+SKU_0461,Cadbury Dairy Milk 50g Var14,Snacks & Confectionery,Snacks & Confectionery,Oza,31.0,36.0,21.0,0.32,0.13,270,False,B,True,0.3226,True
+SKU_0462,KitKat 4-finger 41.5g Var15,Snacks & Confectionery,Snacks & Confectionery,Thaman,52.0,58.0,35.0,0.32,0.13,270,False,B,True,0.3269,True
+SKU_0463,Ferrero Rocher 16pcs Var16,Snacks & Confectionery,Snacks & Confectionery,Baral,73.0,81.0,50.0,0.32,0.16,270,False,B,True,0.3151,True
+SKU_0464,5 Star Chocolate 40g Var17,Snacks & Confectionery,Snacks & Confectionery,"Sarma,",128.0,153.0,87.0,0.32,0.13,270,False,B,True,0.3203,True
+SKU_0465,Mentos Roll Var18,Snacks & Confectionery,Snacks & Confectionery,"Dutt,",21.0,23.0,14.0,0.32,0.17,270,False,B,True,0.3333,True
+SKU_0466,Centre Fresh Gum 9pk Var19,Snacks & Confectionery,Snacks & Confectionery,Ram-Rege,55.0,60.0,37.0,0.32,0.15,270,False,B,True,0.3273,True
+SKU_0467,Too Yumm Multigrain Crisps 55g Var20,Snacks & Confectionery,Snacks & Confectionery,Ben-Natt,38.0,44.0,26.0,0.32,0.13,270,False,B,True,0.3158,True
+SKU_0468,Bingo Mad Angles 65g Var21,Snacks & Confectionery,Snacks & Confectionery,Narayan,79.0,98.0,54.0,0.32,0.15,270,False,B,True,0.3165,True
+SKU_0469,Doritos Nacho Cheese 100g Var22,Snacks & Confectionery,Snacks & Confectionery,"Raju,",75.0,79.0,51.0,0.32,0.16,270,False,B,True,0.32,True
+SKU_0470,Pringles Original 107g Var23,Snacks & Confectionery,Snacks & Confectionery,"Doctor,",126.0,156.0,86.0,0.32,0.16,270,False,B,True,0.3175,True
+SKU_0471,Oreo Original 300g Var24,Snacks & Confectionery,Snacks & Confectionery,"Dhaliwal,",67.0,73.0,46.0,0.32,0.12,270,False,B,True,0.3134,True
+SKU_0472,Hide & Seek 150g Var25,Snacks & Confectionery,Snacks & Confectionery,"Ramanathan,",67.0,79.0,46.0,0.32,0.14,270,False,B,True,0.3134,True
+SKU_0473,Cadbury Dairy Milk 50g Var26,Snacks & Confectionery,Snacks & Confectionery,Puri-Narasimhan,10.0,12.0,7.0,0.32,0.13,270,False,B,True,0.3,False
+SKU_0474,KitKat 4-finger 41.5g Var27,Snacks & Confectionery,Snacks & Confectionery,Vyas,34.0,41.0,23.0,0.32,0.14,270,False,B,True,0.3235,True
+SKU_0475,Ferrero Rocher 16pcs Var28,Snacks & Confectionery,Snacks & Confectionery,"Sampath,",35.0,41.0,24.0,0.32,0.15,270,False,B,True,0.3143,True
+SKU_0476,5 Star Chocolate 40g Var29,Snacks & Confectionery,Snacks & Confectionery,Patil,78.0,91.0,53.0,0.32,0.12,270,False,B,True,0.3205,True
+SKU_0477,Mentos Roll Var30,Snacks & Confectionery,Snacks & Confectionery,Kala,94.0,103.0,64.0,0.32,0.11,270,False,B,True,0.3191,True
+SKU_0478,Centre Fresh Gum 9pk Var31,Snacks & Confectionery,Snacks & Confectionery,Handa-Kara,84.0,89.0,57.0,0.32,0.16,270,False,B,True,0.3214,True
+SKU_0479,Too Yumm Multigrain Crisps 55g Var32,Snacks & Confectionery,Snacks & Confectionery,Dubey,108.0,118.0,73.0,0.32,0.14,270,False,B,True,0.3241,True
+SKU_0480,Bingo Mad Angles 65g Var33,Snacks & Confectionery,Snacks & Confectionery,Chaudhuri-Tripathi,164.0,192.0,112.0,0.32,0.15,270,False,B,True,0.3171,True
+SKU_0481,Doritos Nacho Cheese 100g Var34,Snacks & Confectionery,Snacks & Confectionery,"Vyas,",29.0,33.0,20.0,0.32,0.17,270,False,B,True,0.3103,True
+SKU_0482,Pringles Original 107g Var35,Snacks & Confectionery,Snacks & Confectionery,"Deep,",139.0,165.0,95.0,0.32,0.19,270,False,B,True,0.3165,True
+SKU_0483,Oreo Original 300g Var36,Snacks & Confectionery,Snacks & Confectionery,Golla,91.0,101.0,62.0,0.32,0.11,270,False,B,True,0.3187,True
+SKU_0484,Hide & Seek 150g Var37,Snacks & Confectionery,Snacks & Confectionery,"Gandhi,",138.0,147.0,94.0,0.32,0.19,270,False,B,True,0.3188,True
+SKU_0485,Cadbury Dairy Milk 50g Var38,Snacks & Confectionery,Snacks & Confectionery,Patla-Khanna,39.0,43.0,27.0,0.32,0.14,270,False,B,True,0.3077,True
+SKU_0486,KitKat 4-finger 41.5g Var39,Snacks & Confectionery,Snacks & Confectionery,Mane-Sen,19.0,20.0,13.0,0.32,0.15,270,False,B,True,0.3158,True
+SKU_0487,Ferrero Rocher 16pcs Var40,Snacks & Confectionery,Snacks & Confectionery,Walla,76.0,93.0,52.0,0.32,0.16,270,False,B,True,0.3158,True
+SKU_0488,5 Star Chocolate 40g Var41,Snacks & Confectionery,Snacks & Confectionery,Singh-Hari,10.0,12.0,7.0,0.32,0.13,270,False,B,True,0.3,False
+SKU_0489,Mentos Roll Var42,Snacks & Confectionery,Snacks & Confectionery,Sastry-Shenoy,120.0,150.0,82.0,0.32,0.16,270,False,B,True,0.3167,True
+SKU_0490,Centre Fresh Gum 9pk Var43,Snacks & Confectionery,Snacks & Confectionery,Raja-Thakkar,11.0,13.0,7.0,0.32,0.17,270,False,B,True,0.3636,True
+SKU_0491,Too Yumm Multigrain Crisps 55g Var44,Snacks & Confectionery,Snacks & Confectionery,"Sahota,",33.0,38.0,22.0,0.32,0.19,270,False,B,True,0.3333,True
+SKU_0492,Bingo Mad Angles 65g Var45,Snacks & Confectionery,Snacks & Confectionery,"Devi,",62.0,67.0,42.0,0.32,0.17,270,False,B,True,0.3226,True
+SKU_0493,Doritos Nacho Cheese 100g Var46,Snacks & Confectionery,Snacks & Confectionery,"Srivastava,",73.0,78.0,50.0,0.32,0.15,270,False,B,True,0.3151,True
+SKU_0494,Pringles Original 107g Var47,Snacks & Confectionery,Snacks & Confectionery,"Varty,",10.0,12.0,7.0,0.32,0.14,270,False,B,True,0.3,False
+SKU_0495,Oreo Original 300g Var48,Snacks & Confectionery,Snacks & Confectionery,Dyal,114.0,141.0,78.0,0.32,0.13,270,False,B,True,0.3158,True
+SKU_0496,Hide & Seek 150g Var49,Snacks & Confectionery,Snacks & Confectionery,Varghese-Din,92.0,104.0,63.0,0.32,0.12,270,False,B,True,0.3152,True
+SKU_0497,Cadbury Dairy Milk 50g Var50,Snacks & Confectionery,Snacks & Confectionery,Chand-Kapadia,120.0,139.0,82.0,0.32,0.16,270,False,B,True,0.3167,True
+SKU_0498,KitKat 4-finger 41.5g Var51,Snacks & Confectionery,Snacks & Confectionery,Palla-Bala,71.0,76.0,48.0,0.32,0.17,270,False,B,True,0.3239,True
+SKU_0499,Ferrero Rocher 16pcs Var52,Snacks & Confectionery,Snacks & Confectionery,Bera-Randhawa,71.0,86.0,48.0,0.32,0.17,270,False,B,True,0.3239,True

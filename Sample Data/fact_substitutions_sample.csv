@@ -1,0 +1,1001 @@
+substitution_id,order_id,store_id,original_sku_id,substitute_sku_id,original_category,substitute_category,same_category,price_difference_inr,customer_accepted,reason_for_sub,order_date,acceptance_label
+SUB_0031379,ORD_00261589,STR_005,SKU_0039,SKU_0196,Fruits & Vegetables,Beverages,False,134.0,False,Expired,2023-11-12,Rejected
+SUB_0031343,ORD_00261352,STR_003,SKU_0088,SKU_0475,Dairy & Eggs,Snacks & Confectionery,False,15.0,False,Out of Stock,2023-11-12,Rejected
+SUB_0009732,ORD_00081805,STR_004,SKU_0189,SKU_0269,Beverages,Personal Care,False,119.0,False,Damaged,2023-04-09,Rejected
+SUB_0006557,ORD_00055456,STR_007,SKU_0247,SKU_0283,Beverages,Personal Care,False,79.0,False,Out of Stock,2023-03-06,Rejected
+SUB_0021523,ORD_00180863,STR_010,SKU_0021,SKU_0298,Fruits & Vegetables,Personal Care,False,99.0,True,Out of Stock,2023-08-19,Accepted
+SUB_0017526,ORD_00147315,STR_005,SKU_0439,SKU_0209,Snacks & Confectionery,Beverages,False,-62.0,False,Damaged,2023-07-08,Rejected
+SUB_0017699,ORD_00148712,STR_009,SKU_0010,SKU_0035,Fruits & Vegetables,Fruits & Vegetables,True,14.0,True,Out of Stock,2023-07-09,Accepted
+SUB_0009147,ORD_00077357,STR_006,SKU_0381,SKU_0231,Baby & Kids,Beverages,False,-188.0,False,Damaged,2023-04-03,Rejected
+SUB_0022504,ORD_00188915,STR_003,SKU_0359,SKU_0290,Household,Personal Care,False,-60.0,False,Out of Stock,2023-08-30,Rejected
+SUB_0051140,ORD_00425742,STR_010,SKU_0203,SKU_0229,Beverages,Beverages,True,4.0,True,Out of Stock,2024-05-21,Accepted
+SUB_0034041,ORD_00283816,STR_006,SKU_0128,SKU_0309,Packaged Food,Personal Care,False,19.0,True,Out of Stock,2023-12-02,Accepted
+SUB_0018842,ORD_00158186,STR_004,SKU_0057,SKU_0060,Fruits & Vegetables,Fruits & Vegetables,True,2.0,True,Out of Stock,2023-07-22,Accepted
+SUB_0026897,ORD_00225036,STR_001,SKU_0151,SKU_0071,Packaged Food,Dairy & Eggs,False,-154.0,False,Out of Stock,2023-10-11,Rejected
+SUB_0048068,ORD_00400242,STR_002,SKU_0472,SKU_0382,Snacks & Confectionery,Baby & Kids,False,637.0,True,Out of Stock,2024-04-17,Accepted
+SUB_0033939,ORD_00282798,STR_006,SKU_0300,SKU_0438,Personal Care,Snacks & Confectionery,False,-201.0,False,Out of Stock,2023-12-01,Rejected
+SUB_0036027,ORD_00300173,STR_009,SKU_0455,SKU_0261,Snacks & Confectionery,Personal Care,False,0.0,False,Out of Stock,2023-12-19,Rejected
+SUB_0051232,ORD_00426429,STR_010,SKU_0217,SKU_0237,Beverages,Beverages,True,28.0,True,Out of Stock,2024-05-22,Accepted
+SUB_0043367,ORD_00361096,STR_007,SKU_0295,SKU_0277,Personal Care,Personal Care,True,-79.0,True,Damaged,2024-02-26,Accepted
+SUB_0027556,ORD_00230417,STR_007,SKU_0246,SKU_0411,Beverages,Baby & Kids,False,616.0,False,Out of Stock,2023-10-15,Rejected
+SUB_0017352,ORD_00146069,STR_009,SKU_0277,SKU_0117,Personal Care,Dairy & Eggs,False,74.0,False,Out of Stock,2023-07-06,Rejected
+SUB_0029292,ORD_00244983,STR_008,SKU_0067,SKU_0290,Dairy & Eggs,Personal Care,False,-2.0,False,Out of Stock,2023-10-28,Rejected
+SUB_0027272,ORD_00228132,STR_001,SKU_0380,SKU_0024,Baby & Kids,Fruits & Vegetables,False,-443.0,False,Out of Stock,2023-10-14,Rejected
+SUB_0049113,ORD_00408955,STR_003,SKU_0388,SKU_0003,Baby & Kids,Fruits & Vegetables,False,-294.0,False,Out of Stock,2024-04-28,Rejected
+SUB_0035817,ORD_00298417,STR_009,SKU_0404,SKU_0047,Baby & Kids,Fruits & Vegetables,False,-220.0,True,Out of Stock,2023-12-17,Accepted
+SUB_0014082,ORD_00118547,STR_010,SKU_0201,SKU_0383,Beverages,Baby & Kids,False,469.0,False,Out of Stock,2023-05-28,Rejected
+SUB_0034781,ORD_00289845,STR_001,SKU_0485,SKU_0206,Snacks & Confectionery,Beverages,False,98.0,False,Out of Stock,2023-12-09,Rejected
+SUB_0026160,ORD_00219057,STR_010,SKU_0053,SKU_0275,Fruits & Vegetables,Personal Care,False,76.0,True,Out of Stock,2023-10-05,Accepted
+SUB_0014961,ORD_00125937,STR_009,SKU_0208,SKU_0337,Beverages,Household,False,37.0,True,Out of Stock,2023-06-08,Accepted
+SUB_0025378,ORD_00212689,STR_010,SKU_0292,SKU_0318,Personal Care,Household,False,122.0,False,Out of Stock,2023-09-29,Rejected
+SUB_0052453,ORD_00436411,STR_010,SKU_0135,SKU_0140,Packaged Food,Packaged Food,True,-9.0,True,Out of Stock,2024-06-05,Accepted
+SUB_0001478,ORD_00012479,STR_004,SKU_0140,SKU_0395,Packaged Food,Baby & Kids,False,578.0,False,Out of Stock,2023-01-14,Rejected
+SUB_0012646,ORD_00106395,STR_002,SKU_0302,SKU_0054,Personal Care,Fruits & Vegetables,False,-233.0,True,Out of Stock,2023-05-12,Accepted
+SUB_0013034,ORD_00109786,STR_007,SKU_0141,SKU_0286,Packaged Food,Personal Care,False,-98.0,False,Out of Stock,2023-05-16,Rejected
+SUB_0009962,ORD_00083657,STR_007,SKU_0203,SKU_0445,Beverages,Snacks & Confectionery,False,-31.0,False,Out of Stock,2023-04-11,Rejected
+SUB_0034545,ORD_00287936,STR_010,SKU_0221,SKU_0045,Beverages,Fruits & Vegetables,False,-49.0,True,Damaged,2023-12-06,Accepted
+SUB_0019792,ORD_00165949,STR_001,SKU_0401,SKU_0256,Baby & Kids,Personal Care,False,-199.0,False,Out of Stock,2023-08-01,Rejected
+SUB_0037544,ORD_00313041,STR_005,SKU_0086,SKU_0056,Dairy & Eggs,Fruits & Vegetables,False,-5.0,False,Out of Stock,2024-01-02,Rejected
+SUB_0025895,ORD_00216888,STR_009,SKU_0198,SKU_0486,Beverages,Snacks & Confectionery,False,-66.0,False,Out of Stock,2023-10-03,Rejected
+SUB_0049443,ORD_00411486,STR_007,SKU_0186,SKU_0070,Packaged Food,Dairy & Eggs,False,-38.0,False,Damaged,2024-05-01,Rejected
+SUB_0013907,ORD_00117055,STR_002,SKU_0440,SKU_0057,Snacks & Confectionery,Fruits & Vegetables,False,-31.0,False,Out of Stock,2023-05-27,Rejected
+SUB_0030802,ORD_00256935,STR_004,SKU_0236,SKU_0393,Beverages,Baby & Kids,False,663.0,False,Damaged,2023-11-08,Rejected
+SUB_0038967,ORD_00324516,STR_006,SKU_0394,SKU_0151,Baby & Kids,Packaged Food,False,-299.0,True,Out of Stock,2024-01-14,Accepted
+SUB_0032999,ORD_00275053,STR_006,SKU_0492,SKU_0404,Snacks & Confectionery,Baby & Kids,False,215.0,True,Out of Stock,2023-11-24,Accepted
+SUB_0040943,ORD_00340595,STR_006,SKU_0232,SKU_0485,Beverages,Snacks & Confectionery,False,-9.0,False,Out of Stock,2024-01-31,Rejected
+SUB_0038332,ORD_00319183,STR_010,SKU_0219,SKU_0368,Beverages,Household,False,-149.0,False,Out of Stock,2024-01-08,Rejected
+SUB_0004525,ORD_00038585,STR_009,SKU_0142,SKU_0360,Packaged Food,Household,False,73.0,False,Out of Stock,2023-02-12,Rejected
+SUB_0023655,ORD_00198592,STR_006,SKU_0477,SKU_0227,Snacks & Confectionery,Beverages,False,14.0,False,Out of Stock,2023-09-11,Rejected
+SUB_0036986,ORD_00308318,STR_007,SKU_0179,SKU_0086,Packaged Food,Dairy & Eggs,False,35.0,True,Damaged,2023-12-28,Accepted
+SUB_0005967,ORD_00050508,STR_004,SKU_0078,SKU_0308,Dairy & Eggs,Personal Care,False,105.0,True,Damaged,2023-02-28,Accepted
+SUB_0003841,ORD_00033065,STR_008,SKU_0057,SKU_0309,Fruits & Vegetables,Personal Care,False,17.0,False,Out of Stock,2023-02-05,Rejected
+SUB_0023687,ORD_00198850,STR_010,SKU_0254,SKU_0216,Personal Care,Beverages,False,-119.0,False,Out of Stock,2023-09-11,Rejected
+SUB_0002580,ORD_00021996,STR_001,SKU_0405,SKU_0328,Baby & Kids,Household,False,-222.0,True,Damaged,2023-01-24,Accepted
+SUB_0033680,ORD_00280459,STR_002,SKU_0119,SKU_0060,Dairy & Eggs,Fruits & Vegetables,False,-24.0,False,Out of Stock,2023-11-29,Rejected
+SUB_0007500,ORD_00063096,STR_006,SKU_0399,SKU_0021,Baby & Kids,Fruits & Vegetables,False,-551.0,False,Out of Stock,2023-03-16,Rejected
+SUB_0048634,ORD_00405093,STR_003,SKU_0343,SKU_0055,Household,Fruits & Vegetables,False,-92.0,False,Out of Stock,2024-04-23,Rejected
+SUB_0051104,ORD_00425501,STR_006,SKU_0269,SKU_0048,Personal Care,Fruits & Vegetables,False,-157.0,False,Out of Stock,2024-05-21,Rejected
+SUB_0006926,ORD_00058370,STR_008,SKU_0391,SKU_0381,Baby & Kids,Baby & Kids,True,-78.0,False,Out of Stock,2023-03-10,Rejected
+SUB_0051497,ORD_00428614,STR_001,SKU_0153,SKU_0217,Packaged Food,Beverages,False,101.0,False,Damaged,2024-05-26,Rejected
+SUB_0019266,ORD_00161592,STR_006,SKU_0036,SKU_0251,Fruits & Vegetables,Personal Care,False,103.0,False,Damaged,2023-07-26,Rejected
+SUB_0001487,ORD_00012545,STR_005,SKU_0376,SKU_0050,Baby & Kids,Fruits & Vegetables,False,-605.0,True,Expired,2023-01-14,Accepted
+SUB_0027401,ORD_00229129,STR_008,SKU_0063,SKU_0120,Dairy & Eggs,Dairy & Eggs,True,92.0,False,Out of Stock,2023-10-14,Rejected
+SUB_0052166,ORD_00433773,STR_002,SKU_0496,SKU_0370,Snacks & Confectionery,Household,False,5.0,False,Out of Stock,2024-06-02,Rejected
+SUB_0034136,ORD_00284630,STR_003,SKU_0444,SKU_0059,Snacks & Confectionery,Fruits & Vegetables,False,19.0,False,Damaged,2023-12-03,Rejected
+SUB_0048428,ORD_00403205,STR_010,SKU_0193,SKU_0070,Beverages,Dairy & Eggs,False,84.0,False,Out of Stock,2024-04-20,Rejected
+SUB_0041255,ORD_00343299,STR_001,SKU_0467,SKU_0130,Snacks & Confectionery,Packaged Food,False,56.0,False,Damaged,2024-02-04,Rejected
+SUB_0053926,ORD_00449076,STR_010,SKU_0032,SKU_0436,Fruits & Vegetables,Baby & Kids,False,158.0,False,Damaged,2024-06-23,Rejected
+SUB_0017568,ORD_00147670,STR_009,SKU_0013,SKU_0454,Fruits & Vegetables,Snacks & Confectionery,False,49.0,False,Out of Stock,2023-07-08,Rejected
+SUB_0002529,ORD_00021460,STR_005,SKU_0123,SKU_0055,Dairy & Eggs,Fruits & Vegetables,False,-48.0,True,Out of Stock,2023-01-23,Accepted
+SUB_0014056,ORD_00118315,STR_007,SKU_0324,SKU_0219,Household,Beverages,False,-110.0,False,Out of Stock,2023-05-28,Rejected
+SUB_0001609,ORD_00013492,STR_002,SKU_0055,SKU_0357,Fruits & Vegetables,Household,False,116.0,False,Out of Stock,2023-01-15,Rejected
+SUB_0048152,ORD_00400939,STR_002,SKU_0291,SKU_0449,Personal Care,Snacks & Confectionery,False,-136.0,False,Damaged,2024-04-18,Rejected
+SUB_0019648,ORD_00164658,STR_005,SKU_0010,SKU_0475,Fruits & Vegetables,Snacks & Confectionery,False,18.0,True,Expired,2023-07-30,Accepted
+SUB_0035688,ORD_00297352,STR_010,SKU_0093,SKU_0300,Dairy & Eggs,Personal Care,False,342.0,True,Out of Stock,2023-12-16,Accepted
+SUB_0019574,ORD_00164030,STR_008,SKU_0175,SKU_0464,Packaged Food,Snacks & Confectionery,False,112.0,False,Out of Stock,2023-07-29,Rejected
+SUB_0021536,ORD_00180969,STR_001,SKU_0185,SKU_0242,Packaged Food,Beverages,False,-67.0,False,Out of Stock,2023-08-20,Rejected
+SUB_0044291,ORD_00368583,STR_005,SKU_0322,SKU_0115,Household,Dairy & Eggs,False,-147.0,False,Expired,2024-03-07,Rejected
+SUB_0020628,ORD_00172943,STR_009,SKU_0365,SKU_0227,Household,Beverages,False,-170.0,True,Expired,2023-08-09,Accepted
+SUB_0030197,ORD_00252129,STR_002,SKU_0214,SKU_0452,Beverages,Snacks & Confectionery,False,-36.0,False,Out of Stock,2023-11-04,Rejected
+SUB_0026843,ORD_00224533,STR_006,SKU_0245,SKU_0467,Beverages,Snacks & Confectionery,False,-145.0,True,Out of Stock,2023-10-10,Accepted
+SUB_0034328,ORD_00286188,STR_009,SKU_0215,SKU_0405,Beverages,Baby & Kids,False,377.0,True,Out of Stock,2023-12-04,Accepted
+SUB_0017895,ORD_00150503,STR_004,SKU_0454,SKU_0320,Snacks & Confectionery,Household,False,126.0,False,Out of Stock,2023-07-12,Rejected
+SUB_0016359,ORD_00137795,STR_004,SKU_0124,SKU_0012,Dairy & Eggs,Fruits & Vegetables,False,-41.0,False,Out of Stock,2023-06-25,Rejected
+SUB_0007823,ORD_00065927,STR_010,SKU_0464,SKU_0385,Snacks & Confectionery,Baby & Kids,False,171.0,False,Out of Stock,2023-03-19,Rejected
+SUB_0020496,ORD_00171902,STR_005,SKU_0294,SKU_0127,Personal Care,Packaged Food,False,-161.0,False,Out of Stock,2023-08-08,Rejected
+SUB_0029881,ORD_00249611,STR_009,SKU_0370,SKU_0155,Household,Packaged Food,False,117.0,False,Out of Stock,2023-11-01,Rejected
+SUB_0028710,ORD_00240176,STR_004,SKU_0421,SKU_0371,Baby & Kids,Household,False,53.0,False,Damaged,2023-10-24,Rejected
+SUB_0027645,ORD_00231172,STR_003,SKU_0408,SKU_0054,Baby & Kids,Fruits & Vegetables,False,-41.0,False,Expired,2023-10-16,Rejected
+SUB_0027842,ORD_00232685,STR_008,SKU_0322,SKU_0368,Household,Household,True,-255.0,True,Out of Stock,2023-10-17,Accepted
+SUB_0048546,ORD_00404233,STR_001,SKU_0099,SKU_0238,Dairy & Eggs,Beverages,False,0.0,True,Out of Stock,2024-04-22,Accepted
+SUB_0036217,ORD_00301948,STR_010,SKU_0221,SKU_0322,Beverages,Household,False,148.0,False,Out of Stock,2023-12-21,Rejected
+SUB_0015160,ORD_00127602,STR_001,SKU_0370,SKU_0182,Household,Packaged Food,False,-60.0,True,Out of Stock,2023-06-11,Accepted
+SUB_0042961,ORD_00357526,STR_003,SKU_0144,SKU_0001,Packaged Food,Fruits & Vegetables,False,-66.0,False,Out of Stock,2024-02-22,Rejected
+SUB_0011542,ORD_00097439,STR_005,SKU_0472,SKU_0225,Snacks & Confectionery,Beverages,False,29.0,False,Out of Stock,2023-04-29,Rejected
+SUB_0031007,ORD_00258626,STR_001,SKU_0024,SKU_0005,Fruits & Vegetables,Fruits & Vegetables,True,-29.0,True,Damaged,2023-11-10,Accepted
+SUB_0019843,ORD_00166428,STR_008,SKU_0371,SKU_0064,Household,Dairy & Eggs,False,-89.0,True,Out of Stock,2023-08-01,Accepted
+SUB_0044710,ORD_00372303,STR_001,SKU_0088,SKU_0429,Dairy & Eggs,Baby & Kids,False,313.0,True,Out of Stock,2024-03-12,Accepted
+SUB_0052633,ORD_00438037,STR_005,SKU_0082,SKU_0123,Dairy & Eggs,Dairy & Eggs,True,-8.0,True,Out of Stock,2024-06-08,Accepted
+SUB_0008890,ORD_00075047,STR_001,SKU_0112,SKU_0028,Dairy & Eggs,Fruits & Vegetables,False,16.0,False,Out of Stock,2023-04-01,Rejected
+SUB_0012934,ORD_00108804,STR_002,SKU_0424,SKU_0174,Baby & Kids,Packaged Food,False,-33.0,True,Out of Stock,2023-05-15,Accepted
+SUB_0005188,ORD_00044045,STR_010,SKU_0235,SKU_0096,Beverages,Dairy & Eggs,False,40.0,False,Expired,2023-02-19,Rejected
+SUB_0012039,ORD_00101573,STR_003,SKU_0433,SKU_0367,Baby & Kids,Household,False,-523.0,True,Out of Stock,2023-05-05,Accepted
+SUB_0019594,ORD_00164200,STR_010,SKU_0045,SKU_0194,Fruits & Vegetables,Beverages,False,-32.0,True,Damaged,2023-07-29,Accepted
+SUB_0052580,ORD_00437440,STR_007,SKU_0193,SKU_0275,Beverages,Personal Care,False,46.0,False,Out of Stock,2024-06-07,Rejected
+SUB_0020004,ORD_00167786,STR_006,SKU_0431,SKU_0372,Baby & Kids,Household,False,-375.0,False,Out of Stock,2023-08-03,Rejected
+SUB_0042551,ORD_00354135,STR_009,SKU_0459,SKU_0260,Snacks & Confectionery,Personal Care,False,22.0,True,Out of Stock,2024-02-17,Accepted
+SUB_0020488,ORD_00171803,STR_004,SKU_0439,SKU_0320,Snacks & Confectionery,Household,False,164.0,True,Out of Stock,2023-08-08,Accepted
+SUB_0020179,ORD_00169216,STR_005,SKU_0354,SKU_0266,Household,Personal Care,False,48.0,False,Expired,2023-08-05,Rejected
+SUB_0054301,ORD_00452365,STR_002,SKU_0084,SKU_0452,Dairy & Eggs,Snacks & Confectionery,False,-103.0,False,Damaged,2024-06-29,Rejected
+SUB_0042672,ORD_00355341,STR_002,SKU_0366,SKU_0274,Household,Personal Care,False,-89.0,True,Out of Stock,2024-02-19,Accepted
+SUB_0023181,ORD_00194514,STR_006,SKU_0425,SKU_0027,Baby & Kids,Fruits & Vegetables,False,-598.0,True,Out of Stock,2023-09-06,Accepted
+SUB_0039653,ORD_00329760,STR_004,SKU_0424,SKU_0325,Baby & Kids,Household,False,-118.0,False,Out of Stock,2024-01-20,Rejected
+SUB_0016414,ORD_00138236,STR_009,SKU_0052,SKU_0388,Fruits & Vegetables,Baby & Kids,False,317.0,False,Out of Stock,2023-06-25,Rejected
+SUB_0026048,ORD_00218122,STR_001,SKU_0294,SKU_0403,Personal Care,Baby & Kids,False,194.0,True,Out of Stock,2023-10-05,Accepted
+SUB_0001222,ORD_00010497,STR_002,SKU_0469,SKU_0267,Snacks & Confectionery,Personal Care,False,48.0,False,Out of Stock,2023-01-12,Rejected
+SUB_0033996,ORD_00283379,STR_002,SKU_0260,SKU_0242,Personal Care,Beverages,False,-19.0,True,Out of Stock,2023-12-02,Accepted
+SUB_0021596,ORD_00181484,STR_006,SKU_0136,SKU_0441,Packaged Food,Snacks & Confectionery,False,12.0,False,Out of Stock,2023-08-20,Rejected
+SUB_0003026,ORD_00025916,STR_006,SKU_0148,SKU_0079,Packaged Food,Dairy & Eggs,False,44.0,True,Out of Stock,2023-01-28,Accepted
+SUB_0041530,ORD_00345617,STR_001,SKU_0444,SKU_0113,Snacks & Confectionery,Dairy & Eggs,False,30.0,False,Damaged,2024-02-07,Rejected
+SUB_0048738,ORD_00405891,STR_004,SKU_0464,SKU_0490,Snacks & Confectionery,Snacks & Confectionery,True,-117.0,True,Out of Stock,2024-04-24,Accepted
+SUB_0004893,ORD_00041583,STR_001,SKU_0116,SKU_0185,Dairy & Eggs,Packaged Food,False,59.0,True,Out of Stock,2023-02-17,Accepted
+SUB_0048668,ORD_00405377,STR_007,SKU_0415,SKU_0061,Baby & Kids,Fruits & Vegetables,False,-216.0,False,Out of Stock,2024-04-23,Rejected
+SUB_0023389,ORD_00196304,STR_001,SKU_0051,SKU_0253,Fruits & Vegetables,Personal Care,False,-14.0,False,Out of Stock,2023-09-09,Rejected
+SUB_0022359,ORD_00187691,STR_005,SKU_0329,SKU_0131,Household,Packaged Food,False,-89.0,True,Out of Stock,2023-08-28,Accepted
+SUB_0041319,ORD_00343813,STR_006,SKU_0084,SKU_0310,Dairy & Eggs,Personal Care,False,150.0,True,Out of Stock,2024-02-04,Accepted
+SUB_0002009,ORD_00016880,STR_008,SKU_0241,SKU_0427,Beverages,Baby & Kids,False,92.0,False,Out of Stock,2023-01-18,Rejected
+SUB_0051194,ORD_00426189,STR_007,SKU_0460,SKU_0432,Snacks & Confectionery,Baby & Kids,False,287.0,False,Out of Stock,2024-05-22,Rejected
+SUB_0043919,ORD_00365472,STR_004,SKU_0264,SKU_0199,Personal Care,Beverages,False,-79.0,True,Out of Stock,2024-03-03,Accepted
+SUB_0004970,ORD_00042237,STR_010,SKU_0088,SKU_0386,Dairy & Eggs,Baby & Kids,False,-10.0,True,Damaged,2023-02-17,Accepted
+SUB_0015839,ORD_00133287,STR_010,SKU_0376,SKU_0188,Baby & Kids,Beverages,False,-470.0,False,Damaged,2023-06-18,Rejected
+SUB_0031426,ORD_00261978,STR_008,SKU_0170,SKU_0340,Packaged Food,Household,False,102.0,True,Damaged,2023-11-12,Accepted
+SUB_0039799,ORD_00331063,STR_005,SKU_0256,SKU_0339,Personal Care,Household,False,29.0,False,Expired,2024-01-21,Rejected
+SUB_0001604,ORD_00013464,STR_002,SKU_0040,SKU_0394,Fruits & Vegetables,Baby & Kids,False,442.0,False,Out of Stock,2023-01-15,Rejected
+SUB_0053889,ORD_00448804,STR_006,SKU_0170,SKU_0192,Packaged Food,Beverages,False,96.0,True,Out of Stock,2024-06-23,Accepted
+SUB_0005159,ORD_00043785,STR_007,SKU_0015,SKU_0076,Fruits & Vegetables,Dairy & Eggs,False,59.0,True,Out of Stock,2023-02-19,Accepted
+SUB_0050528,ORD_00420740,STR_008,SKU_0048,SKU_0358,Fruits & Vegetables,Household,False,190.0,True,Out of Stock,2024-05-14,Accepted
+SUB_0052040,ORD_00432709,STR_010,SKU_0156,SKU_0244,Packaged Food,Beverages,False,25.0,True,Expired,2024-05-31,Accepted
+SUB_0013695,ORD_00115336,STR_007,SKU_0189,SKU_0141,Beverages,Packaged Food,False,48.0,False,Damaged,2023-05-24,Rejected
+SUB_0051256,ORD_00426628,STR_004,SKU_0142,SKU_0046,Packaged Food,Fruits & Vegetables,False,-28.0,False,Out of Stock,2024-05-23,Rejected
+SUB_0046488,ORD_00386903,STR_001,SKU_0054,SKU_0469,Fruits & Vegetables,Snacks & Confectionery,False,36.0,True,Out of Stock,2024-03-31,Accepted
+SUB_0027666,ORD_00231293,STR_004,SKU_0321,SKU_0036,Household,Fruits & Vegetables,False,-63.0,False,Out of Stock,2023-10-16,Rejected
+SUB_0002495,ORD_00021074,STR_010,SKU_0028,SKU_0388,Fruits & Vegetables,Baby & Kids,False,295.0,True,Out of Stock,2023-01-22,Accepted
+SUB_0011300,ORD_00095420,STR_009,SKU_0027,SKU_0240,Fruits & Vegetables,Beverages,False,125.0,False,Out of Stock,2023-04-26,Rejected
+SUB_0005429,ORD_00046045,STR_008,SKU_0173,SKU_0294,Packaged Food,Personal Care,False,270.0,False,Out of Stock,2023-02-22,Rejected
+SUB_0001843,ORD_00015635,STR_004,SKU_0166,SKU_0161,Packaged Food,Packaged Food,True,-90.0,True,Out of Stock,2023-01-17,Accepted
+SUB_0019003,ORD_00159546,STR_008,SKU_0496,SKU_0079,Snacks & Confectionery,Dairy & Eggs,False,7.0,False,Out of Stock,2023-07-23,Rejected
+SUB_0049520,ORD_00412218,STR_008,SKU_0023,SKU_0468,Fruits & Vegetables,Snacks & Confectionery,False,27.0,False,Out of Stock,2024-05-02,Rejected
+SUB_0027654,ORD_00231222,STR_004,SKU_0216,SKU_0275,Beverages,Personal Care,False,54.0,False,Out of Stock,2023-10-16,Rejected
+SUB_0041411,ORD_00344595,STR_006,SKU_0260,SKU_0012,Personal Care,Fruits & Vegetables,False,-82.0,False,Out of Stock,2024-02-05,Rejected
+SUB_0040162,ORD_00334072,STR_007,SKU_0359,SKU_0071,Household,Dairy & Eggs,False,-65.0,False,Out of Stock,2024-01-24,Rejected
+SUB_0022945,ORD_00192692,STR_010,SKU_0019,SKU_0428,Fruits & Vegetables,Baby & Kids,False,703.0,False,Out of Stock,2023-09-03,Rejected
+SUB_0030901,ORD_00257840,STR_003,SKU_0286,SKU_0130,Personal Care,Packaged Food,False,17.0,True,Damaged,2023-11-09,Accepted
+SUB_0015591,ORD_00131225,STR_004,SKU_0214,SKU_0271,Beverages,Personal Care,False,171.0,True,Out of Stock,2023-06-16,Accepted
+SUB_0005752,ORD_00048796,STR_003,SKU_0141,SKU_0327,Packaged Food,Household,False,-33.0,True,Out of Stock,2023-02-26,Accepted
+SUB_0031143,ORD_00259701,STR_001,SKU_0088,SKU_0370,Dairy & Eggs,Household,False,77.0,False,Out of Stock,2023-11-11,Rejected
+SUB_0035751,ORD_00297944,STR_005,SKU_0223,SKU_0092,Beverages,Dairy & Eggs,False,-102.0,True,Out of Stock,2023-12-17,Accepted
+SUB_0029369,ORD_00245602,STR_003,SKU_0006,SKU_0014,Fruits & Vegetables,Fruits & Vegetables,True,-15.0,True,Out of Stock,2023-10-29,Accepted
+SUB_0003132,ORD_00026914,STR_004,SKU_0236,SKU_0382,Beverages,Baby & Kids,False,663.0,False,Out of Stock,2023-01-29,Rejected
+SUB_0011602,ORD_00097864,STR_010,SKU_0326,SKU_0041,Household,Fruits & Vegetables,False,-57.0,True,Out of Stock,2023-04-29,Accepted
+SUB_0007894,ORD_00066443,STR_007,SKU_0055,SKU_0188,Fruits & Vegetables,Beverages,False,120.0,False,Out of Stock,2023-03-20,Rejected
+SUB_0013421,ORD_00113101,STR_004,SKU_0160,SKU_0356,Packaged Food,Household,False,84.0,True,Out of Stock,2023-05-21,Accepted
+SUB_0022809,ORD_00191460,STR_007,SKU_0290,SKU_0232,Personal Care,Beverages,False,1.0,False,Damaged,2023-09-02,Rejected
+SUB_0001584,ORD_00013259,STR_010,SKU_0311,SKU_0464,Household,Snacks & Confectionery,False,-19.0,False,Out of Stock,2023-01-14,Rejected
+SUB_0030945,ORD_00258102,STR_006,SKU_0233,SKU_0344,Beverages,Household,False,177.0,False,Out of Stock,2023-11-09,Rejected
+SUB_0041694,ORD_00347077,STR_002,SKU_0477,SKU_0426,Snacks & Confectionery,Baby & Kids,False,439.0,True,Out of Stock,2024-02-09,Accepted
+SUB_0007653,ORD_00064467,STR_004,SKU_0277,SKU_0090,Personal Care,Dairy & Eggs,False,32.0,False,Damaged,2023-03-18,Rejected
+SUB_0024610,ORD_00206359,STR_008,SKU_0348,SKU_0483,Household,Snacks & Confectionery,False,-211.0,True,Out of Stock,2023-09-21,Accepted
+SUB_0054109,ORD_00450703,STR_005,SKU_0349,SKU_0292,Household,Personal Care,False,-116.0,False,Out of Stock,2024-06-26,Rejected
+SUB_0013819,ORD_00116306,STR_001,SKU_0315,SKU_0151,Household,Packaged Food,False,67.0,False,Expired,2023-05-26,Rejected
+SUB_0021136,ORD_00177539,STR_007,SKU_0090,SKU_0295,Dairy & Eggs,Personal Care,False,47.0,True,Out of Stock,2023-08-15,Accepted
+SUB_0053915,ORD_00448962,STR_008,SKU_0336,SKU_0400,Household,Baby & Kids,False,320.0,True,Out of Stock,2024-06-23,Accepted
+SUB_0033310,ORD_00277435,STR_004,SKU_0489,SKU_0237,Snacks & Confectionery,Beverages,False,23.0,False,Out of Stock,2023-11-26,Rejected
+SUB_0036832,ORD_00307171,STR_004,SKU_0203,SKU_0002,Beverages,Fruits & Vegetables,False,-68.0,False,Out of Stock,2023-12-27,Rejected
+SUB_0045087,ORD_00375551,STR_006,SKU_0492,SKU_0075,Snacks & Confectionery,Dairy & Eggs,False,5.0,True,Out of Stock,2024-03-16,Accepted
+SUB_0007704,ORD_00064939,STR_009,SKU_0151,SKU_0426,Packaged Food,Baby & Kids,False,337.0,True,Out of Stock,2023-03-18,Accepted
+SUB_0008478,ORD_00071503,STR_001,SKU_0244,SKU_0109,Beverages,Dairy & Eggs,False,41.0,False,Out of Stock,2023-03-27,Rejected
+SUB_0049611,ORD_00412844,STR_008,SKU_0466,SKU_0440,Snacks & Confectionery,Snacks & Confectionery,True,26.0,False,Expired,2024-05-03,Rejected
+SUB_0050054,ORD_00416717,STR_001,SKU_0376,SKU_0128,Baby & Kids,Packaged Food,False,-592.0,True,Out of Stock,2024-05-09,Accepted
+SUB_0007674,ORD_00064667,STR_006,SKU_0369,SKU_0179,Household,Packaged Food,False,-125.0,True,Out of Stock,2023-03-18,Accepted
+SUB_0010689,ORD_00089969,STR_010,SKU_0016,SKU_0067,Fruits & Vegetables,Dairy & Eggs,False,1.0,False,Expired,2023-04-19,Rejected
+SUB_0026482,ORD_00221654,STR_001,SKU_0345,SKU_0342,Household,Household,True,172.0,True,Out of Stock,2023-10-08,Accepted
+SUB_0006247,ORD_00052833,STR_006,SKU_0212,SKU_0370,Beverages,Household,False,69.0,False,Out of Stock,2023-03-03,Rejected
+SUB_0044827,ORD_00373371,STR_007,SKU_0429,SKU_0181,Baby & Kids,Packaged Food,False,-222.0,False,Damaged,2024-03-13,Rejected
+SUB_0003929,ORD_00033765,STR_007,SKU_0291,SKU_0254,Personal Care,Personal Care,True,-24.0,True,Out of Stock,2023-02-06,Accepted
+SUB_0010853,ORD_00091544,STR_001,SKU_0326,SKU_0169,Household,Packaged Food,False,138.0,True,Out of Stock,2023-04-22,Accepted
+SUB_0020624,ORD_00172925,STR_009,SKU_0312,SKU_0096,Household,Dairy & Eggs,False,-28.0,False,Out of Stock,2023-08-09,Rejected
+SUB_0040489,ORD_00336829,STR_007,SKU_0021,SKU_0475,Fruits & Vegetables,Snacks & Confectionery,False,-31.0,False,Out of Stock,2024-01-27,Rejected
+SUB_0018669,ORD_00156939,STR_007,SKU_0396,SKU_0096,Baby & Kids,Dairy & Eggs,False,-426.0,False,Damaged,2023-07-20,Rejected
+SUB_0039904,ORD_00332050,STR_004,SKU_0270,SKU_0117,Personal Care,Dairy & Eggs,False,-135.0,False,Out of Stock,2024-01-22,Rejected
+SUB_0041558,ORD_00345777,STR_003,SKU_0237,SKU_0152,Beverages,Packaged Food,False,-69.0,False,Expired,2024-02-07,Rejected
+SUB_0006235,ORD_00052751,STR_006,SKU_0066,SKU_0318,Dairy & Eggs,Household,False,119.0,False,Out of Stock,2023-03-03,Rejected
+SUB_0021213,ORD_00178219,STR_006,SKU_0437,SKU_0384,Snacks & Confectionery,Baby & Kids,False,226.0,False,Out of Stock,2023-08-16,Rejected
+SUB_0040323,ORD_00335389,STR_004,SKU_0321,SKU_0235,Household,Beverages,False,-21.0,True,Expired,2024-01-26,Accepted
+SUB_0006822,ORD_00057535,STR_006,SKU_0066,SKU_0352,Dairy & Eggs,Household,False,55.0,False,Damaged,2023-03-09,Rejected
+SUB_0034810,ORD_00290123,STR_004,SKU_0493,SKU_0239,Snacks & Confectionery,Beverages,False,-63.0,False,Out of Stock,2023-12-09,Rejected
+SUB_0035724,ORD_00297621,STR_002,SKU_0492,SKU_0348,Snacks & Confectionery,Household,False,240.0,False,Out of Stock,2023-12-17,Rejected
+SUB_0009036,ORD_00076297,STR_004,SKU_0191,SKU_0089,Beverages,Dairy & Eggs,False,78.0,False,Out of Stock,2023-04-02,Rejected
+SUB_0026263,ORD_00219902,STR_008,SKU_0088,SKU_0072,Dairy & Eggs,Dairy & Eggs,True,84.0,True,Out of Stock,2023-10-06,Accepted
+SUB_0008480,ORD_00071516,STR_002,SKU_0444,SKU_0026,Snacks & Confectionery,Fruits & Vegetables,False,41.0,False,Out of Stock,2023-03-27,Rejected
+SUB_0011763,ORD_00099307,STR_007,SKU_0105,SKU_0201,Dairy & Eggs,Beverages,False,-81.0,False,Out of Stock,2023-05-01,Rejected
+SUB_0024185,ORD_00202939,STR_003,SKU_0369,SKU_0266,Household,Personal Care,False,136.0,False,Out of Stock,2023-09-17,Rejected
+SUB_0053658,ORD_00446837,STR_001,SKU_0076,SKU_0241,Dairy & Eggs,Beverages,False,111.0,False,Out of Stock,2024-06-21,Rejected
+SUB_0001813,ORD_00015336,STR_001,SKU_0136,SKU_0281,Packaged Food,Personal Care,False,103.0,True,Out of Stock,2023-01-17,Accepted
+SUB_0039025,ORD_00325016,STR_010,SKU_0096,SKU_0011,Dairy & Eggs,Fruits & Vegetables,False,-87.0,True,Out of Stock,2024-01-14,Accepted
+SUB_0001040,ORD_00008792,STR_002,SKU_0353,SKU_0416,Household,Baby & Kids,False,304.0,True,Out of Stock,2023-01-10,Accepted
+SUB_0053612,ORD_00446425,STR_005,SKU_0133,SKU_0016,Packaged Food,Fruits & Vegetables,False,38.0,False,Out of Stock,2024-06-20,Rejected
+SUB_0044034,ORD_00366459,STR_005,SKU_0314,SKU_0404,Household,Baby & Kids,False,158.0,False,Out of Stock,2024-03-04,Rejected
+SUB_0021888,ORD_00183699,STR_005,SKU_0418,SKU_0446,Baby & Kids,Snacks & Confectionery,False,-507.0,False,Damaged,2023-08-23,Rejected
+SUB_0001976,ORD_00016585,STR_005,SKU_0306,SKU_0109,Personal Care,Dairy & Eggs,False,-135.0,False,Out of Stock,2023-01-18,Rejected
+SUB_0048621,ORD_00404958,STR_001,SKU_0016,SKU_0273,Fruits & Vegetables,Personal Care,False,160.0,False,Out of Stock,2024-04-23,Rejected
+SUB_0051563,ORD_00429069,STR_006,SKU_0380,SKU_0199,Baby & Kids,Beverages,False,-490.0,False,Out of Stock,2024-05-26,Rejected
+SUB_0048508,ORD_00403885,STR_007,SKU_0284,SKU_0152,Personal Care,Packaged Food,False,-136.0,False,Out of Stock,2024-04-21,Rejected
+SUB_0031104,ORD_00259415,STR_009,SKU_0004,SKU_0325,Fruits & Vegetables,Household,False,-29.0,True,Out of Stock,2023-11-10,Accepted
+SUB_0013959,ORD_00117479,STR_007,SKU_0267,SKU_0249,Personal Care,Personal Care,True,-49.0,False,Out of Stock,2023-05-27,Rejected
+SUB_0036023,ORD_00300124,STR_008,SKU_0263,SKU_0396,Personal Care,Baby & Kids,False,512.0,False,Expired,2023-12-19,Rejected
+SUB_0034472,ORD_00287399,STR_003,SKU_0181,SKU_0121,Packaged Food,Dairy & Eggs,False,26.0,True,Out of Stock,2023-12-06,Accepted
+SUB_0024383,ORD_00204610,STR_004,SKU_0330,SKU_0429,Household,Baby & Kids,False,206.0,False,Out of Stock,2023-09-19,Rejected
+SUB_0010584,ORD_00089086,STR_007,SKU_0377,SKU_0428,Baby & Kids,Baby & Kids,True,312.0,False,Out of Stock,2023-04-18,Rejected
+SUB_0013624,ORD_00114757,STR_008,SKU_0114,SKU_0134,Dairy & Eggs,Packaged Food,False,-109.0,True,Out of Stock,2023-05-23,Accepted
+SUB_0014338,ORD_00120807,STR_006,SKU_0291,SKU_0183,Personal Care,Packaged Food,False,-130.0,True,Out of Stock,2023-06-01,Accepted
+SUB_0019914,ORD_00167027,STR_006,SKU_0329,SKU_0349,Household,Household,True,-14.0,True,Out of Stock,2023-08-02,Accepted
+SUB_0050446,ORD_00419986,STR_006,SKU_0499,SKU_0069,Snacks & Confectionery,Dairy & Eggs,False,15.0,True,Damaged,2024-05-13,Accepted
+SUB_0029112,ORD_00243540,STR_007,SKU_0432,SKU_0392,Baby & Kids,Baby & Kids,True,-108.0,True,Out of Stock,2023-10-27,Accepted
+SUB_0010391,ORD_00087380,STR_005,SKU_0057,SKU_0075,Fruits & Vegetables,Dairy & Eggs,False,17.0,True,Out of Stock,2023-04-16,Accepted
+SUB_0009011,ORD_00076116,STR_002,SKU_0433,SKU_0402,Baby & Kids,Baby & Kids,True,-252.0,True,Out of Stock,2023-04-02,Accepted
+SUB_0036942,ORD_00308061,STR_004,SKU_0156,SKU_0263,Packaged Food,Personal Care,False,-48.0,False,Out of Stock,2023-12-28,Rejected
+SUB_0043682,ORD_00363550,STR_001,SKU_0165,SKU_0030,Packaged Food,Fruits & Vegetables,False,-175.0,False,Out of Stock,2024-03-01,Rejected
+SUB_0035003,ORD_00291694,STR_008,SKU_0063,SKU_0058,Dairy & Eggs,Fruits & Vegetables,False,24.0,True,Damaged,2023-12-10,Accepted
+SUB_0037633,ORD_00313724,STR_003,SKU_0267,SKU_0018,Personal Care,Fruits & Vegetables,False,-92.0,True,Out of Stock,2024-01-03,Accepted
+SUB_0015032,ORD_00126669,STR_010,SKU_0479,SKU_0332,Snacks & Confectionery,Household,False,79.0,False,Out of Stock,2023-06-09,Rejected
+SUB_0008271,ORD_00069892,STR_004,SKU_0055,SKU_0085,Fruits & Vegetables,Dairy & Eggs,False,4.0,False,Out of Stock,2023-03-25,Rejected
+SUB_0017194,ORD_00144615,STR_009,SKU_0455,SKU_0490,Snacks & Confectionery,Snacks & Confectionery,True,1.0,False,Out of Stock,2023-07-04,Rejected
+SUB_0045755,ORD_00380998,STR_006,SKU_0194,SKU_0229,Beverages,Beverages,True,78.0,True,Out of Stock,2024-03-23,Accepted
+SUB_0042185,ORD_00351247,STR_002,SKU_0015,SKU_0319,Fruits & Vegetables,Household,False,92.0,False,Out of Stock,2024-02-14,Rejected
+SUB_0005374,ORD_00045578,STR_002,SKU_0293,SKU_0317,Personal Care,Household,False,91.0,True,Out of Stock,2023-02-22,Accepted
+SUB_0035175,ORD_00293144,STR_004,SKU_0238,SKU_0406,Beverages,Baby & Kids,False,232.0,False,Out of Stock,2023-12-12,Rejected
+SUB_0009761,ORD_00082005,STR_006,SKU_0471,SKU_0433,Snacks & Confectionery,Baby & Kids,False,478.0,True,Out of Stock,2023-04-09,Accepted
+SUB_0051005,ORD_00424790,STR_005,SKU_0484,SKU_0048,Snacks & Confectionery,Fruits & Vegetables,False,-49.0,True,Out of Stock,2024-05-20,Accepted
+SUB_0011322,ORD_00095619,STR_001,SKU_0276,SKU_0052,Personal Care,Fruits & Vegetables,False,20.0,True,Out of Stock,2023-04-27,Accepted
+SUB_0028728,ORD_00240324,STR_005,SKU_0415,SKU_0316,Baby & Kids,Household,False,-159.0,False,Out of Stock,2023-10-24,Rejected
+SUB_0034757,ORD_00289667,STR_010,SKU_0265,SKU_0227,Personal Care,Beverages,False,-161.0,False,Damaged,2023-12-08,Rejected
+SUB_0035838,ORD_00298594,STR_001,SKU_0171,SKU_0307,Packaged Food,Personal Care,False,-22.0,True,Out of Stock,2023-12-18,Accepted
+SUB_0006624,ORD_00056008,STR_004,SKU_0339,SKU_0088,Household,Dairy & Eggs,False,-73.0,True,Out of Stock,2023-03-07,Accepted
+SUB_0047123,ORD_00392461,STR_001,SKU_0147,SKU_0349,Packaged Food,Household,False,-80.0,False,Out of Stock,2024-04-07,Rejected
+SUB_0053544,ORD_00445811,STR_005,SKU_0498,SKU_0006,Snacks & Confectionery,Fruits & Vegetables,False,-35.0,False,Out of Stock,2024-06-19,Rejected
+SUB_0005990,ORD_00050683,STR_006,SKU_0464,SKU_0218,Snacks & Confectionery,Beverages,False,-66.0,False,Out of Stock,2023-02-28,Rejected
+SUB_0017999,ORD_00151380,STR_006,SKU_0402,SKU_0273,Baby & Kids,Personal Care,False,-85.0,False,Out of Stock,2023-07-13,Rejected
+SUB_0010507,ORD_00088406,STR_008,SKU_0397,SKU_0375,Baby & Kids,Baby & Kids,True,-351.0,False,Out of Stock,2023-04-17,Rejected
+SUB_0010918,ORD_00092102,STR_007,SKU_0355,SKU_0363,Household,Household,True,68.0,True,Out of Stock,2023-04-22,Accepted
+SUB_0018533,ORD_00155836,STR_002,SKU_0045,SKU_0125,Fruits & Vegetables,Packaged Food,False,-28.0,False,Out of Stock,2023-07-19,Rejected
+SUB_0042661,ORD_00355240,STR_001,SKU_0117,SKU_0037,Dairy & Eggs,Fruits & Vegetables,False,-39.0,True,Out of Stock,2024-02-19,Accepted
+SUB_0014336,ORD_00120798,STR_006,SKU_0184,SKU_0216,Packaged Food,Beverages,False,-86.0,False,Out of Stock,2023-06-01,Rejected
+SUB_0043119,ORD_00358899,STR_002,SKU_0392,SKU_0262,Baby & Kids,Personal Care,False,27.0,False,Out of Stock,2024-02-24,Rejected
+SUB_0048931,ORD_00407467,STR_006,SKU_0375,SKU_0397,Baby & Kids,Baby & Kids,True,351.0,False,Damaged,2024-04-26,Rejected
+SUB_0016881,ORD_00142060,STR_006,SKU_0244,SKU_0442,Beverages,Snacks & Confectionery,False,11.0,False,Out of Stock,2023-07-01,Rejected
+SUB_0037237,ORD_00310459,STR_009,SKU_0346,SKU_0077,Household,Dairy & Eggs,False,-196.0,False,Out of Stock,2023-12-30,Rejected
+SUB_0012871,ORD_00108343,STR_006,SKU_0120,SKU_0480,Dairy & Eggs,Snacks & Confectionery,False,35.0,False,Damaged,2023-05-14,Rejected
+SUB_0000682,ORD_00005614,STR_002,SKU_0010,SKU_0365,Fruits & Vegetables,Household,False,261.0,False,Damaged,2023-01-07,Rejected
+SUB_0033138,ORD_00276062,STR_005,SKU_0126,SKU_0476,Packaged Food,Snacks & Confectionery,False,55.0,True,Out of Stock,2023-11-25,Accepted
+SUB_0032388,ORD_00269891,STR_007,SKU_0319,SKU_0308,Household,Personal Care,False,44.0,False,Out of Stock,2023-11-19,Rejected
+SUB_0015298,ORD_00128790,STR_006,SKU_0381,SKU_0028,Baby & Kids,Fruits & Vegetables,False,-182.0,False,Out of Stock,2023-06-12,Rejected
+SUB_0043276,ORD_00360355,STR_007,SKU_0125,SKU_0430,Packaged Food,Baby & Kids,False,305.0,False,Damaged,2024-02-25,Rejected
+SUB_0053279,ORD_00443465,STR_001,SKU_0390,SKU_0106,Baby & Kids,Dairy & Eggs,False,-510.0,False,Out of Stock,2024-06-16,Rejected
+SUB_0045360,ORD_00377855,STR_004,SKU_0341,SKU_0381,Household,Baby & Kids,False,57.0,False,Out of Stock,2024-03-19,Rejected
+SUB_0014145,ORD_00119138,STR_009,SKU_0314,SKU_0480,Household,Snacks & Confectionery,False,45.0,True,Out of Stock,2023-05-29,Accepted
+SUB_0003800,ORD_00032678,STR_004,SKU_0352,SKU_0386,Household,Baby & Kids,False,-147.0,False,Out of Stock,2023-02-05,Rejected
+SUB_0045602,ORD_00379694,STR_010,SKU_0048,SKU_0232,Fruits & Vegetables,Beverages,False,-41.0,False,Damaged,2024-03-21,Rejected
+SUB_0001633,ORD_00013698,STR_004,SKU_0345,SKU_0090,Household,Dairy & Eggs,False,-102.0,False,Out of Stock,2023-01-15,Rejected
+SUB_0002609,ORD_00022243,STR_004,SKU_0068,SKU_0349,Dairy & Eggs,Household,False,163.0,True,Out of Stock,2023-01-24,Accepted
+SUB_0027378,ORD_00228992,STR_007,SKU_0024,SKU_0439,Fruits & Vegetables,Snacks & Confectionery,False,7.0,True,Out of Stock,2023-10-14,Accepted
+SUB_0050571,ORD_00421083,STR_004,SKU_0216,SKU_0385,Beverages,Baby & Kids,False,248.0,False,Out of Stock,2024-05-15,Rejected
+SUB_0030761,ORD_00256531,STR_010,SKU_0275,SKU_0228,Personal Care,Beverages,False,32.0,True,Out of Stock,2023-11-07,Accepted
+SUB_0000891,ORD_00007402,STR_007,SKU_0080,SKU_0047,Dairy & Eggs,Fruits & Vegetables,False,-50.0,False,Out of Stock,2023-01-08,Rejected
+SUB_0020193,ORD_00169334,STR_006,SKU_0139,SKU_0319,Packaged Food,Household,False,6.0,False,Out of Stock,2023-08-05,Rejected
+SUB_0017952,ORD_00151021,STR_001,SKU_0317,SKU_0039,Household,Fruits & Vegetables,False,-126.0,False,Out of Stock,2023-07-13,Rejected
+SUB_0033037,ORD_00275277,STR_008,SKU_0402,SKU_0337,Baby & Kids,Household,False,-131.0,False,Out of Stock,2023-11-24,Rejected
+SUB_0029157,ORD_00243875,STR_010,SKU_0378,SKU_0376,Baby & Kids,Baby & Kids,True,178.0,False,Out of Stock,2023-10-27,Rejected
+SUB_0026431,ORD_00221273,STR_009,SKU_0383,SKU_0042,Baby & Kids,Fruits & Vegetables,False,-487.0,False,Out of Stock,2023-10-07,Rejected
+SUB_0037668,ORD_00313934,STR_005,SKU_0103,SKU_0385,Dairy & Eggs,Baby & Kids,False,224.0,True,Damaged,2024-01-03,Accepted
+SUB_0037182,ORD_00310157,STR_006,SKU_0268,SKU_0127,Personal Care,Packaged Food,False,-105.0,False,Out of Stock,2023-12-30,Rejected
+SUB_0014751,ORD_00124335,STR_004,SKU_0321,SKU_0265,Household,Personal Care,False,168.0,False,Expired,2023-06-06,Rejected
+SUB_0038003,ORD_00316558,STR_005,SKU_0087,SKU_0379,Dairy & Eggs,Baby & Kids,False,303.0,False,Out of Stock,2024-01-06,Rejected
+SUB_0032419,ORD_00270104,STR_009,SKU_0484,SKU_0111,Snacks & Confectionery,Dairy & Eggs,False,-42.0,False,Out of Stock,2023-11-19,Rejected
+SUB_0005930,ORD_00050181,STR_009,SKU_0090,SKU_0194,Dairy & Eggs,Beverages,False,-6.0,True,Out of Stock,2023-02-27,Accepted
+SUB_0047829,ORD_00398152,STR_005,SKU_0143,SKU_0269,Packaged Food,Personal Care,False,108.0,True,Expired,2024-04-14,Accepted
+SUB_0051366,ORD_00427451,STR_006,SKU_0298,SKU_0457,Personal Care,Snacks & Confectionery,False,-54.0,True,Out of Stock,2024-05-24,Accepted
+SUB_0041615,ORD_00346288,STR_010,SKU_0205,SKU_0431,Beverages,Baby & Kids,False,449.0,True,Out of Stock,2024-02-07,Accepted
+SUB_0010198,ORD_00085667,STR_006,SKU_0428,SKU_0236,Baby & Kids,Beverages,False,-713.0,True,Out of Stock,2023-04-14,Accepted
+SUB_0006226,ORD_00052681,STR_004,SKU_0197,SKU_0472,Beverages,Snacks & Confectionery,False,29.0,True,Out of Stock,2023-03-03,Accepted
+SUB_0014713,ORD_00123977,STR_008,SKU_0473,SKU_0162,Snacks & Confectionery,Packaged Food,False,99.0,True,Out of Stock,2023-06-05,Accepted
+SUB_0029822,ORD_00248999,STR_002,SKU_0281,SKU_0390,Personal Care,Baby & Kids,False,332.0,True,Damaged,2023-11-01,Accepted
+SUB_0007965,ORD_00067101,STR_006,SKU_0334,SKU_0422,Household,Baby & Kids,False,491.0,False,Out of Stock,2023-03-21,Rejected
+SUB_0010437,ORD_00087769,STR_009,SKU_0100,SKU_0339,Dairy & Eggs,Household,False,-33.0,False,Expired,2023-04-16,Rejected
+SUB_0030096,ORD_00251436,STR_007,SKU_0089,SKU_0288,Dairy & Eggs,Personal Care,False,185.0,True,Out of Stock,2023-11-03,Accepted
+SUB_0014218,ORD_00119787,STR_009,SKU_0247,SKU_0232,Beverages,Beverages,True,-50.0,True,Out of Stock,2023-05-30,Accepted
+SUB_0035941,ORD_00299393,STR_009,SKU_0109,SKU_0449,Dairy & Eggs,Snacks & Confectionery,False,-90.0,True,Out of Stock,2023-12-18,Accepted
+SUB_0048389,ORD_00402915,STR_007,SKU_0081,SKU_0135,Dairy & Eggs,Packaged Food,False,-43.0,False,Damaged,2024-04-20,Rejected
+SUB_0014314,ORD_00120605,STR_002,SKU_0071,SKU_0204,Dairy & Eggs,Beverages,False,50.0,False,Out of Stock,2023-06-01,Rejected
+SUB_0047109,ORD_00392361,STR_010,SKU_0281,SKU_0384,Personal Care,Baby & Kids,False,57.0,True,Out of Stock,2024-04-06,Accepted
+SUB_0039464,ORD_00328257,STR_008,SKU_0187,SKU_0465,Beverages,Snacks & Confectionery,False,9.0,True,Out of Stock,2024-01-18,Accepted
+SUB_0049700,ORD_00413569,STR_007,SKU_0368,SKU_0117,Household,Dairy & Eggs,False,74.0,True,Out of Stock,2024-05-04,Accepted
+SUB_0007846,ORD_00066093,STR_002,SKU_0245,SKU_0264,Beverages,Personal Care,False,-86.0,False,Out of Stock,2023-03-20,Rejected
+SUB_0044891,ORD_00373940,STR_005,SKU_0097,SKU_0119,Dairy & Eggs,Dairy & Eggs,True,-80.0,True,Out of Stock,2024-03-14,Accepted
+SUB_0034542,ORD_00287927,STR_009,SKU_0251,SKU_0282,Personal Care,Personal Care,True,-131.0,True,Out of Stock,2023-12-06,Accepted
+SUB_0039782,ORD_00330953,STR_004,SKU_0203,SKU_0238,Beverages,Beverages,True,60.0,True,Damaged,2024-01-21,Accepted
+SUB_0004806,ORD_00041019,STR_003,SKU_0298,SKU_0100,Personal Care,Dairy & Eggs,False,-39.0,True,Out of Stock,2023-02-16,Accepted
+SUB_0051501,ORD_00428637,STR_001,SKU_0369,SKU_0364,Household,Household,True,11.0,False,Out of Stock,2024-05-26,Rejected
+SUB_0015131,ORD_00127411,STR_008,SKU_0416,SKU_0477,Baby & Kids,Snacks & Confectionery,False,-357.0,True,Out of Stock,2023-06-10,Accepted
+SUB_0020256,ORD_00169776,STR_010,SKU_0391,SKU_0488,Baby & Kids,Snacks & Confectionery,False,-326.0,True,Out of Stock,2023-08-05,Accepted
+SUB_0015369,ORD_00129298,STR_005,SKU_0413,SKU_0382,Baby & Kids,Baby & Kids,True,207.0,True,Damaged,2023-06-13,Accepted
+SUB_0051384,ORD_00427596,STR_008,SKU_0292,SKU_0114,Personal Care,Dairy & Eggs,False,20.0,False,Out of Stock,2024-05-24,Rejected
+SUB_0052350,ORD_00435463,STR_005,SKU_0025,SKU_0301,Fruits & Vegetables,Personal Care,False,177.0,True,Out of Stock,2024-06-04,Accepted
+SUB_0036084,ORD_00300694,STR_005,SKU_0017,SKU_0174,Fruits & Vegetables,Packaged Food,False,101.0,True,Out of Stock,2023-12-20,Accepted
+SUB_0040528,ORD_00337122,STR_010,SKU_0239,SKU_0079,Beverages,Dairy & Eggs,False,89.0,True,Out of Stock,2024-01-27,Accepted
+SUB_0042392,ORD_00352895,STR_006,SKU_0059,SKU_0304,Fruits & Vegetables,Personal Care,False,187.0,False,Expired,2024-02-16,Rejected
+SUB_0017738,ORD_00149031,STR_004,SKU_0107,SKU_0040,Dairy & Eggs,Fruits & Vegetables,False,-40.0,False,Out of Stock,2023-07-10,Rejected
+SUB_0012831,ORD_00107985,STR_002,SKU_0242,SKU_0353,Beverages,Household,False,45.0,False,Out of Stock,2023-05-14,Rejected
+SUB_0033241,ORD_00276881,STR_010,SKU_0271,SKU_0409,Personal Care,Baby & Kids,False,-75.0,False,Out of Stock,2023-11-25,Rejected
+SUB_0049371,ORD_00410979,STR_008,SKU_0478,SKU_0062,Snacks & Confectionery,Fruits & Vegetables,False,-53.0,False,Out of Stock,2024-04-30,Rejected
+SUB_0017364,ORD_00146206,STR_001,SKU_0364,SKU_0323,Household,Household,True,-70.0,True,Out of Stock,2023-07-07,Accepted
+SUB_0016163,ORD_00136199,STR_004,SKU_0186,SKU_0098,Packaged Food,Dairy & Eggs,False,-80.0,False,Out of Stock,2023-06-23,Rejected
+SUB_0017783,ORD_00149499,STR_010,SKU_0222,SKU_0387,Beverages,Baby & Kids,False,134.0,True,Expired,2023-07-10,Accepted
+SUB_0049472,ORD_00411780,STR_001,SKU_0366,SKU_0252,Household,Personal Care,False,203.0,False,Damaged,2024-05-02,Rejected
+SUB_0009126,ORD_00077151,STR_003,SKU_0447,SKU_0270,Snacks & Confectionery,Personal Care,False,100.0,True,Expired,2023-04-03,Accepted
+SUB_0048412,ORD_00403108,STR_009,SKU_0355,SKU_0050,Household,Fruits & Vegetables,False,6.0,False,Expired,2024-04-20,Rejected
+SUB_0017617,ORD_00148072,STR_003,SKU_0145,SKU_0488,Packaged Food,Snacks & Confectionery,False,-226.0,True,Out of Stock,2023-07-09,Accepted
+SUB_0050861,ORD_00423553,STR_010,SKU_0389,SKU_0301,Baby & Kids,Personal Care,False,-413.0,False,Out of Stock,2024-05-18,Rejected
+SUB_0031243,ORD_00260489,STR_007,SKU_0482,SKU_0366,Snacks & Confectionery,Household,False,0.0,False,Expired,2023-11-11,Rejected
+SUB_0048557,ORD_00404405,STR_003,SKU_0240,SKU_0405,Beverages,Baby & Kids,False,210.0,False,Out of Stock,2024-04-22,Rejected
+SUB_0018454,ORD_00155154,STR_002,SKU_0363,SKU_0065,Household,Dairy & Eggs,False,27.0,True,Out of Stock,2023-07-18,Accepted
+SUB_0008649,ORD_00073187,STR_005,SKU_0092,SKU_0177,Dairy & Eggs,Packaged Food,False,90.0,False,Out of Stock,2023-03-29,Rejected
+SUB_0028792,ORD_00240786,STR_010,SKU_0463,SKU_0224,Snacks & Confectionery,Beverages,False,0.0,True,Out of Stock,2023-10-24,Accepted
+SUB_0039443,ORD_00328042,STR_006,SKU_0339,SKU_0440,Household,Snacks & Confectionery,False,-12.0,True,Out of Stock,2024-01-18,Accepted
+SUB_0048653,ORD_00405252,STR_005,SKU_0370,SKU_0464,Household,Snacks & Confectionery,False,31.0,False,Out of Stock,2024-04-23,Rejected
+SUB_0040845,ORD_00339692,STR_006,SKU_0210,SKU_0300,Beverages,Personal Care,False,254.0,False,Damaged,2024-01-30,Rejected
+SUB_0005861,ORD_00049624,STR_002,SKU_0053,SKU_0242,Fruits & Vegetables,Beverages,False,73.0,True,Damaged,2023-02-27,Accepted
+SUB_0012075,ORD_00101856,STR_007,SKU_0482,SKU_0476,Snacks & Confectionery,Snacks & Confectionery,True,-61.0,True,Out of Stock,2023-05-05,Accepted
+SUB_0013338,ORD_00112355,STR_006,SKU_0074,SKU_0046,Dairy & Eggs,Fruits & Vegetables,False,-22.0,True,Out of Stock,2023-05-20,Accepted
+SUB_0021713,ORD_00182395,STR_008,SKU_0120,SKU_0320,Dairy & Eggs,Household,False,107.0,False,Out of Stock,2023-08-21,Rejected
+SUB_0020816,ORD_00174678,STR_003,SKU_0256,SKU_0103,Personal Care,Dairy & Eggs,False,11.0,False,Damaged,2023-08-12,Rejected
+SUB_0033802,ORD_00281547,STR_002,SKU_0151,SKU_0267,Packaged Food,Personal Care,False,-73.0,False,Expired,2023-11-30,Rejected
+SUB_0042810,ORD_00356329,STR_006,SKU_0070,SKU_0191,Dairy & Eggs,Beverages,False,-133.0,False,Out of Stock,2024-02-20,Rejected
+SUB_0053156,ORD_00442502,STR_009,SKU_0405,SKU_0413,Baby & Kids,Baby & Kids,True,110.0,True,Expired,2024-06-14,Accepted
+SUB_0040427,ORD_00336350,STR_004,SKU_0208,SKU_0178,Beverages,Packaged Food,False,-80.0,False,Out of Stock,2024-01-27,Rejected
+SUB_0029495,ORD_00246468,STR_009,SKU_0491,SKU_0124,Snacks & Confectionery,Dairy & Eggs,False,47.0,True,Out of Stock,2023-10-29,Accepted
+SUB_0014659,ORD_00123472,STR_010,SKU_0396,SKU_0064,Baby & Kids,Dairy & Eggs,False,-435.0,False,Out of Stock,2023-06-04,Rejected
+SUB_0028797,ORD_00240819,STR_010,SKU_0373,SKU_0364,Household,Household,True,36.0,True,Out of Stock,2023-10-24,Accepted
+SUB_0034839,ORD_00290316,STR_005,SKU_0377,SKU_0095,Baby & Kids,Dairy & Eggs,False,-337.0,False,Out of Stock,2023-12-09,Rejected
+SUB_0008275,ORD_00069915,STR_004,SKU_0422,SKU_0121,Baby & Kids,Dairy & Eggs,False,-452.0,False,Out of Stock,2023-03-25,Rejected
+SUB_0012264,ORD_00103234,STR_004,SKU_0471,SKU_0186,Snacks & Confectionery,Packaged Food,False,114.0,True,Out of Stock,2023-05-07,Accepted
+SUB_0034806,ORD_00290088,STR_004,SKU_0433,SKU_0380,Baby & Kids,Baby & Kids,True,-37.0,True,Out of Stock,2023-12-09,Accepted
+SUB_0000587,ORD_00004772,STR_003,SKU_0094,SKU_0492,Dairy & Eggs,Snacks & Confectionery,False,-30.0,True,Damaged,2023-01-06,Accepted
+SUB_0032679,ORD_00272444,STR_001,SKU_0180,SKU_0016,Packaged Food,Fruits & Vegetables,False,-112.0,True,Damaged,2023-11-22,Accepted
+SUB_0018198,ORD_00152879,STR_006,SKU_0224,SKU_0180,Beverages,Packaged Food,False,87.0,False,Expired,2023-07-15,Rejected
+SUB_0000432,ORD_00003474,STR_008,SKU_0265,SKU_0424,Personal Care,Baby & Kids,False,-120.0,True,Out of Stock,2023-01-04,Accepted
+SUB_0040869,ORD_00339904,STR_009,SKU_0035,SKU_0425,Fruits & Vegetables,Baby & Kids,False,619.0,False,Out of Stock,2024-01-30,Rejected
+SUB_0002361,ORD_00019858,STR_009,SKU_0086,SKU_0391,Dairy & Eggs,Baby & Kids,False,260.0,False,Expired,2023-01-21,Rejected
+SUB_0016855,ORD_00141862,STR_005,SKU_0314,SKU_0333,Household,Household,True,-27.0,True,Out of Stock,2023-07-01,Accepted
+SUB_0040996,ORD_00341022,STR_002,SKU_0139,SKU_0172,Packaged Food,Packaged Food,True,-20.0,True,Out of Stock,2024-02-01,Accepted
+SUB_0052953,ORD_00440726,STR_001,SKU_0112,SKU_0398,Dairy & Eggs,Baby & Kids,False,391.0,True,Out of Stock,2024-06-12,Accepted
+SUB_0009379,ORD_00079165,STR_002,SKU_0001,SKU_0373,Fruits & Vegetables,Household,False,86.0,True,Damaged,2023-04-06,Accepted
+SUB_0040144,ORD_00333901,STR_005,SKU_0184,SKU_0117,Packaged Food,Dairy & Eggs,False,-53.0,True,Out of Stock,2024-01-24,Accepted
+SUB_0012497,ORD_00105178,STR_003,SKU_0298,SKU_0046,Personal Care,Fruits & Vegetables,False,-105.0,True,Out of Stock,2023-05-10,Accepted
+SUB_0050147,ORD_00417544,STR_005,SKU_0222,SKU_0100,Beverages,Dairy & Eggs,False,54.0,False,Damaged,2024-05-10,Rejected
+SUB_0026861,ORD_00224713,STR_008,SKU_0087,SKU_0113,Dairy & Eggs,Dairy & Eggs,True,-51.0,True,Out of Stock,2023-10-10,Accepted
+SUB_0010076,ORD_00084583,STR_001,SKU_0207,SKU_0035,Beverages,Fruits & Vegetables,False,21.0,False,Expired,2023-04-13,Rejected
+SUB_0015983,ORD_00134677,STR_001,SKU_0391,SKU_0206,Baby & Kids,Beverages,False,-199.0,False,Out of Stock,2023-06-21,Rejected
+SUB_0005091,ORD_00043217,STR_010,SKU_0248,SKU_0124,Beverages,Dairy & Eggs,False,-75.0,False,Out of Stock,2023-02-18,Rejected
+SUB_0017151,ORD_00144292,STR_004,SKU_0100,SKU_0243,Dairy & Eggs,Beverages,False,-5.0,False,Out of Stock,2023-07-04,Rejected
+SUB_0007452,ORD_00062671,STR_010,SKU_0377,SKU_0332,Baby & Kids,Household,False,-255.0,True,Out of Stock,2023-03-15,Accepted
+SUB_0012137,ORD_00102336,STR_004,SKU_0358,SKU_0352,Household,Household,True,-122.0,True,Out of Stock,2023-05-06,Accepted
+SUB_0051963,ORD_00432066,STR_010,SKU_0192,SKU_0409,Beverages,Baby & Kids,False,53.0,False,Out of Stock,2024-05-30,Rejected
+SUB_0012688,ORD_00106838,STR_009,SKU_0279,SKU_0025,Personal Care,Fruits & Vegetables,False,-110.0,True,Damaged,2023-05-12,Accepted
+SUB_0042827,ORD_00356455,STR_008,SKU_0315,SKU_0095,Household,Dairy & Eggs,False,-24.0,False,Out of Stock,2024-02-20,Rejected
+SUB_0007802,ORD_00065722,STR_007,SKU_0335,SKU_0457,Household,Snacks & Confectionery,False,-155.0,True,Out of Stock,2023-03-19,Accepted
+SUB_0025751,ORD_00215715,STR_007,SKU_0064,SKU_0257,Dairy & Eggs,Personal Care,False,65.0,True,Out of Stock,2023-10-02,Accepted
+SUB_0031930,ORD_00266221,STR_007,SKU_0099,SKU_0181,Dairy & Eggs,Packaged Food,False,-59.0,False,Out of Stock,2023-11-16,Rejected
+SUB_0043274,ORD_00360327,STR_007,SKU_0268,SKU_0003,Personal Care,Fruits & Vegetables,False,-147.0,True,Out of Stock,2024-02-25,Accepted
+SUB_0017820,ORD_00149815,STR_005,SKU_0082,SKU_0061,Dairy & Eggs,Fruits & Vegetables,False,-55.0,False,Out of Stock,2023-07-11,Rejected
+SUB_0033674,ORD_00280389,STR_001,SKU_0302,SKU_0280,Personal Care,Personal Care,True,13.0,True,Expired,2023-11-29,Accepted
+SUB_0007402,ORD_00062240,STR_004,SKU_0144,SKU_0467,Packaged Food,Snacks & Confectionery,False,-83.0,False,Out of Stock,2023-03-15,Rejected
+SUB_0020668,ORD_00173285,STR_004,SKU_0168,SKU_0272,Packaged Food,Personal Care,False,-85.0,False,Out of Stock,2023-08-10,Rejected
+SUB_0024974,ORD_00209504,STR_006,SKU_0316,SKU_0373,Household,Household,True,33.0,False,Out of Stock,2023-09-25,Rejected
+SUB_0026769,ORD_00223921,STR_010,SKU_0284,SKU_0482,Personal Care,Snacks & Confectionery,False,-71.0,False,Out of Stock,2023-10-09,Rejected
+SUB_0020340,ORD_00170579,STR_007,SKU_0420,SKU_0465,Baby & Kids,Snacks & Confectionery,False,-46.0,False,Out of Stock,2023-08-06,Rejected
+SUB_0025090,ORD_00210338,STR_007,SKU_0022,SKU_0317,Fruits & Vegetables,Household,False,104.0,True,Out of Stock,2023-09-26,Accepted
+SUB_0000709,ORD_00005835,STR_004,SKU_0312,SKU_0238,Household,Beverages,False,22.0,True,Out of Stock,2023-01-07,Accepted
+SUB_0023984,ORD_00201358,STR_005,SKU_0448,SKU_0029,Snacks & Confectionery,Fruits & Vegetables,False,37.0,True,Out of Stock,2023-09-15,Accepted
+SUB_0021979,ORD_00184444,STR_006,SKU_0011,SKU_0098,Fruits & Vegetables,Dairy & Eggs,False,68.0,False,Out of Stock,2023-08-24,Rejected
+SUB_0017553,ORD_00147539,STR_007,SKU_0415,SKU_0266,Baby & Kids,Personal Care,False,35.0,False,Out of Stock,2023-07-08,Rejected
+SUB_0007290,ORD_00061364,STR_002,SKU_0474,SKU_0089,Snacks & Confectionery,Dairy & Eggs,False,54.0,True,Expired,2023-03-14,Accepted
+SUB_0004615,ORD_00039325,STR_009,SKU_0349,SKU_0363,Household,Household,True,-118.0,True,Out of Stock,2023-02-13,Accepted
+SUB_0045450,ORD_00378444,STR_002,SKU_0418,SKU_0032,Baby & Kids,Fruits & Vegetables,False,-556.0,False,Out of Stock,2024-03-20,Rejected
+SUB_0009737,ORD_00081840,STR_004,SKU_0151,SKU_0475,Packaged Food,Snacks & Confectionery,False,-161.0,True,Expired,2023-04-09,Accepted
+SUB_0010459,ORD_00087986,STR_002,SKU_0406,SKU_0323,Baby & Kids,Household,False,-295.0,False,Out of Stock,2023-04-17,Rejected
+SUB_0014521,ORD_00122372,STR_008,SKU_0046,SKU_0024,Fruits & Vegetables,Fruits & Vegetables,True,5.0,False,Out of Stock,2023-06-03,Rejected
+SUB_0041660,ORD_00346780,STR_007,SKU_0149,SKU_0333,Packaged Food,Household,False,33.0,False,Out of Stock,2024-02-08,Rejected
+SUB_0042989,ORD_00357744,STR_006,SKU_0132,SKU_0427,Packaged Food,Baby & Kids,False,243.0,False,Out of Stock,2024-02-22,Rejected
+SUB_0030451,ORD_00254229,STR_008,SKU_0222,SKU_0351,Beverages,Household,False,59.0,False,Out of Stock,2023-11-05,Rejected
+SUB_0005937,ORD_00050246,STR_010,SKU_0102,SKU_0151,Dairy & Eggs,Packaged Food,False,80.0,True,Out of Stock,2023-02-27,Accepted
+SUB_0053303,ORD_00443702,STR_004,SKU_0157,SKU_0153,Packaged Food,Packaged Food,True,-97.0,True,Damaged,2024-06-16,Accepted
+SUB_0053844,ORD_00448317,STR_001,SKU_0356,SKU_0034,Household,Fruits & Vegetables,False,-156.0,False,Out of Stock,2024-06-23,Rejected
+SUB_0009937,ORD_00083409,STR_004,SKU_0390,SKU_0301,Baby & Kids,Personal Care,False,-300.0,False,Out of Stock,2023-04-11,Rejected
+SUB_0018871,ORD_00158367,STR_006,SKU_0461,SKU_0449,Snacks & Confectionery,Snacks & Confectionery,True,27.0,True,Out of Stock,2023-07-22,Accepted
+SUB_0024133,ORD_00202565,STR_009,SKU_0078,SKU_0129,Dairy & Eggs,Packaged Food,False,-37.0,True,Out of Stock,2023-09-16,Accepted
+SUB_0028486,ORD_00238438,STR_007,SKU_0059,SKU_0220,Fruits & Vegetables,Beverages,False,59.0,True,Out of Stock,2023-10-22,Accepted
+SUB_0002550,ORD_00021679,STR_007,SKU_0136,SKU_0154,Packaged Food,Packaged Food,True,164.0,True,Out of Stock,2023-01-23,Accepted
+SUB_0035603,ORD_00296619,STR_003,SKU_0055,SKU_0465,Fruits & Vegetables,Snacks & Confectionery,False,-29.0,False,Out of Stock,2023-12-16,Rejected
+SUB_0038799,ORD_00322997,STR_003,SKU_0200,SKU_0181,Beverages,Packaged Food,False,-15.0,True,Out of Stock,2024-01-13,Accepted
+SUB_0023097,ORD_00193845,STR_007,SKU_0242,SKU_0186,Beverages,Packaged Food,False,79.0,False,Out of Stock,2023-09-05,Rejected
+SUB_0005266,ORD_00044662,STR_008,SKU_0143,SKU_0377,Packaged Food,Baby & Kids,False,304.0,True,Out of Stock,2023-02-20,Accepted
+SUB_0040589,ORD_00337591,STR_004,SKU_0159,SKU_0387,Packaged Food,Baby & Kids,False,86.0,False,Out of Stock,2024-01-28,Rejected
+SUB_0006316,ORD_00053480,STR_004,SKU_0041,SKU_0351,Fruits & Vegetables,Household,False,121.0,True,Out of Stock,2023-03-04,Accepted
+SUB_0046498,ORD_00387028,STR_002,SKU_0053,SKU_0135,Fruits & Vegetables,Packaged Food,False,34.0,False,Out of Stock,2024-03-31,Rejected
+SUB_0032286,ORD_00269056,STR_001,SKU_0360,SKU_0168,Household,Packaged Food,False,68.0,False,Out of Stock,2023-11-19,Rejected
+SUB_0045577,ORD_00379502,STR_007,SKU_0370,SKU_0050,Household,Fruits & Vegetables,False,-62.0,False,Damaged,2024-03-21,Rejected
+SUB_0021352,ORD_00179442,STR_004,SKU_0374,SKU_0393,Baby & Kids,Baby & Kids,True,280.0,True,Damaged,2023-08-18,Accepted
+SUB_0044209,ORD_00367898,STR_005,SKU_0053,SKU_0284,Fruits & Vegetables,Personal Care,False,181.0,False,Out of Stock,2024-03-06,Rejected
+SUB_0048663,ORD_00405350,STR_006,SKU_0295,SKU_0333,Personal Care,Household,False,3.0,True,Out of Stock,2024-04-23,Accepted
+SUB_0008373,ORD_00070703,STR_002,SKU_0042,SKU_0265,Fruits & Vegetables,Personal Care,False,225.0,False,Out of Stock,2023-03-26,Rejected
+SUB_0047807,ORD_00397954,STR_002,SKU_0422,SKU_0256,Baby & Kids,Personal Care,False,-525.0,False,Out of Stock,2024-04-14,Rejected
+SUB_0048045,ORD_00400045,STR_010,SKU_0240,SKU_0298,Beverages,Personal Care,False,-12.0,True,Out of Stock,2024-04-16,Accepted
+SUB_0025611,ORD_00214493,STR_007,SKU_0370,SKU_0250,Household,Personal Care,False,-87.0,False,Out of Stock,2023-10-01,Rejected
+SUB_0017150,ORD_00144286,STR_004,SKU_0455,SKU_0322,Snacks & Confectionery,Household,False,255.0,False,Out of Stock,2023-07-04,Rejected
+SUB_0047912,ORD_00398913,STR_004,SKU_0109,SKU_0131,Dairy & Eggs,Packaged Food,False,-8.0,False,Expired,2024-04-15,Rejected
+SUB_0018966,ORD_00159147,STR_004,SKU_0204,SKU_0070,Beverages,Dairy & Eggs,False,51.0,False,Out of Stock,2023-07-23,Rejected
+SUB_0022038,ORD_00185038,STR_005,SKU_0142,SKU_0359,Packaged Food,Household,False,19.0,True,Out of Stock,2023-08-25,Accepted
+SUB_0017135,ORD_00144160,STR_002,SKU_0027,SKU_0406,Fruits & Vegetables,Baby & Kids,False,350.0,True,Out of Stock,2023-07-04,Accepted
+SUB_0011735,ORD_00099098,STR_004,SKU_0053,SKU_0151,Fruits & Vegetables,Packaged Food,False,167.0,True,Out of Stock,2023-05-01,Accepted
+SUB_0042411,ORD_00353061,STR_008,SKU_0185,SKU_0028,Packaged Food,Fruits & Vegetables,False,-93.0,False,Out of Stock,2024-02-16,Rejected
+SUB_0041151,ORD_00342250,STR_010,SKU_0060,SKU_0318,Fruits & Vegetables,Household,False,169.0,False,Damaged,2024-02-02,Rejected
+SUB_0016346,ORD_00137690,STR_002,SKU_0325,SKU_0046,Household,Fruits & Vegetables,False,29.0,False,Out of Stock,2023-06-25,Rejected
+SUB_0046345,ORD_00385797,STR_009,SKU_0397,SKU_0323,Baby & Kids,Household,False,-399.0,False,Out of Stock,2024-03-29,Rejected
+SUB_0006384,ORD_00053949,STR_009,SKU_0387,SKU_0495,Baby & Kids,Snacks & Confectionery,False,-92.0,True,Out of Stock,2023-03-04,Accepted
+SUB_0041960,ORD_00349278,STR_007,SKU_0043,SKU_0364,Fruits & Vegetables,Household,False,136.0,False,Out of Stock,2024-02-11,Rejected
+SUB_0040856,ORD_00339782,STR_007,SKU_0355,SKU_0134,Household,Packaged Food,False,-19.0,False,Out of Stock,2024-01-30,Rejected
+SUB_0017793,ORD_00149557,STR_001,SKU_0308,SKU_0303,Personal Care,Personal Care,True,-28.0,True,Damaged,2023-07-11,Accepted
+SUB_0003661,ORD_00031340,STR_010,SKU_0105,SKU_0403,Dairy & Eggs,Baby & Kids,False,331.0,True,Out of Stock,2023-02-03,Accepted
+SUB_0013427,ORD_00113134,STR_005,SKU_0408,SKU_0038,Baby & Kids,Fruits & Vegetables,False,-40.0,False,Out of Stock,2023-05-21,Rejected
+SUB_0035149,ORD_00292954,STR_001,SKU_0412,SKU_0447,Baby & Kids,Snacks & Confectionery,False,-178.0,False,Damaged,2023-12-12,Rejected
+SUB_0029568,ORD_00246999,STR_004,SKU_0153,SKU_0209,Packaged Food,Beverages,False,-4.0,True,Out of Stock,2023-10-30,Accepted
+SUB_0044024,ORD_00366378,STR_004,SKU_0128,SKU_0376,Packaged Food,Baby & Kids,False,592.0,True,Out of Stock,2024-03-04,Accepted
+SUB_0021583,ORD_00181356,STR_005,SKU_0432,SKU_0375,Baby & Kids,Baby & Kids,True,-210.0,False,Out of Stock,2023-08-20,Rejected
+SUB_0051181,ORD_00426110,STR_006,SKU_0160,SKU_0436,Packaged Food,Baby & Kids,False,69.0,False,Expired,2024-05-22,Rejected
+SUB_0037244,ORD_00310543,STR_010,SKU_0012,SKU_0314,Fruits & Vegetables,Household,False,80.0,True,Expired,2023-12-30,Accepted
+SUB_0039258,ORD_00326666,STR_010,SKU_0458,SKU_0008,Snacks & Confectionery,Fruits & Vegetables,False,-124.0,False,Damaged,2024-01-16,Rejected
+SUB_0024334,ORD_00204218,STR_008,SKU_0182,SKU_0495,Packaged Food,Snacks & Confectionery,False,77.0,False,Out of Stock,2023-09-18,Rejected
+SUB_0052983,ORD_00440957,STR_005,SKU_0073,SKU_0152,Dairy & Eggs,Packaged Food,False,-30.0,True,Out of Stock,2024-06-12,Accepted
+SUB_0028935,ORD_00242095,STR_002,SKU_0029,SKU_0254,Fruits & Vegetables,Personal Care,False,123.0,True,Out of Stock,2023-10-26,Accepted
+SUB_0050041,ORD_00416650,STR_010,SKU_0018,SKU_0149,Fruits & Vegetables,Packaged Food,False,28.0,False,Out of Stock,2024-05-08,Rejected
+SUB_0029745,ORD_00248376,STR_006,SKU_0317,SKU_0005,Household,Fruits & Vegetables,False,-132.0,False,Out of Stock,2023-10-31,Rejected
+SUB_0033671,ORD_00280365,STR_001,SKU_0473,SKU_0173,Snacks & Confectionery,Packaged Food,False,0.0,True,Out of Stock,2023-11-29,Accepted
+SUB_0009390,ORD_00079265,STR_003,SKU_0213,SKU_0453,Beverages,Snacks & Confectionery,False,-11.0,False,Out of Stock,2023-04-06,Rejected
+SUB_0018150,ORD_00152432,STR_001,SKU_0154,SKU_0067,Packaged Food,Dairy & Eggs,False,-218.0,True,Out of Stock,2023-07-15,Accepted
+SUB_0037626,ORD_00313690,STR_002,SKU_0275,SKU_0132,Personal Care,Packaged Food,False,-26.0,False,Out of Stock,2024-01-03,Rejected
+SUB_0024308,ORD_00203981,STR_005,SKU_0413,SKU_0199,Baby & Kids,Beverages,False,-479.0,False,Expired,2023-09-18,Rejected
+SUB_0005502,ORD_00046637,STR_007,SKU_0181,SKU_0417,Packaged Food,Baby & Kids,False,264.0,False,Out of Stock,2023-02-23,Rejected
+SUB_0009646,ORD_00081209,STR_007,SKU_0088,SKU_0355,Dairy & Eggs,Household,False,9.0,False,Out of Stock,2023-04-08,Rejected
+SUB_0052927,ORD_00440514,STR_007,SKU_0413,SKU_0146,Baby & Kids,Packaged Food,False,-300.0,False,Out of Stock,2024-06-11,Rejected
+SUB_0014903,ORD_00125423,STR_001,SKU_0037,SKU_0074,Fruits & Vegetables,Dairy & Eggs,False,37.0,True,Out of Stock,2023-06-08,Accepted
+SUB_0049165,ORD_00409342,STR_007,SKU_0300,SKU_0165,Personal Care,Packaged Food,False,-138.0,False,Expired,2024-04-28,Rejected
+SUB_0040268,ORD_00334974,STR_009,SKU_0490,SKU_0017,Snacks & Confectionery,Fruits & Vegetables,False,4.0,False,Out of Stock,2024-01-25,Rejected
+SUB_0014425,ORD_00121464,STR_007,SKU_0253,SKU_0033,Personal Care,Fruits & Vegetables,False,53.0,False,Expired,2023-06-02,Rejected
+SUB_0054096,ORD_00450526,STR_002,SKU_0314,SKU_0297,Household,Personal Care,False,312.0,False,Damaged,2024-06-26,Rejected
+SUB_0027521,ORD_00230099,STR_005,SKU_0238,SKU_0461,Beverages,Snacks & Confectionery,False,-139.0,False,Out of Stock,2023-10-15,Rejected
+SUB_0027531,ORD_00230199,STR_005,SKU_0352,SKU_0304,Household,Personal Care,False,80.0,True,Out of Stock,2023-10-15,Accepted
+SUB_0005229,ORD_00044388,STR_004,SKU_0162,SKU_0293,Packaged Food,Personal Care,False,-32.0,True,Out of Stock,2023-02-20,Accepted
+SUB_0022528,ORD_00189151,STR_006,SKU_0484,SKU_0006,Snacks & Confectionery,Fruits & Vegetables,False,-102.0,True,Out of Stock,2023-08-30,Accepted
+SUB_0026351,ORD_00220638,STR_004,SKU_0463,SKU_0471,Snacks & Confectionery,Snacks & Confectionery,True,-6.0,True,Out of Stock,2023-10-07,Accepted
+SUB_0019082,ORD_00160099,STR_006,SKU_0391,SKU_0239,Baby & Kids,Beverages,False,-326.0,True,Out of Stock,2023-07-24,Accepted
+SUB_0046885,ORD_00390419,STR_006,SKU_0458,SKU_0367,Snacks & Confectionery,Household,False,-153.0,False,Out of Stock,2024-04-04,Rejected
+SUB_0019332,ORD_00162082,STR_004,SKU_0321,SKU_0229,Household,Beverages,False,13.0,True,Out of Stock,2023-07-27,Accepted
+SUB_0012341,ORD_00103841,STR_002,SKU_0186,SKU_0239,Packaged Food,Beverages,False,-171.0,False,Damaged,2023-05-08,Rejected
+SUB_0005013,ORD_00042580,STR_004,SKU_0349,SKU_0400,Household,Baby & Kids,False,201.0,True,Out of Stock,2023-02-18,Accepted
+SUB_0005334,ORD_00045271,STR_007,SKU_0113,SKU_0025,Dairy & Eggs,Fruits & Vegetables,False,0.0,False,Damaged,2023-02-21,Rejected
+SUB_0042500,ORD_00353693,STR_005,SKU_0370,SKU_0191,Household,Beverages,False,-87.0,True,Out of Stock,2024-02-17,Accepted
+SUB_0015481,ORD_00130341,STR_010,SKU_0342,SKU_0020,Household,Fruits & Vegetables,False,-279.0,False,Out of Stock,2023-06-14,Rejected
+SUB_0046968,ORD_00391121,STR_006,SKU_0287,SKU_0226,Personal Care,Beverages,False,-14.0,True,Out of Stock,2024-04-05,Accepted
+SUB_0017456,ORD_00146801,STR_010,SKU_0093,SKU_0103,Dairy & Eggs,Dairy & Eggs,True,65.0,True,Out of Stock,2023-07-07,Accepted
+SUB_0039242,ORD_00326574,STR_008,SKU_0141,SKU_0432,Packaged Food,Baby & Kids,False,190.0,True,Out of Stock,2024-01-16,Accepted
+SUB_0006073,ORD_00051360,STR_006,SKU_0044,SKU_0244,Fruits & Vegetables,Beverages,False,56.0,False,Out of Stock,2023-03-01,Rejected
+SUB_0023350,ORD_00195893,STR_005,SKU_0210,SKU_0062,Beverages,Fruits & Vegetables,False,-67.0,True,Expired,2023-09-08,Accepted
+SUB_0047556,ORD_00395793,STR_006,SKU_0351,SKU_0430,Household,Baby & Kids,False,214.0,False,Out of Stock,2024-04-11,Rejected
+SUB_0041869,ORD_00348437,STR_008,SKU_0095,SKU_0327,Dairy & Eggs,Household,False,37.0,False,Out of Stock,2024-02-10,Rejected
+SUB_0023013,ORD_00193206,STR_008,SKU_0181,SKU_0494,Packaged Food,Snacks & Confectionery,False,-101.0,False,Out of Stock,2023-09-04,Rejected
+SUB_0050586,ORD_00421151,STR_005,SKU_0104,SKU_0303,Dairy & Eggs,Personal Care,False,133.0,False,Out of Stock,2024-05-15,Rejected
+SUB_0020202,ORD_00169393,STR_006,SKU_0104,SKU_0014,Dairy & Eggs,Fruits & Vegetables,False,-14.0,True,Damaged,2023-08-05,Accepted
+SUB_0026586,ORD_00222339,STR_006,SKU_0426,SKU_0060,Baby & Kids,Fruits & Vegetables,False,-481.0,False,Damaged,2023-10-08,Rejected
+SUB_0018390,ORD_00154628,STR_004,SKU_0433,SKU_0247,Baby & Kids,Beverages,False,-447.0,True,Out of Stock,2023-07-17,Accepted
+SUB_0038573,ORD_00321141,STR_002,SKU_0077,SKU_0092,Dairy & Eggs,Dairy & Eggs,True,9.0,False,Out of Stock,2024-01-11,Rejected
+SUB_0018697,ORD_00157165,STR_010,SKU_0044,SKU_0448,Fruits & Vegetables,Snacks & Confectionery,False,-41.0,True,Out of Stock,2023-07-20,Accepted
+SUB_0047738,ORD_00397312,STR_006,SKU_0461,SKU_0493,Snacks & Confectionery,Snacks & Confectionery,True,42.0,True,Out of Stock,2024-04-13,Accepted
+SUB_0006527,ORD_00055192,STR_004,SKU_0124,SKU_0349,Dairy & Eggs,Household,False,135.0,True,Out of Stock,2023-03-06,Accepted
+SUB_0023255,ORD_00195168,STR_005,SKU_0367,SKU_0084,Household,Dairy & Eggs,False,108.0,True,Out of Stock,2023-09-07,Accepted
+SUB_0013257,ORD_00111622,STR_006,SKU_0246,SKU_0335,Beverages,Household,False,199.0,True,Out of Stock,2023-05-19,Accepted
+SUB_0004465,ORD_00038023,STR_003,SKU_0302,SKU_0203,Personal Care,Beverages,False,-162.0,False,Damaged,2023-02-12,Rejected
+SUB_0051823,ORD_00431014,STR_004,SKU_0247,SKU_0399,Beverages,Baby & Kids,False,519.0,False,Out of Stock,2024-05-29,Rejected
+SUB_0020727,ORD_00173968,STR_004,SKU_0043,SKU_0441,Fruits & Vegetables,Snacks & Confectionery,False,74.0,True,Damaged,2023-08-11,Accepted
+SUB_0019899,ORD_00166928,STR_005,SKU_0436,SKU_0367,Baby & Kids,Household,False,-171.0,False,Out of Stock,2023-08-02,Rejected
+SUB_0011762,ORD_00099304,STR_007,SKU_0409,SKU_0173,Baby & Kids,Packaged Food,False,-149.0,True,Out of Stock,2023-05-01,Accepted
+SUB_0050554,ORD_00420936,STR_001,SKU_0224,SKU_0393,Beverages,Baby & Kids,False,631.0,False,Out of Stock,2024-05-15,Rejected
+SUB_0015042,ORD_00126732,STR_001,SKU_0139,SKU_0177,Packaged Food,Packaged Food,True,3.0,True,Out of Stock,2023-06-10,Accepted
+SUB_0024385,ORD_00204617,STR_004,SKU_0021,SKU_0234,Fruits & Vegetables,Beverages,False,47.0,True,Out of Stock,2023-09-19,Accepted
+SUB_0050106,ORD_00417172,STR_008,SKU_0310,SKU_0224,Personal Care,Beverages,False,-207.0,True,Out of Stock,2024-05-09,Accepted
+SUB_0010466,ORD_00088017,STR_002,SKU_0232,SKU_0473,Beverages,Snacks & Confectionery,False,-38.0,False,Out of Stock,2023-04-17,Rejected
+SUB_0003271,ORD_00028106,STR_006,SKU_0209,SKU_0393,Beverages,Baby & Kids,False,694.0,False,Out of Stock,2023-01-30,Rejected
+SUB_0021042,ORD_00176704,STR_005,SKU_0252,SKU_0369,Personal Care,Household,False,-176.0,False,Out of Stock,2023-08-14,Rejected
+SUB_0044317,ORD_00368834,STR_008,SKU_0412,SKU_0207,Baby & Kids,Beverages,False,-287.0,False,Damaged,2024-03-07,Rejected
+SUB_0021110,ORD_00177333,STR_004,SKU_0184,SKU_0266,Packaged Food,Personal Care,False,165.0,False,Out of Stock,2023-08-15,Rejected
+SUB_0022817,ORD_00191543,STR_008,SKU_0296,SKU_0306,Personal Care,Personal Care,True,38.0,True,Out of Stock,2023-09-02,Accepted
+SUB_0003468,ORD_00029704,STR_006,SKU_0154,SKU_0191,Packaged Food,Beverages,False,-257.0,False,Out of Stock,2023-02-01,Rejected
+SUB_0022268,ORD_00186868,STR_005,SKU_0270,SKU_0039,Personal Care,Fruits & Vegetables,False,-177.0,False,Out of Stock,2023-08-27,Rejected
+SUB_0019012,ORD_00159609,STR_009,SKU_0481,SKU_0020,Snacks & Confectionery,Fruits & Vegetables,False,8.0,True,Out of Stock,2023-07-23,Accepted
+SUB_0005842,ORD_00049464,STR_010,SKU_0498,SKU_0013,Snacks & Confectionery,Fruits & Vegetables,False,-10.0,False,Out of Stock,2023-02-26,Rejected
+SUB_0039793,ORD_00331035,STR_005,SKU_0092,SKU_0459,Dairy & Eggs,Snacks & Confectionery,False,40.0,True,Out of Stock,2024-01-21,Accepted
+SUB_0032290,ORD_00269064,STR_001,SKU_0041,SKU_0070,Fruits & Vegetables,Dairy & Eggs,False,133.0,True,Out of Stock,2023-11-19,Accepted
+SUB_0033222,ORD_00276749,STR_010,SKU_0356,SKU_0236,Household,Beverages,False,-167.0,False,Out of Stock,2023-11-25,Rejected
+SUB_0000927,ORD_00007780,STR_010,SKU_0263,SKU_0086,Personal Care,Dairy & Eggs,False,42.0,False,Out of Stock,2023-01-08,Rejected
+SUB_0015126,ORD_00127381,STR_008,SKU_0017,SKU_0424,Fruits & Vegetables,Baby & Kids,False,134.0,False,Out of Stock,2023-06-10,Rejected
+SUB_0019061,ORD_00159937,STR_004,SKU_0288,SKU_0238,Personal Care,Beverages,False,-103.0,False,Out of Stock,2023-07-24,Rejected
+SUB_0037224,ORD_00310389,STR_008,SKU_0237,SKU_0354,Beverages,Household,False,111.0,False,Out of Stock,2023-12-30,Rejected
+SUB_0053123,ORD_00442228,STR_005,SKU_0228,SKU_0294,Beverages,Personal Care,False,143.0,True,Out of Stock,2024-06-14,Accepted
+SUB_0014488,ORD_00122012,STR_004,SKU_0344,SKU_0400,Household,Baby & Kids,False,118.0,False,Out of Stock,2023-06-03,Rejected
+SUB_0002323,ORD_00019546,STR_006,SKU_0098,SKU_0164,Dairy & Eggs,Packaged Food,False,121.0,False,Out of Stock,2023-01-21,Rejected
+SUB_0051677,ORD_00429951,STR_007,SKU_0113,SKU_0381,Dairy & Eggs,Baby & Kids,False,197.0,True,Out of Stock,2024-05-27,Accepted
+SUB_0050405,ORD_00419682,STR_001,SKU_0230,SKU_0123,Beverages,Dairy & Eggs,False,26.0,False,Expired,2024-05-13,Rejected
+SUB_0009352,ORD_00078876,STR_007,SKU_0492,SKU_0495,Snacks & Confectionery,Snacks & Confectionery,True,52.0,False,Out of Stock,2023-04-05,Rejected
+SUB_0006133,ORD_00051795,STR_002,SKU_0431,SKU_0024,Baby & Kids,Fruits & Vegetables,False,-447.0,False,Out of Stock,2023-03-02,Rejected
+SUB_0049775,ORD_00414188,STR_004,SKU_0228,SKU_0436,Beverages,Baby & Kids,False,56.0,True,Out of Stock,2024-05-05,Accepted
+SUB_0043136,ORD_00359041,STR_004,SKU_0205,SKU_0196,Beverages,Beverages,True,113.0,False,Damaged,2024-02-24,Rejected
+SUB_0049959,ORD_00415779,STR_006,SKU_0112,SKU_0359,Dairy & Eggs,Household,False,47.0,False,Out of Stock,2024-05-07,Rejected
+SUB_0021803,ORD_00183116,STR_007,SKU_0391,SKU_0418,Baby & Kids,Baby & Kids,True,255.0,True,Out of Stock,2023-08-22,Accepted
+SUB_0001640,ORD_00013756,STR_005,SKU_0049,SKU_0499,Fruits & Vegetables,Snacks & Confectionery,False,24.0,False,Out of Stock,2023-01-15,Rejected
+SUB_0000999,ORD_00008457,STR_008,SKU_0238,SKU_0226,Beverages,Beverages,True,17.0,True,Out of Stock,2023-01-09,Accepted
+SUB_0037839,ORD_00315305,STR_002,SKU_0097,SKU_0426,Dairy & Eggs,Baby & Kids,False,377.0,True,Damaged,2024-01-05,Accepted
+SUB_0042010,ORD_00349712,STR_002,SKU_0278,SKU_0320,Personal Care,Household,False,-109.0,False,Damaged,2024-02-12,Rejected
+SUB_0047197,ORD_00393002,STR_007,SKU_0176,SKU_0240,Packaged Food,Beverages,False,3.0,False,Out of Stock,2024-04-07,Rejected
+SUB_0022335,ORD_00187499,STR_002,SKU_0348,SKU_0398,Household,Baby & Kids,False,149.0,False,Out of Stock,2023-08-28,Rejected
+SUB_0020661,ORD_00173241,STR_004,SKU_0068,SKU_0129,Dairy & Eggs,Packaged Food,False,2.0,True,Out of Stock,2023-08-10,Accepted
+SUB_0033115,ORD_00275870,STR_004,SKU_0095,SKU_0286,Dairy & Eggs,Personal Care,False,-28.0,False,Out of Stock,2023-11-25,Rejected
+SUB_0031241,ORD_00260484,STR_007,SKU_0037,SKU_0437,Fruits & Vegetables,Snacks & Confectionery,False,-8.0,True,Damaged,2023-11-11,Accepted
+SUB_0054163,ORD_00451204,STR_004,SKU_0344,SKU_0191,Household,Beverages,False,-288.0,True,Out of Stock,2024-06-27,Accepted
+SUB_0034098,ORD_00284277,STR_010,SKU_0396,SKU_0313,Baby & Kids,Household,False,-438.0,False,Out of Stock,2023-12-02,Rejected
+SUB_0034157,ORD_00284779,STR_004,SKU_0443,SKU_0471,Snacks & Confectionery,Snacks & Confectionery,True,-12.0,True,Out of Stock,2023-12-03,Accepted
+SUB_0041719,ORD_00347259,STR_005,SKU_0183,SKU_0009,Packaged Food,Fruits & Vegetables,False,-18.0,True,Damaged,2024-02-09,Accepted
+SUB_0030362,ORD_00253556,STR_003,SKU_0204,SKU_0073,Beverages,Dairy & Eggs,False,12.0,False,Expired,2023-11-05,Rejected
+SUB_0003246,ORD_00027904,STR_004,SKU_0476,SKU_0338,Snacks & Confectionery,Household,False,-62.0,False,Out of Stock,2023-01-30,Rejected
+SUB_0052772,ORD_00439209,STR_008,SKU_0061,SKU_0264,Fruits & Vegetables,Personal Care,False,46.0,True,Expired,2024-06-09,Accepted
+SUB_0009460,ORD_00079833,STR_001,SKU_0493,SKU_0348,Snacks & Confectionery,Household,False,229.0,False,Out of Stock,2023-04-07,Rejected
+SUB_0040266,ORD_00334952,STR_009,SKU_0226,SKU_0428,Beverages,Baby & Kids,False,567.0,False,Expired,2024-01-25,Rejected
+SUB_0015781,ORD_00132769,STR_003,SKU_0115,SKU_0093,Dairy & Eggs,Dairy & Eggs,True,-108.0,False,Out of Stock,2023-06-18,Rejected
+SUB_0030643,ORD_00255685,STR_002,SKU_0195,SKU_0079,Beverages,Dairy & Eggs,False,4.0,True,Out of Stock,2023-11-07,Accepted
+SUB_0041743,ORD_00347434,STR_007,SKU_0099,SKU_0240,Dairy & Eggs,Beverages,False,7.0,True,Damaged,2024-02-09,Accepted
+SUB_0035292,ORD_00294137,STR_005,SKU_0112,SKU_0408,Dairy & Eggs,Baby & Kids,False,20.0,True,Out of Stock,2023-12-13,Accepted
+SUB_0027086,ORD_00226601,STR_007,SKU_0352,SKU_0012,Household,Fruits & Vegetables,False,-118.0,True,Out of Stock,2023-10-12,Accepted
+SUB_0053751,ORD_00447522,STR_002,SKU_0071,SKU_0414,Dairy & Eggs,Baby & Kids,False,54.0,False,Damaged,2024-06-22,Rejected
+SUB_0025768,ORD_00215833,STR_008,SKU_0156,SKU_0129,Packaged Food,Packaged Food,True,-28.0,False,Out of Stock,2023-10-02,Rejected
+SUB_0018497,ORD_00155470,STR_006,SKU_0158,SKU_0349,Packaged Food,Household,False,-4.0,False,Out of Stock,2023-07-18,Rejected
+SUB_0048090,ORD_00400485,STR_006,SKU_0249,SKU_0283,Personal Care,Personal Care,True,103.0,True,Out of Stock,2024-04-17,Accepted
+SUB_0009060,ORD_00076593,STR_006,SKU_0362,SKU_0304,Household,Personal Care,False,221.0,False,Out of Stock,2023-04-02,Rejected
+SUB_0029641,ORD_00247593,STR_009,SKU_0373,SKU_0225,Household,Beverages,False,-45.0,False,Out of Stock,2023-10-30,Rejected
+SUB_0013459,ORD_00113429,STR_007,SKU_0268,SKU_0052,Personal Care,Fruits & Vegetables,False,-170.0,True,Out of Stock,2023-05-21,Accepted
+SUB_0006986,ORD_00058928,STR_004,SKU_0180,SKU_0475,Packaged Food,Snacks & Confectionery,False,-125.0,False,Out of Stock,2023-03-11,Rejected
+SUB_0026101,ORD_00218559,STR_005,SKU_0260,SKU_0131,Personal Care,Packaged Food,False,19.0,False,Out of Stock,2023-10-05,Rejected
+SUB_0053486,ORD_00445296,STR_007,SKU_0196,SKU_0194,Beverages,Beverages,True,-140.0,True,Damaged,2024-06-18,Accepted
+SUB_0051903,ORD_00431494,STR_001,SKU_0266,SKU_0298,Personal Care,Personal Care,True,-137.0,True,Out of Stock,2024-05-30,Accepted
+SUB_0053705,ORD_00447145,STR_006,SKU_0198,SKU_0228,Beverages,Beverages,True,52.0,False,Out of Stock,2024-06-21,Rejected
+SUB_0028939,ORD_00242115,STR_003,SKU_0184,SKU_0111,Packaged Food,Dairy & Eggs,False,-41.0,True,Out of Stock,2023-10-26,Accepted
+SUB_0022965,ORD_00192858,STR_003,SKU_0022,SKU_0065,Fruits & Vegetables,Dairy & Eggs,False,60.0,False,Out of Stock,2023-09-04,Rejected
+SUB_0035563,ORD_00296309,STR_010,SKU_0068,SKU_0053,Dairy & Eggs,Fruits & Vegetables,False,-23.0,True,Out of Stock,2023-12-15,Accepted
+SUB_0038057,ORD_00317089,STR_010,SKU_0357,SKU_0367,Household,Household,True,-144.0,False,Out of Stock,2024-01-06,Rejected
+SUB_0036794,ORD_00306820,STR_009,SKU_0092,SKU_0383,Dairy & Eggs,Baby & Kids,False,472.0,False,Out of Stock,2023-12-26,Rejected
+SUB_0018989,ORD_00159384,STR_006,SKU_0297,SKU_0365,Personal Care,Household,False,-153.0,True,Expired,2023-07-23,Accepted
+SUB_0053607,ORD_00446382,STR_004,SKU_0300,SKU_0388,Personal Care,Baby & Kids,False,19.0,False,Damaged,2024-06-20,Rejected
+SUB_0009463,ORD_00079846,STR_001,SKU_0189,SKU_0240,Beverages,Beverages,True,50.0,True,Out of Stock,2023-04-07,Accepted
+SUB_0028095,ORD_00234965,STR_010,SKU_0413,SKU_0015,Baby & Kids,Fruits & Vegetables,False,-437.0,True,Out of Stock,2023-10-19,Accepted
+SUB_0004158,ORD_00035601,STR_003,SKU_0377,SKU_0222,Baby & Kids,Beverages,False,-370.0,False,Out of Stock,2023-02-09,Rejected
+SUB_0053891,ORD_00448815,STR_007,SKU_0396,SKU_0484,Baby & Kids,Snacks & Confectionery,False,-408.0,True,Out of Stock,2024-06-23,Accepted
+SUB_0024005,ORD_00201532,STR_008,SKU_0452,SKU_0332,Snacks & Confectionery,Household,False,160.0,False,Out of Stock,2023-09-15,Rejected
+SUB_0020425,ORD_00171280,STR_006,SKU_0079,SKU_0020,Dairy & Eggs,Fruits & Vegetables,False,-62.0,True,Expired,2023-08-07,Accepted
+SUB_0002248,ORD_00018830,STR_010,SKU_0024,SKU_0477,Fruits & Vegetables,Snacks & Confectionery,False,29.0,True,Out of Stock,2023-01-20,Accepted
+SUB_0008655,ORD_00073230,STR_006,SKU_0386,SKU_0280,Baby & Kids,Personal Care,False,275.0,False,Out of Stock,2023-03-29,Rejected
+SUB_0044854,ORD_00373696,STR_002,SKU_0323,SKU_0112,Household,Dairy & Eggs,False,-47.0,False,Damaged,2024-03-14,Rejected
+SUB_0036157,ORD_00301432,STR_004,SKU_0258,SKU_0256,Personal Care,Personal Care,True,-109.0,True,Out of Stock,2023-12-21,Accepted
+SUB_0037113,ORD_00309533,STR_001,SKU_0318,SKU_0113,Household,Dairy & Eggs,False,-160.0,True,Out of Stock,2023-12-30,Accepted
+SUB_0006770,ORD_00057117,STR_010,SKU_0018,SKU_0483,Fruits & Vegetables,Snacks & Confectionery,False,60.0,True,Out of Stock,2023-03-08,Accepted
+SUB_0034864,ORD_00290489,STR_007,SKU_0359,SKU_0182,Household,Packaged Food,False,-70.0,False,Out of Stock,2023-12-09,Rejected
+SUB_0001656,ORD_00013901,STR_006,SKU_0233,SKU_0111,Beverages,Dairy & Eggs,False,-25.0,False,Out of Stock,2023-01-15,Rejected
+SUB_0032293,ORD_00269072,STR_001,SKU_0348,SKU_0443,Household,Snacks & Confectionery,False,-223.0,False,Out of Stock,2023-11-19,Rejected
+SUB_0020929,ORD_00175601,STR_002,SKU_0292,SKU_0426,Personal Care,Baby & Kids,False,434.0,False,Damaged,2023-08-13,Rejected
+SUB_0028537,ORD_00238896,STR_001,SKU_0386,SKU_0346,Baby & Kids,Household,False,236.0,True,Damaged,2023-10-23,Accepted
+SUB_0046675,ORD_00388435,STR_008,SKU_0457,SKU_0141,Snacks & Confectionery,Packaged Food,False,64.0,False,Out of Stock,2024-04-01,Rejected
+SUB_0044326,ORD_00368914,STR_010,SKU_0496,SKU_0300,Snacks & Confectionery,Personal Care,False,260.0,True,Out of Stock,2024-03-07,Accepted
+SUB_0038768,ORD_00322761,STR_001,SKU_0421,SKU_0080,Baby & Kids,Dairy & Eggs,False,-40.0,True,Out of Stock,2024-01-13,Accepted
+SUB_0027488,ORD_00229886,STR_004,SKU_0271,SKU_0141,Personal Care,Packaged Food,False,-59.0,True,Out of Stock,2023-10-15,Accepted
+SUB_0021496,ORD_00180580,STR_007,SKU_0163,SKU_0398,Packaged Food,Baby & Kids,False,441.0,False,Out of Stock,2023-08-19,Rejected
+SUB_0013890,ORD_00116881,STR_010,SKU_0217,SKU_0459,Beverages,Snacks & Confectionery,False,-16.0,True,Out of Stock,2023-05-26,Accepted
+SUB_0036865,ORD_00307459,STR_007,SKU_0431,SKU_0435,Baby & Kids,Baby & Kids,True,67.0,True,Out of Stock,2023-12-27,Accepted
+SUB_0000843,ORD_00007024,STR_004,SKU_0297,SKU_0459,Personal Care,Snacks & Confectionery,False,-332.0,False,Out of Stock,2023-01-08,Rejected
+SUB_0021780,ORD_00182901,STR_004,SKU_0171,SKU_0194,Packaged Food,Beverages,False,-204.0,True,Out of Stock,2023-08-22,Accepted
+SUB_0052126,ORD_00433451,STR_008,SKU_0067,SKU_0024,Dairy & Eggs,Fruits & Vegetables,False,16.0,True,Out of Stock,2024-06-01,Accepted
+SUB_0009442,ORD_00079696,STR_009,SKU_0098,SKU_0235,Dairy & Eggs,Beverages,False,-21.0,True,Out of Stock,2023-04-06,Accepted
+SUB_0024179,ORD_00202903,STR_002,SKU_0165,SKU_0036,Packaged Food,Fruits & Vegetables,False,-176.0,False,Out of Stock,2023-09-17,Rejected
+SUB_0044212,ORD_00367939,STR_006,SKU_0400,SKU_0266,Baby & Kids,Personal Care,False,-114.0,False,Out of Stock,2024-03-06,Rejected
+SUB_0015939,ORD_00134284,STR_005,SKU_0053,SKU_0215,Fruits & Vegetables,Beverages,False,-19.0,False,Out of Stock,2023-06-20,Rejected
+SUB_0006492,ORD_00054856,STR_009,SKU_0179,SKU_0332,Packaged Food,Household,False,146.0,False,Out of Stock,2023-03-05,Rejected
+SUB_0008597,ORD_00072639,STR_008,SKU_0209,SKU_0102,Beverages,Dairy & Eggs,False,106.0,False,Damaged,2023-03-28,Rejected
+SUB_0023494,ORD_00197242,STR_001,SKU_0284,SKU_0154,Personal Care,Packaged Food,False,57.0,False,Out of Stock,2023-09-10,Rejected
+SUB_0037187,ORD_00310194,STR_007,SKU_0002,SKU_0161,Fruits & Vegetables,Packaged Food,False,-7.0,False,Out of Stock,2023-12-30,Rejected
+SUB_0013586,ORD_00114437,STR_004,SKU_0346,SKU_0035,Household,Fruits & Vegetables,False,-215.0,True,Out of Stock,2023-05-23,Accepted
+SUB_0015667,ORD_00131840,STR_003,SKU_0466,SKU_0063,Snacks & Confectionery,Dairy & Eggs,False,-18.0,False,Out of Stock,2023-06-17,Rejected
+SUB_0008963,ORD_00075802,STR_008,SKU_0387,SKU_0223,Baby & Kids,Beverages,False,-45.0,True,Out of Stock,2023-04-01,Accepted
+SUB_0018924,ORD_00158760,STR_010,SKU_0271,SKU_0322,Personal Care,Household,False,31.0,False,Out of Stock,2023-07-22,Rejected
+SUB_0051561,ORD_00429054,STR_006,SKU_0253,SKU_0462,Personal Care,Snacks & Confectionery,False,42.0,True,Out of Stock,2024-05-26,Accepted
+SUB_0012188,ORD_00102641,STR_007,SKU_0229,SKU_0236,Beverages,Beverages,True,-73.0,True,Out of Stock,2023-05-06,Accepted
+SUB_0012215,ORD_00102821,STR_009,SKU_0037,SKU_0120,Fruits & Vegetables,Dairy & Eggs,False,84.0,True,Out of Stock,2023-05-06,Accepted
+SUB_0045781,ORD_00381228,STR_009,SKU_0199,SKU_0298,Beverages,Personal Care,False,147.0,False,Damaged,2024-03-23,Rejected
+SUB_0050685,ORD_00422012,STR_008,SKU_0249,SKU_0025,Personal Care,Fruits & Vegetables,False,-13.0,True,Out of Stock,2024-05-16,Accepted
+SUB_0001732,ORD_00014545,STR_002,SKU_0337,SKU_0391,Household,Baby & Kids,False,174.0,False,Out of Stock,2023-01-16,Rejected
+SUB_0047529,ORD_00395562,STR_002,SKU_0269,SKU_0031,Personal Care,Fruits & Vegetables,False,-171.0,False,Out of Stock,2024-04-11,Rejected
+SUB_0007684,ORD_00064770,STR_007,SKU_0024,SKU_0350,Fruits & Vegetables,Household,False,123.0,True,Damaged,2023-03-18,Accepted
+SUB_0053314,ORD_00443765,STR_005,SKU_0044,SKU_0037,Fruits & Vegetables,Fruits & Vegetables,True,-6.0,True,Out of Stock,2024-06-16,Accepted
+SUB_0020702,ORD_00173702,STR_010,SKU_0353,SKU_0043,Household,Fruits & Vegetables,False,-106.0,False,Out of Stock,2023-08-10,Rejected
+SUB_0032339,ORD_00269448,STR_004,SKU_0261,SKU_0411,Personal Care,Baby & Kids,False,673.0,True,Out of Stock,2023-11-19,Accepted
+SUB_0010030,ORD_00084116,STR_004,SKU_0353,SKU_0098,Household,Dairy & Eggs,False,-46.0,False,Out of Stock,2023-04-12,Rejected
+SUB_0051530,ORD_00428854,STR_004,SKU_0460,SKU_0027,Snacks & Confectionery,Fruits & Vegetables,False,-26.0,False,Out of Stock,2024-05-26,Rejected
+SUB_0002073,ORD_00017448,STR_004,SKU_0136,SKU_0226,Packaged Food,Beverages,False,84.0,True,Out of Stock,2023-01-19,Accepted
+SUB_0012448,ORD_00104638,STR_004,SKU_0236,SKU_0018,Beverages,Fruits & Vegetables,False,-10.0,False,Out of Stock,2023-05-09,Rejected
+SUB_0024388,ORD_00204657,STR_004,SKU_0204,SKU_0095,Beverages,Dairy & Eggs,False,13.0,False,Out of Stock,2023-09-19,Rejected
+SUB_0026794,ORD_00224167,STR_003,SKU_0495,SKU_0170,Snacks & Confectionery,Packaged Food,False,-104.0,True,Out of Stock,2023-10-10,Accepted
+SUB_0048467,ORD_00403490,STR_004,SKU_0093,SKU_0150,Dairy & Eggs,Packaged Food,False,122.0,True,Out of Stock,2024-04-21,Accepted
+SUB_0033012,ORD_00275161,STR_007,SKU_0486,SKU_0474,Snacks & Confectionery,Snacks & Confectionery,True,15.0,True,Out of Stock,2023-11-24,Accepted
+SUB_0050247,ORD_00418371,STR_005,SKU_0346,SKU_0232,Household,Beverages,False,-198.0,False,Out of Stock,2024-05-11,Rejected
+SUB_0029828,ORD_00249072,STR_003,SKU_0102,SKU_0375,Dairy & Eggs,Baby & Kids,False,39.0,False,Damaged,2023-11-01,Rejected
+SUB_0020680,ORD_00173417,STR_006,SKU_0287,SKU_0301,Personal Care,Personal Care,True,37.0,True,Damaged,2023-08-10,Accepted
+SUB_0024900,ORD_00208832,STR_007,SKU_0025,SKU_0352,Fruits & Vegetables,Household,False,96.0,False,Out of Stock,2023-09-24,Rejected
+SUB_0049326,ORD_00410644,STR_004,SKU_0168,SKU_0073,Packaged Food,Dairy & Eggs,False,-125.0,True,Out of Stock,2024-04-30,Accepted
+SUB_0046135,ORD_00384170,STR_006,SKU_0293,SKU_0009,Personal Care,Fruits & Vegetables,False,-31.0,True,Damaged,2024-03-27,Accepted
+SUB_0033157,ORD_00276239,STR_006,SKU_0182,SKU_0231,Packaged Food,Beverages,False,33.0,True,Out of Stock,2023-11-25,Accepted
+SUB_0004145,ORD_00035528,STR_002,SKU_0101,SKU_0020,Dairy & Eggs,Fruits & Vegetables,False,-66.0,False,Out of Stock,2023-02-09,Rejected
+SUB_0040394,ORD_00335944,STR_010,SKU_0097,SKU_0351,Dairy & Eggs,Household,False,-25.0,False,Out of Stock,2024-01-26,Rejected
+SUB_0008427,ORD_00071105,STR_007,SKU_0228,SKU_0018,Beverages,Fruits & Vegetables,False,-106.0,False,Expired,2023-03-26,Rejected
+SUB_0025206,ORD_00211271,STR_010,SKU_0441,SKU_0083,Snacks & Confectionery,Dairy & Eggs,False,-7.0,True,Out of Stock,2023-09-27,Accepted
+SUB_0048073,ORD_00400321,STR_004,SKU_0006,SKU_0459,Fruits & Vegetables,Snacks & Confectionery,False,63.0,True,Out of Stock,2024-04-17,Accepted
+SUB_0016752,ORD_00141023,STR_003,SKU_0193,SKU_0413,Beverages,Baby & Kids,False,438.0,False,Out of Stock,2023-06-30,Rejected
+SUB_0028365,ORD_00237326,STR_010,SKU_0075,SKU_0480,Dairy & Eggs,Snacks & Confectionery,False,97.0,False,Out of Stock,2023-10-21,Rejected
+SUB_0036787,ORD_00306769,STR_009,SKU_0201,SKU_0271,Beverages,Personal Care,False,172.0,True,Damaged,2023-12-26,Accepted
+SUB_0049915,ORD_00415446,STR_001,SKU_0420,SKU_0151,Baby & Kids,Packaged Food,False,129.0,True,Out of Stock,2024-05-07,Accepted
+SUB_0008236,ORD_00069434,STR_008,SKU_0225,SKU_0052,Beverages,Fruits & Vegetables,False,-42.0,False,Out of Stock,2023-03-24,Rejected
+SUB_0022601,ORD_00189779,STR_006,SKU_0266,SKU_0050,Personal Care,Fruits & Vegetables,False,-267.0,False,Out of Stock,2023-08-31,Rejected
+SUB_0009367,ORD_00079040,STR_010,SKU_0174,SKU_0218,Packaged Food,Beverages,False,-54.0,False,Out of Stock,2023-04-05,Rejected
+SUB_0046076,ORD_00383612,STR_009,SKU_0352,SKU_0028,Household,Fruits & Vegetables,False,-81.0,True,Out of Stock,2024-03-26,Accepted
+SUB_0030903,ORD_00257844,STR_003,SKU_0083,SKU_0011,Dairy & Eggs,Fruits & Vegetables,False,-75.0,True,Out of Stock,2023-11-09,Accepted
+SUB_0027418,ORD_00229243,STR_009,SKU_0199,SKU_0288,Beverages,Personal Care,False,255.0,True,Out of Stock,2023-10-14,Accepted
+SUB_0039926,ORD_00332267,STR_007,SKU_0313,SKU_0292,Household,Personal Care,False,-9.0,True,Out of Stock,2024-01-22,Accepted
+SUB_0017803,ORD_00149649,STR_002,SKU_0278,SKU_0022,Personal Care,Fruits & Vegetables,False,-281.0,True,Out of Stock,2023-07-11,Accepted
+SUB_0039584,ORD_00329234,STR_010,SKU_0057,SKU_0284,Fruits & Vegetables,Personal Care,False,160.0,True,Damaged,2024-01-19,Accepted
+SUB_0016225,ORD_00136715,STR_002,SKU_0147,SKU_0040,Packaged Food,Fruits & Vegetables,False,-242.0,False,Out of Stock,2023-06-24,Rejected
+SUB_0008242,ORD_00069478,STR_008,SKU_0192,SKU_0269,Beverages,Personal Care,False,140.0,False,Damaged,2023-03-24,Rejected
+SUB_0004860,ORD_00041393,STR_008,SKU_0295,SKU_0253,Personal Care,Personal Care,True,-79.0,True,Out of Stock,2023-02-16,Accepted
+SUB_0001166,ORD_00009930,STR_004,SKU_0116,SKU_0246,Dairy & Eggs,Beverages,False,-43.0,True,Out of Stock,2023-01-11,Accepted
+SUB_0032320,ORD_00269292,STR_003,SKU_0377,SKU_0433,Baby & Kids,Baby & Kids,True,103.0,True,Out of Stock,2023-11-19,Accepted
+SUB_0009130,ORD_00077213,STR_004,SKU_0340,SKU_0446,Household,Snacks & Confectionery,False,-28.0,True,Out of Stock,2023-04-03,Accepted
+SUB_0041855,ORD_00348330,STR_007,SKU_0352,SKU_0007,Household,Fruits & Vegetables,False,-132.0,False,Out of Stock,2024-02-10,Rejected
+SUB_0021012,ORD_00176422,STR_001,SKU_0224,SKU_0470,Beverages,Snacks & Confectionery,False,53.0,False,Out of Stock,2023-08-14,Rejected
+SUB_0031292,ORD_00260862,STR_010,SKU_0279,SKU_0446,Personal Care,Snacks & Confectionery,False,-87.0,True,Out of Stock,2023-11-11,Accepted
+SUB_0016614,ORD_00139804,STR_004,SKU_0425,SKU_0461,Baby & Kids,Snacks & Confectionery,False,-619.0,False,Expired,2023-06-28,Rejected
+SUB_0001622,ORD_00013595,STR_003,SKU_0105,SKU_0245,Dairy & Eggs,Beverages,False,40.0,False,Out of Stock,2023-01-15,Rejected
+SUB_0024613,ORD_00206387,STR_008,SKU_0495,SKU_0020,Snacks & Confectionery,Fruits & Vegetables,False,-77.0,True,Out of Stock,2023-09-21,Accepted
+SUB_0050570,ORD_00421074,STR_004,SKU_0012,SKU_0273,Fruits & Vegetables,Personal Care,False,169.0,False,Out of Stock,2024-05-15,Rejected
+SUB_0028077,ORD_00234838,STR_009,SKU_0376,SKU_0417,Baby & Kids,Baby & Kids,True,-265.0,True,Out of Stock,2023-10-19,Accepted
+SUB_0036553,ORD_00304927,STR_008,SKU_0106,SKU_0403,Dairy & Eggs,Baby & Kids,False,446.0,False,Out of Stock,2023-12-24,Rejected
+SUB_0045812,ORD_00381482,STR_002,SKU_0017,SKU_0298,Fruits & Vegetables,Personal Care,False,150.0,False,Out of Stock,2024-03-24,Rejected
+SUB_0049474,ORD_00411817,STR_002,SKU_0404,SKU_0418,Baby & Kids,Baby & Kids,True,314.0,False,Out of Stock,2024-05-02,Rejected
+SUB_0027561,ORD_00230429,STR_007,SKU_0253,SKU_0307,Personal Care,Personal Care,True,208.0,True,Expired,2023-10-15,Accepted
+SUB_0003376,ORD_00028978,STR_006,SKU_0091,SKU_0012,Dairy & Eggs,Fruits & Vegetables,False,-48.0,False,Out of Stock,2023-01-31,Rejected
+SUB_0009259,ORD_00078218,STR_008,SKU_0290,SKU_0427,Personal Care,Baby & Kids,False,275.0,False,Out of Stock,2023-04-04,Rejected
+SUB_0019950,ORD_00167313,STR_010,SKU_0469,SKU_0035,Snacks & Confectionery,Fruits & Vegetables,False,-44.0,True,Out of Stock,2023-08-02,Accepted
+SUB_0031883,ORD_00265809,STR_004,SKU_0380,SKU_0168,Baby & Kids,Packaged Food,False,-279.0,True,Out of Stock,2023-11-16,Accepted
+SUB_0020067,ORD_00168353,STR_004,SKU_0386,SKU_0404,Baby & Kids,Baby & Kids,True,267.0,True,Out of Stock,2023-08-04,Accepted
+SUB_0049705,ORD_00413584,STR_007,SKU_0458,SKU_0357,Snacks & Confectionery,Household,False,-9.0,False,Expired,2024-05-04,Rejected
+SUB_0010528,ORD_00088628,STR_002,SKU_0400,SKU_0451,Baby & Kids,Snacks & Confectionery,False,-279.0,True,Out of Stock,2023-04-18,Accepted
+SUB_0010947,ORD_00092375,STR_010,SKU_0007,SKU_0146,Fruits & Vegetables,Packaged Food,False,172.0,True,Damaged,2023-04-22,Accepted
+SUB_0047939,ORD_00399137,STR_007,SKU_0296,SKU_0190,Personal Care,Beverages,False,-133.0,True,Out of Stock,2024-04-15,Accepted
+SUB_0032541,ORD_00271265,STR_010,SKU_0025,SKU_0303,Fruits & Vegetables,Personal Care,False,107.0,False,Out of Stock,2023-11-20,Rejected
+SUB_0019413,ORD_00162773,STR_004,SKU_0007,SKU_0209,Fruits & Vegetables,Beverages,False,-15.0,False,Damaged,2023-07-28,Rejected
+SUB_0023317,ORD_00195683,STR_002,SKU_0480,SKU_0199,Snacks & Confectionery,Beverages,False,-146.0,False,Out of Stock,2023-09-08,Rejected
+SUB_0053628,ORD_00446578,STR_007,SKU_0157,SKU_0045,Packaged Food,Fruits & Vegetables,False,-43.0,True,Damaged,2024-06-20,Accepted
+SUB_0036743,ORD_00306467,STR_006,SKU_0221,SKU_0341,Beverages,Household,False,84.0,True,Damaged,2023-12-26,Accepted
+SUB_0016244,ORD_00136864,STR_004,SKU_0160,SKU_0427,Packaged Food,Baby & Kids,False,198.0,False,Expired,2023-06-24,Rejected
+SUB_0016160,ORD_00136178,STR_004,SKU_0056,SKU_0427,Fruits & Vegetables,Baby & Kids,False,251.0,True,Out of Stock,2023-06-23,Accepted
+SUB_0036386,ORD_00303420,STR_005,SKU_0246,SKU_0252,Beverages,Personal Care,False,275.0,False,Out of Stock,2023-12-23,Rejected
+SUB_0030714,ORD_00256255,STR_007,SKU_0496,SKU_0242,Snacks & Confectionery,Beverages,False,10.0,True,Out of Stock,2023-11-07,Accepted
+SUB_0019043,ORD_00159812,STR_001,SKU_0313,SKU_0291,Household,Personal Care,False,86.0,False,Out of Stock,2023-07-24,Rejected
+SUB_0047568,ORD_00395874,STR_007,SKU_0417,SKU_0494,Baby & Kids,Snacks & Confectionery,False,-365.0,False,Out of Stock,2024-04-11,Rejected
+SUB_0036790,ORD_00306804,STR_009,SKU_0373,SKU_0358,Household,Household,True,138.0,False,Out of Stock,2023-12-26,Rejected
+SUB_0048075,ORD_00400339,STR_004,SKU_0113,SKU_0445,Dairy & Eggs,Snacks & Confectionery,False,18.0,False,Out of Stock,2024-04-17,Rejected
+SUB_0005141,ORD_00043637,STR_005,SKU_0438,SKU_0269,Snacks & Confectionery,Personal Care,False,95.0,True,Out of Stock,2023-02-19,Accepted
+SUB_0052271,ORD_00434716,STR_004,SKU_0357,SKU_0485,Household,Snacks & Confectionery,False,-127.0,True,Out of Stock,2024-06-03,Accepted
+SUB_0031125,ORD_00259551,STR_010,SKU_0379,SKU_0162,Baby & Kids,Packaged Food,False,-306.0,False,Out of Stock,2023-11-10,Rejected
+SUB_0017833,ORD_00149990,STR_007,SKU_0332,SKU_0205,Household,Beverages,False,-124.0,True,Out of Stock,2023-07-11,Accepted
+SUB_0048599,ORD_00404787,STR_008,SKU_0461,SKU_0241,Snacks & Confectionery,Beverages,False,199.0,False,Out of Stock,2024-04-22,Rejected
+SUB_0034941,ORD_00291127,STR_003,SKU_0465,SKU_0161,Snacks & Confectionery,Packaged Food,False,14.0,True,Damaged,2023-12-10,Accepted
+SUB_0041995,ORD_00349619,STR_010,SKU_0361,SKU_0443,Household,Snacks & Confectionery,False,-168.0,True,Out of Stock,2024-02-11,Accepted
+SUB_0024858,ORD_00208579,STR_005,SKU_0119,SKU_0250,Dairy & Eggs,Personal Care,False,-66.0,False,Out of Stock,2023-09-24,Rejected
+SUB_0019288,ORD_00161777,STR_009,SKU_0063,SKU_0267,Dairy & Eggs,Personal Care,False,86.0,False,Out of Stock,2023-07-26,Rejected
+SUB_0022205,ORD_00186292,STR_009,SKU_0035,SKU_0232,Fruits & Vegetables,Beverages,False,17.0,True,Out of Stock,2023-08-26,Accepted
+SUB_0054050,ORD_00450108,STR_006,SKU_0098,SKU_0330,Dairy & Eggs,Household,False,26.0,False,Out of Stock,2024-06-25,Rejected
+SUB_0037791,ORD_00314930,STR_007,SKU_0414,SKU_0141,Baby & Kids,Packaged Food,False,79.0,True,Out of Stock,2024-01-04,Accepted
+SUB_0006416,ORD_00054158,STR_002,SKU_0487,SKU_0265,Snacks & Confectionery,Personal Care,False,193.0,False,Out of Stock,2023-03-05,Rejected
+SUB_0031792,ORD_00265130,STR_007,SKU_0267,SKU_0426,Personal Care,Baby & Kids,False,410.0,True,Damaged,2023-11-15,Accepted
+SUB_0002900,ORD_00024823,STR_005,SKU_0463,SKU_0353,Snacks & Confectionery,Household,False,74.0,False,Out of Stock,2023-01-27,Rejected
+SUB_0014947,ORD_00125761,STR_006,SKU_0039,SKU_0400,Fruits & Vegetables,Baby & Kids,False,374.0,False,Out of Stock,2023-06-08,Rejected
+SUB_0050890,ORD_00423781,STR_002,SKU_0232,SKU_0269,Beverages,Personal Care,False,198.0,False,Out of Stock,2024-05-19,Rejected
+SUB_0035907,ORD_00299106,STR_006,SKU_0460,SKU_0219,Snacks & Confectionery,Beverages,False,81.0,False,Damaged,2023-12-18,Rejected
+SUB_0022497,ORD_00188829,STR_002,SKU_0453,SKU_0283,Snacks & Confectionery,Personal Care,False,38.0,True,Out of Stock,2023-08-30,Accepted
+SUB_0028522,ORD_00238749,STR_010,SKU_0203,SKU_0241,Beverages,Beverages,True,120.0,True,Out of Stock,2023-10-22,Accepted
+SUB_0041484,ORD_00345215,STR_005,SKU_0422,SKU_0405,Baby & Kids,Baby & Kids,True,-202.0,False,Damaged,2024-02-06,Rejected
+SUB_0031638,ORD_00263731,STR_004,SKU_0375,SKU_0208,Baby & Kids,Beverages,False,-30.0,True,Out of Stock,2023-11-14,Accepted
+SUB_0010563,ORD_00088907,STR_005,SKU_0309,SKU_0192,Personal Care,Beverages,False,39.0,True,Out of Stock,2023-04-18,Accepted
+SUB_0013439,ORD_00113262,STR_006,SKU_0373,SKU_0340,Household,Household,True,-29.0,True,Out of Stock,2023-05-21,Accepted
+SUB_0037263,ORD_00310726,STR_002,SKU_0433,SKU_0051,Baby & Kids,Fruits & Vegetables,False,-521.0,False,Out of Stock,2023-12-31,Rejected
+SUB_0043980,ORD_00365939,STR_008,SKU_0474,SKU_0210,Snacks & Confectionery,Beverages,False,64.0,True,Out of Stock,2024-03-03,Accepted
+SUB_0038808,ORD_00323111,STR_004,SKU_0213,SKU_0128,Beverages,Packaged Food,False,-102.0,False,Damaged,2024-01-13,Rejected
+SUB_0007134,ORD_00060107,STR_006,SKU_0161,SKU_0434,Packaged Food,Baby & Kids,False,407.0,False,Damaged,2023-03-12,Rejected
+SUB_0052701,ORD_00438573,STR_001,SKU_0194,SKU_0073,Beverages,Dairy & Eggs,False,68.0,True,Out of Stock,2024-06-09,Accepted
+SUB_0017708,ORD_00148847,STR_001,SKU_0308,SKU_0047,Personal Care,Fruits & Vegetables,False,-139.0,False,Out of Stock,2023-07-10,Rejected
+SUB_0022250,ORD_00186696,STR_004,SKU_0052,SKU_0011,Fruits & Vegetables,Fruits & Vegetables,True,-21.0,True,Out of Stock,2023-08-27,Accepted
+SUB_0024523,ORD_00205665,STR_008,SKU_0065,SKU_0415,Dairy & Eggs,Baby & Kids,False,143.0,True,Out of Stock,2023-09-20,Accepted
+SUB_0026436,ORD_00221300,STR_009,SKU_0135,SKU_0439,Packaged Food,Snacks & Confectionery,False,9.0,False,Out of Stock,2023-10-07,Rejected
+SUB_0045479,ORD_00378733,STR_006,SKU_0013,SKU_0359,Fruits & Vegetables,Household,False,46.0,True,Out of Stock,2024-03-20,Accepted
+SUB_0005059,ORD_00042943,STR_007,SKU_0302,SKU_0428,Personal Care,Baby & Kids,False,482.0,True,Damaged,2023-02-18,Accepted
+SUB_0036442,ORD_00303858,STR_009,SKU_0423,SKU_0438,Baby & Kids,Snacks & Confectionery,False,-243.0,True,Out of Stock,2023-12-23,Accepted
+SUB_0042497,ORD_00353664,STR_005,SKU_0205,SKU_0468,Beverages,Snacks & Confectionery,False,16.0,True,Out of Stock,2024-02-17,Accepted
+SUB_0052640,ORD_00438086,STR_006,SKU_0262,SKU_0395,Personal Care,Baby & Kids,False,348.0,True,Out of Stock,2024-06-08,Accepted
+SUB_0001585,ORD_00013269,STR_010,SKU_0083,SKU_0357,Dairy & Eggs,Household,False,58.0,True,Expired,2023-01-14,Accepted
+SUB_0015559,ORD_00130982,STR_010,SKU_0299,SKU_0358,Personal Care,Household,False,107.0,True,Out of Stock,2023-06-15,Accepted
+SUB_0034198,ORD_00285191,STR_008,SKU_0396,SKU_0269,Baby & Kids,Personal Care,False,-300.0,False,Out of Stock,2023-12-03,Rejected
+SUB_0046226,ORD_00384855,STR_006,SKU_0036,SKU_0095,Fruits & Vegetables,Dairy & Eggs,False,67.0,False,Out of Stock,2024-03-28,Rejected
+SUB_0037995,ORD_00316501,STR_004,SKU_0131,SKU_0062,Packaged Food,Fruits & Vegetables,False,-109.0,False,Out of Stock,2024-01-06,Rejected
+SUB_0034084,ORD_00284167,STR_009,SKU_0398,SKU_0108,Baby & Kids,Dairy & Eggs,False,-390.0,False,Out of Stock,2023-12-02,Rejected
+SUB_0035825,ORD_00298490,STR_010,SKU_0066,SKU_0151,Dairy & Eggs,Packaged Food,False,94.0,True,Out of Stock,2023-12-17,Accepted
+SUB_0001389,ORD_00011756,STR_007,SKU_0332,SKU_0039,Household,Fruits & Vegetables,False,-145.0,True,Out of Stock,2023-01-13,Accepted
+SUB_0029275,ORD_00244832,STR_007,SKU_0375,SKU_0277,Baby & Kids,Personal Care,False,-145.0,False,Out of Stock,2023-10-28,Rejected
+SUB_0049961,ORD_00415805,STR_006,SKU_0073,SKU_0037,Dairy & Eggs,Fruits & Vegetables,False,-59.0,True,Out of Stock,2024-05-07,Accepted
+SUB_0034984,ORD_00291504,STR_006,SKU_0277,SKU_0296,Personal Care,Personal Care,True,235.0,True,Out of Stock,2023-12-10,Accepted
+SUB_0032367,ORD_00269682,STR_006,SKU_0151,SKU_0218,Packaged Food,Beverages,False,-134.0,True,Out of Stock,2023-11-19,Accepted
+SUB_0035205,ORD_00293346,STR_006,SKU_0377,SKU_0379,Baby & Kids,Baby & Kids,True,-27.0,False,Out of Stock,2023-12-12,Rejected
+SUB_0027276,ORD_00228162,STR_001,SKU_0385,SKU_0053,Baby & Kids,Fruits & Vegetables,False,-270.0,True,Out of Stock,2023-10-14,Accepted
+SUB_0001793,ORD_00015123,STR_008,SKU_0078,SKU_0022,Dairy & Eggs,Fruits & Vegetables,False,-27.0,True,Out of Stock,2023-01-16,Accepted
+SUB_0026430,ORD_00221271,STR_009,SKU_0465,SKU_0328,Snacks & Confectionery,Household,False,144.0,True,Out of Stock,2023-10-07,Accepted
+SUB_0039224,ORD_00326453,STR_007,SKU_0118,SKU_0058,Dairy & Eggs,Fruits & Vegetables,False,-29.0,True,Damaged,2024-01-16,Accepted
+SUB_0035169,ORD_00293083,STR_003,SKU_0442,SKU_0422,Snacks & Confectionery,Baby & Kids,False,471.0,False,Out of Stock,2023-12-12,Rejected
+SUB_0028102,ORD_00235074,STR_001,SKU_0307,SKU_0048,Personal Care,Fruits & Vegetables,False,-129.0,False,Out of Stock,2023-10-20,Rejected
+SUB_0008298,ORD_00070141,STR_006,SKU_0237,SKU_0410,Beverages,Baby & Kids,False,-27.0,False,Out of Stock,2023-03-25,Rejected
+SUB_0036007,ORD_00299976,STR_007,SKU_0188,SKU_0255,Beverages,Personal Care,False,-22.0,False,Out of Stock,2023-12-19,Rejected
+SUB_0038906,ORD_00324027,STR_002,SKU_0223,SKU_0163,Beverages,Packaged Food,False,-151.0,False,Out of Stock,2024-01-14,Rejected
+SUB_0025415,ORD_00212994,STR_004,SKU_0284,SKU_0456,Personal Care,Snacks & Confectionery,False,-42.0,False,Out of Stock,2023-09-30,Rejected
+SUB_0027094,ORD_00226663,STR_007,SKU_0284,SKU_0221,Personal Care,Beverages,False,-93.0,True,Out of Stock,2023-10-12,Accepted
+SUB_0007071,ORD_00059636,STR_002,SKU_0208,SKU_0299,Beverages,Personal Care,False,47.0,False,Out of Stock,2023-03-12,Rejected
+SUB_0043000,ORD_00357819,STR_007,SKU_0023,SKU_0083,Fruits & Vegetables,Dairy & Eggs,False,56.0,False,Out of Stock,2024-02-22,Rejected
+SUB_0049448,ORD_00411550,STR_007,SKU_0070,SKU_0185,Dairy & Eggs,Packaged Food,False,26.0,False,Out of Stock,2024-05-01,Rejected
+SUB_0015979,ORD_00134630,STR_010,SKU_0479,SKU_0130,Snacks & Confectionery,Packaged Food,False,-14.0,False,Out of Stock,2023-06-20,Rejected
+SUB_0047233,ORD_00393268,STR_010,SKU_0130,SKU_0484,Packaged Food,Snacks & Confectionery,False,44.0,True,Out of Stock,2024-04-07,Accepted
+SUB_0026862,ORD_00224717,STR_008,SKU_0037,SKU_0213,Fruits & Vegetables,Beverages,False,105.0,False,Damaged,2023-10-10,Rejected
+SUB_0022495,ORD_00188814,STR_002,SKU_0482,SKU_0258,Snacks & Confectionery,Personal Care,False,34.0,True,Out of Stock,2023-08-30,Accepted
+SUB_0040236,ORD_00334696,STR_006,SKU_0187,SKU_0241,Beverages,Beverages,True,218.0,True,Out of Stock,2024-01-25,Accepted
+SUB_0023616,ORD_00198209,STR_001,SKU_0412,SKU_0284,Baby & Kids,Personal Care,False,-87.0,False,Out of Stock,2023-09-11,Rejected
+SUB_0038196,ORD_00318086,STR_008,SKU_0214,SKU_0212,Beverages,Beverages,True,-35.0,False,Out of Stock,2024-01-07,Rejected
+SUB_0042770,ORD_00356070,STR_002,SKU_0239,SKU_0009,Beverages,Fruits & Vegetables,False,36.0,True,Out of Stock,2024-02-20,Accepted
+SUB_0004670,ORD_00039846,STR_006,SKU_0234,SKU_0104,Beverages,Dairy & Eggs,False,-78.0,True,Out of Stock,2023-02-14,Accepted
+SUB_0044811,ORD_00373266,STR_006,SKU_0434,SKU_0211,Baby & Kids,Beverages,False,-351.0,False,Out of Stock,2024-03-13,Rejected
+SUB_0015626,ORD_00131519,STR_009,SKU_0323,SKU_0338,Household,Household,True,-91.0,True,Out of Stock,2023-06-16,Accepted
+SUB_0044099,ORD_00366979,STR_002,SKU_0053,SKU_0158,Fruits & Vegetables,Packaged Food,False,190.0,False,Damaged,2024-03-05,Rejected
+SUB_0002516,ORD_00021288,STR_003,SKU_0245,SKU_0026,Beverages,Fruits & Vegetables,False,-111.0,False,Damaged,2023-01-23,Rejected
+SUB_0045873,ORD_00381897,STR_006,SKU_0342,SKU_0032,Household,Fruits & Vegetables,False,-281.0,False,Damaged,2024-03-24,Rejected
+SUB_0001006,ORD_00008516,STR_009,SKU_0172,SKU_0499,Packaged Food,Snacks & Confectionery,False,-55.0,False,Out of Stock,2023-01-09,Rejected
+SUB_0040917,ORD_00340356,STR_004,SKU_0456,SKU_0446,Snacks & Confectionery,Snacks & Confectionery,True,-84.0,True,Out of Stock,2024-01-31,Accepted
+SUB_0042782,ORD_00356144,STR_004,SKU_0016,SKU_0177,Fruits & Vegetables,Packaged Food,False,101.0,False,Out of Stock,2024-02-20,Rejected
+SUB_0050521,ORD_00420668,STR_007,SKU_0435,SKU_0443,Baby & Kids,Snacks & Confectionery,False,-500.0,True,Out of Stock,2024-05-14,Accepted
+SUB_0020343,ORD_00170586,STR_007,SKU_0057,SKU_0445,Fruits & Vegetables,Snacks & Confectionery,False,29.0,True,Out of Stock,2023-08-06,Accepted
+SUB_0049950,ORD_00415709,STR_005,SKU_0160,SKU_0306,Packaged Food,Personal Care,False,159.0,True,Out of Stock,2024-05-07,Accepted
+SUB_0036439,ORD_00303840,STR_009,SKU_0290,SKU_0106,Personal Care,Dairy & Eggs,False,-19.0,True,Damaged,2023-12-23,Accepted
+SUB_0042622,ORD_00354800,STR_006,SKU_0084,SKU_0344,Dairy & Eggs,Household,False,168.0,False,Out of Stock,2024-02-18,Rejected
+SUB_0020231,ORD_00169585,STR_008,SKU_0123,SKU_0378,Dairy & Eggs,Baby & Kids,False,364.0,False,Expired,2023-08-05,Rejected
+SUB_0023519,ORD_00197376,STR_002,SKU_0269,SKU_0348,Personal Care,Household,False,56.0,False,Out of Stock,2023-09-10,Rejected
+SUB_0016766,ORD_00141103,STR_004,SKU_0453,SKU_0462,Snacks & Confectionery,Snacks & Confectionery,True,-87.0,True,Out of Stock,2023-06-30,Accepted
+SUB_0042556,ORD_00354195,STR_010,SKU_0452,SKU_0116,Snacks & Confectionery,Dairy & Eggs,False,83.0,False,Out of Stock,2024-02-17,Rejected
+SUB_0004885,ORD_00041520,STR_010,SKU_0463,SKU_0053,Snacks & Confectionery,Fruits & Vegetables,False,-44.0,True,Out of Stock,2023-02-16,Accepted
+SUB_0003698,ORD_00031701,STR_004,SKU_0160,SKU_0241,Packaged Food,Beverages,False,106.0,True,Out of Stock,2023-02-04,Accepted
+SUB_0040024,ORD_00333035,STR_006,SKU_0499,SKU_0255,Snacks & Confectionery,Personal Care,False,77.0,False,Out of Stock,2024-01-23,Rejected
+SUB_0007101,ORD_00059855,STR_004,SKU_0008,SKU_0234,Fruits & Vegetables,Beverages,False,62.0,True,Out of Stock,2023-03-12,Accepted
+SUB_0046238,ORD_00384951,STR_007,SKU_0310,SKU_0052,Personal Care,Fruits & Vegetables,False,-226.0,False,Out of Stock,2024-03-28,Rejected
+SUB_0021211,ORD_00178186,STR_006,SKU_0039,SKU_0362,Fruits & Vegetables,Household,False,-26.0,True,Damaged,2023-08-16,Accepted
+SUB_0029276,ORD_00244843,STR_007,SKU_0033,SKU_0490,Fruits & Vegetables,Snacks & Confectionery,False,-52.0,False,Out of Stock,2023-10-28,Rejected
+SUB_0031537,ORD_00262893,STR_006,SKU_0253,SKU_0279,Personal Care,Personal Care,True,161.0,True,Out of Stock,2023-11-13,Accepted
+SUB_0015046,ORD_00126757,STR_001,SKU_0260,SKU_0444,Personal Care,Snacks & Confectionery,False,-90.0,False,Out of Stock,2023-06-10,Rejected
+SUB_0009554,ORD_00080477,STR_010,SKU_0170,SKU_0038,Packaged Food,Fruits & Vegetables,False,30.0,True,Out of Stock,2023-04-07,Accepted
+SUB_0035883,ORD_00298925,STR_004,SKU_0204,SKU_0296,Beverages,Personal Care,False,153.0,False,Out of Stock,2023-12-18,Rejected
+SUB_0031156,ORD_00259781,STR_002,SKU_0133,SKU_0334,Packaged Food,Household,False,88.0,False,Out of Stock,2023-11-11,Rejected
+SUB_0025218,ORD_00211400,STR_002,SKU_0155,SKU_0417,Packaged Food,Baby & Kids,False,161.0,False,Expired,2023-09-28,Rejected
+SUB_0053335,ORD_00443916,STR_006,SKU_0104,SKU_0430,Dairy & Eggs,Baby & Kids,False,310.0,False,Out of Stock,2024-06-16,Rejected
+SUB_0035754,ORD_00297983,STR_005,SKU_0172,SKU_0403,Packaged Food,Baby & Kids,False,348.0,False,Out of Stock,2023-12-17,Rejected
+SUB_0050263,ORD_00418461,STR_006,SKU_0292,SKU_0138,Personal Care,Packaged Food,False,-59.0,False,Out of Stock,2024-05-11,Rejected
+SUB_0040968,ORD_00340760,STR_009,SKU_0357,SKU_0145,Household,Packaged Food,False,70.0,True,Out of Stock,2024-01-31,Accepted
+SUB_0030072,ORD_00251249,STR_005,SKU_0428,SKU_0443,Baby & Kids,Snacks & Confectionery,False,-675.0,False,Expired,2023-11-03,Rejected
+SUB_0022279,ORD_00186957,STR_006,SKU_0475,SKU_0089,Snacks & Confectionery,Dairy & Eggs,False,53.0,True,Out of Stock,2023-08-27,Accepted
+SUB_0013178,ORD_00111031,STR_007,SKU_0443,SKU_0040,Snacks & Confectionery,Fruits & Vegetables,False,-26.0,False,Out of Stock,2023-05-18,Rejected
+SUB_0014182,ORD_00119440,STR_004,SKU_0497,SKU_0423,Snacks & Confectionery,Baby & Kids,False,274.0,True,Out of Stock,2023-05-30,Accepted
+SUB_0039286,ORD_00326878,STR_002,SKU_0305,SKU_0148,Personal Care,Packaged Food,False,-176.0,True,Out of Stock,2024-01-17,Accepted
+SUB_0021584,ORD_00181358,STR_005,SKU_0218,SKU_0001,Beverages,Fruits & Vegetables,False,-7.0,True,Out of Stock,2023-08-20,Accepted
+SUB_0024985,ORD_00209567,STR_007,SKU_0366,SKU_0078,Household,Dairy & Eggs,False,-48.0,False,Out of Stock,2023-09-25,Rejected
+SUB_0043011,ORD_00357927,STR_008,SKU_0158,SKU_0336,Packaged Food,Household,False,-123.0,False,Out of Stock,2024-02-22,Rejected
+SUB_0010152,ORD_00085262,STR_010,SKU_0319,SKU_0013,Household,Fruits & Vegetables,False,-91.0,False,Out of Stock,2023-04-13,Rejected
+SUB_0023241,ORD_00195053,STR_004,SKU_0125,SKU_0063,Packaged Food,Dairy & Eggs,False,-3.0,True,Out of Stock,2023-09-07,Accepted
+SUB_0047755,ORD_00397472,STR_007,SKU_0293,SKU_0189,Personal Care,Beverages,False,50.0,True,Out of Stock,2024-04-13,Accepted
+SUB_0044687,ORD_00372151,STR_009,SKU_0074,SKU_0043,Dairy & Eggs,Fruits & Vegetables,False,-41.0,False,Damaged,2024-03-11,Rejected
+SUB_0039103,ORD_00325627,STR_007,SKU_0349,SKU_0355,Household,Household,True,-186.0,True,Out of Stock,2024-01-15,Accepted
+SUB_0023223,ORD_00194907,STR_001,SKU_0430,SKU_0314,Baby & Kids,Household,False,-226.0,True,Damaged,2023-09-07,Accepted
+SUB_0020611,ORD_00172825,STR_008,SKU_0333,SKU_0017,Household,Fruits & Vegetables,False,-77.0,False,Out of Stock,2023-08-09,Rejected
+SUB_0001282,ORD_00011028,STR_008,SKU_0256,SKU_0024,Personal Care,Fruits & Vegetables,False,1.0,True,Out of Stock,2023-01-12,Accepted
+SUB_0018686,ORD_00157035,STR_009,SKU_0212,SKU_0064,Beverages,Dairy & Eggs,False,83.0,False,Out of Stock,2023-07-20,Rejected
+SUB_0040479,ORD_00336725,STR_006,SKU_0305,SKU_0272,Personal Care,Personal Care,True,-87.0,True,Out of Stock,2024-01-27,Accepted
+SUB_0049593,ORD_00412736,STR_006,SKU_0219,SKU_0019,Beverages,Fruits & Vegetables,False,-108.0,True,Out of Stock,2024-05-03,Accepted
+SUB_0026545,ORD_00222104,STR_004,SKU_0433,SKU_0256,Baby & Kids,Personal Care,False,-481.0,False,Out of Stock,2023-10-08,Rejected
+SUB_0015178,ORD_00127791,STR_003,SKU_0190,SKU_0283,Beverages,Personal Care,False,65.0,True,Out of Stock,2023-06-11,Accepted
+SUB_0024140,ORD_00202619,STR_010,SKU_0370,SKU_0380,Household,Baby & Kids,False,411.0,False,Damaged,2023-09-16,Rejected
+SUB_0026219,ORD_00219556,STR_005,SKU_0350,SKU_0220,Household,Beverages,False,-79.0,False,Out of Stock,2023-10-06,Rejected
+SUB_0054160,ORD_00451188,STR_004,SKU_0001,SKU_0120,Fruits & Vegetables,Dairy & Eggs,False,74.0,False,Out of Stock,2024-06-27,Rejected
+SUB_0006430,ORD_00054293,STR_004,SKU_0368,SKU_0190,Household,Beverages,False,102.0,False,Out of Stock,2023-03-05,Rejected
+SUB_0020334,ORD_00170541,STR_007,SKU_0132,SKU_0328,Packaged Food,Household,False,86.0,True,Out of Stock,2023-08-06,Accepted
+SUB_0044105,ORD_00367008,STR_002,SKU_0421,SKU_0325,Baby & Kids,Household,False,-116.0,False,Out of Stock,2024-03-05,Rejected
+SUB_0005638,ORD_00047680,STR_001,SKU_0323,SKU_0005,Household,Fruits & Vegetables,False,-71.0,False,Out of Stock,2023-02-25,Rejected
+SUB_0040614,ORD_00337765,STR_005,SKU_0177,SKU_0398,Packaged Food,Baby & Kids,False,302.0,True,Out of Stock,2024-01-28,Accepted
+SUB_0024357,ORD_00204358,STR_010,SKU_0253,SKU_0230,Personal Care,Beverages,False,62.0,False,Damaged,2023-09-18,Rejected
+SUB_0003264,ORD_00028067,STR_006,SKU_0203,SKU_0402,Beverages,Baby & Kids,False,183.0,True,Out of Stock,2023-01-30,Accepted
+SUB_0011462,ORD_00096744,STR_007,SKU_0303,SKU_0425,Personal Care,Baby & Kids,False,482.0,True,Damaged,2023-04-28,Accepted
+SUB_0029720,ORD_00248202,STR_005,SKU_0080,SKU_0242,Dairy & Eggs,Beverages,False,-5.0,True,Out of Stock,2023-10-31,Accepted
+SUB_0016172,ORD_00136261,STR_005,SKU_0257,SKU_0274,Personal Care,Personal Care,True,-126.0,False,Out of Stock,2023-06-23,Rejected
+SUB_0028386,ORD_00237505,STR_001,SKU_0221,SKU_0304,Beverages,Personal Care,False,120.0,False,Out of Stock,2023-10-22,Rejected
+SUB_0019052,ORD_00159876,STR_002,SKU_0490,SKU_0033,Snacks & Confectionery,Fruits & Vegetables,False,52.0,True,Out of Stock,2023-07-24,Accepted
+SUB_0043515,ORD_00362339,STR_004,SKU_0153,SKU_0178,Packaged Food,Packaged Food,True,31.0,True,Out of Stock,2024-02-28,Accepted
+SUB_0005836,ORD_00049404,STR_009,SKU_0028,SKU_0354,Fruits & Vegetables,Household,False,178.0,False,Out of Stock,2023-02-26,Rejected
+SUB_0038754,ORD_00322639,STR_010,SKU_0211,SKU_0065,Beverages,Dairy & Eggs,False,33.0,False,Out of Stock,2024-01-12,Rejected
+SUB_0050004,ORD_00416193,STR_003,SKU_0298,SKU_0231,Personal Care,Beverages,False,-95.0,True,Out of Stock,2024-05-08,Accepted
+SUB_0026915,ORD_00225202,STR_003,SKU_0023,SKU_0478,Fruits & Vegetables,Snacks & Confectionery,False,32.0,True,Out of Stock,2023-10-11,Accepted
+SUB_0050951,ORD_00424403,STR_009,SKU_0349,SKU_0011,Household,Fruits & Vegetables,False,-182.0,True,Out of Stock,2024-05-19,Accepted
+SUB_0008410,ORD_00070965,STR_005,SKU_0174,SKU_0385,Packaged Food,Baby & Kids,False,183.0,False,Expired,2023-03-26,Rejected
+SUB_0004811,ORD_00041050,STR_003,SKU_0025,SKU_0292,Fruits & Vegetables,Personal Care,False,38.0,True,Out of Stock,2023-02-16,Accepted
+SUB_0017075,ORD_00143758,STR_007,SKU_0313,SKU_0424,Household,Baby & Kids,False,41.0,False,Damaged,2023-07-03,Rejected
+SUB_0025387,ORD_00212732,STR_001,SKU_0250,SKU_0093,Personal Care,Dairy & Eggs,False,0.0,False,Out of Stock,2023-09-30,Rejected
+SUB_0012558,ORD_00105728,STR_002,SKU_0395,SKU_0254,Baby & Kids,Personal Care,False,-462.0,False,Out of Stock,2023-05-11,Rejected
+SUB_0005764,ORD_00048875,STR_004,SKU_0196,SKU_0045,Beverages,Fruits & Vegetables,False,-108.0,False,Out of Stock,2023-02-26,Rejected
+SUB_0027482,ORD_00229830,STR_003,SKU_0123,SKU_0336,Dairy & Eggs,Household,False,-2.0,False,Expired,2023-10-15,Rejected
+SUB_0020286,ORD_00170060,STR_002,SKU_0349,SKU_0128,Household,Packaged Food,False,-167.0,False,Damaged,2023-08-06,Rejected
+SUB_0041728,ORD_00347340,STR_006,SKU_0219,SKU_0142,Beverages,Packaged Food,False,-71.0,False,Damaged,2024-02-09,Rejected
+SUB_0023999,ORD_00201464,STR_007,SKU_0102,SKU_0194,Dairy & Eggs,Beverages,False,-80.0,False,Out of Stock,2023-09-15,Rejected
+SUB_0035717,ORD_00297575,STR_002,SKU_0141,SKU_0107,Packaged Food,Dairy & Eggs,False,-82.0,False,Out of Stock,2023-12-17,Rejected
+SUB_0042217,ORD_00351520,STR_006,SKU_0263,SKU_0481,Personal Care,Snacks & Confectionery,False,-5.0,False,Out of Stock,2024-02-14,Rejected
+SUB_0000213,ORD_00001627,STR_007,SKU_0204,SKU_0416,Beverages,Baby & Kids,False,359.0,False,Out of Stock,2023-01-02,Rejected
+SUB_0035609,ORD_00296693,STR_004,SKU_0496,SKU_0138,Snacks & Confectionery,Packaged Food,False,-52.0,False,Out of Stock,2023-12-16,Rejected
+SUB_0000081,ORD_00000559,STR_006,SKU_0033,SKU_0413,Fruits & Vegetables,Baby & Kids,False,434.0,False,Out of Stock,2023-01-01,Rejected
+SUB_0024561,ORD_00205944,STR_002,SKU_0121,SKU_0290,Dairy & Eggs,Personal Care,False,-90.0,False,Out of Stock,2023-09-21,Rejected
+SUB_0042955,ORD_00357498,STR_003,SKU_0112,SKU_0287,Dairy & Eggs,Personal Care,False,141.0,True,Out of Stock,2024-02-22,Accepted
+SUB_0052811,ORD_00439550,STR_003,SKU_0382,SKU_0046,Baby & Kids,Fruits & Vegetables,False,-644.0,False,Expired,2024-06-10,Rejected
+SUB_0034378,ORD_00286516,STR_003,SKU_0357,SKU_0358,Household,Household,True,113.0,False,Out of Stock,2023-12-05,Rejected
+SUB_0004348,ORD_00037011,STR_002,SKU_0317,SKU_0255,Household,Personal Care,False,-20.0,False,Expired,2023-02-11,Rejected
+SUB_0005848,ORD_00049501,STR_010,SKU_0235,SKU_0151,Beverages,Packaged Food,False,116.0,False,Out of Stock,2023-02-26,Rejected
+SUB_0041752,ORD_00347521,STR_008,SKU_0407,SKU_0054,Baby & Kids,Fruits & Vegetables,False,-295.0,False,Out of Stock,2024-02-09,Rejected
+SUB_0029520,ORD_00246645,STR_010,SKU_0167,SKU_0460,Packaged Food,Snacks & Confectionery,False,-94.0,False,Out of Stock,2023-10-29,Rejected
+SUB_0020368,ORD_00170829,STR_010,SKU_0120,SKU_0256,Dairy & Eggs,Personal Care,False,-65.0,False,Out of Stock,2023-08-06,Rejected
+SUB_0022778,ORD_00191151,STR_004,SKU_0013,SKU_0377,Fruits & Vegetables,Baby & Kids,False,381.0,True,Out of Stock,2023-09-02,Accepted
+SUB_0015216,ORD_00128148,STR_007,SKU_0335,SKU_0400,Household,Baby & Kids,False,150.0,False,Out of Stock,2023-06-11,Rejected
+SUB_0030646,ORD_00255723,STR_002,SKU_0429,SKU_0196,Baby & Kids,Beverages,False,-157.0,False,Out of Stock,2023-11-07,Rejected
+SUB_0039265,ORD_00326708,STR_010,SKU_0418,SKU_0263,Baby & Kids,Personal Care,False,-557.0,True,Damaged,2024-01-16,Accepted
+SUB_0001737,ORD_00014573,STR_002,SKU_0196,SKU_0402,Beverages,Baby & Kids,False,117.0,False,Out of Stock,2023-01-16,Rejected
+SUB_0038273,ORD_00318718,STR_004,SKU_0258,SKU_0161,Personal Care,Packaged Food,False,-138.0,True,Out of Stock,2024-01-08,Accepted
+SUB_0007325,ORD_00061610,STR_006,SKU_0497,SKU_0339,Snacks & Confectionery,Household,False,-27.0,False,Out of Stock,2023-03-14,Rejected
+SUB_0017161,ORD_00144342,STR_005,SKU_0299,SKU_0146,Personal Care,Packaged Food,False,25.0,True,Out of Stock,2023-07-04,Accepted
+SUB_0011595,ORD_00097845,STR_009,SKU_0495,SKU_0196,Snacks & Confectionery,Beverages,False,62.0,False,Out of Stock,2023-04-29,Rejected
+SUB_0032784,ORD_00273290,STR_009,SKU_0204,SKU_0367,Beverages,Household,False,-70.0,False,Damaged,2023-11-22,Rejected
+SUB_0013910,ORD_00117070,STR_002,SKU_0045,SKU_0100,Fruits & Vegetables,Dairy & Eggs,False,58.0,True,Out of Stock,2023-05-27,Accepted
+SUB_0020553,ORD_00172317,STR_001,SKU_0066,SKU_0401,Dairy & Eggs,Baby & Kids,False,161.0,False,Out of Stock,2023-08-09,Rejected
+SUB_0053192,ORD_00442749,STR_002,SKU_0403,SKU_0260,Baby & Kids,Personal Care,False,-353.0,True,Damaged,2024-06-15,Accepted
+SUB_0050582,ORD_00421128,STR_004,SKU_0274,SKU_0111,Personal Care,Dairy & Eggs,False,46.0,True,Out of Stock,2024-05-15,Accepted
+SUB_0043491,ORD_00362160,STR_001,SKU_0308,SKU_0279,Personal Care,Personal Care,True,-25.0,True,Out of Stock,2024-02-28,Accepted
+SUB_0003883,ORD_00033353,STR_001,SKU_0069,SKU_0458,Dairy & Eggs,Snacks & Confectionery,False,89.0,True,Out of Stock,2023-02-06,Accepted
+SUB_0004029,ORD_00034689,STR_010,SKU_0070,SKU_0289,Dairy & Eggs,Personal Care,False,-133.0,True,Damaged,2023-02-07,Accepted
+SUB_0042684,ORD_00355405,STR_003,SKU_0300,SKU_0006,Personal Care,Fruits & Vegetables,False,-316.0,False,Out of Stock,2024-02-19,Rejected
+SUB_0033991,ORD_00283358,STR_002,SKU_0193,SKU_0386,Beverages,Baby & Kids,False,-49.0,True,Out of Stock,2023-12-02,Accepted
+SUB_0042540,ORD_00354041,STR_009,SKU_0116,SKU_0416,Dairy & Eggs,Baby & Kids,False,341.0,True,Out of Stock,2024-02-17,Accepted
+SUB_0054183,ORD_00451416,STR_007,SKU_0070,SKU_0140,Dairy & Eggs,Packaged Food,False,-89.0,False,Out of Stock,2024-06-27,Rejected
+SUB_0008114,ORD_00068422,STR_005,SKU_0252,SKU_0259,Personal Care,Personal Care,True,-170.0,True,Damaged,2023-03-23,Accepted
+SUB_0037964,ORD_00316195,STR_001,SKU_0381,SKU_0044,Baby & Kids,Fruits & Vegetables,False,-207.0,True,Expired,2024-01-06,Accepted
+SUB_0028517,ORD_00238717,STR_010,SKU_0134,SKU_0392,Packaged Food,Baby & Kids,False,247.0,False,Out of Stock,2023-10-22,Rejected
+SUB_0032486,ORD_00270808,STR_005,SKU_0108,SKU_0431,Dairy & Eggs,Baby & Kids,False,451.0,True,Out of Stock,2023-11-20,Accepted
+SUB_0009479,ORD_00079947,STR_003,SKU_0066,SKU_0063,Dairy & Eggs,Dairy & Eggs,True,-65.0,False,Expired,2023-04-07,Rejected
+SUB_0011575,ORD_00097700,STR_008,SKU_0012,SKU_0497,Fruits & Vegetables,Snacks & Confectionery,False,81.0,False,Out of Stock,2023-04-29,Rejected
+SUB_0008342,ORD_00070458,STR_009,SKU_0406,SKU_0446,Baby & Kids,Snacks & Confectionery,False,-318.0,False,Out of Stock,2023-03-25,Rejected
+SUB_0043339,ORD_00360805,STR_003,SKU_0290,SKU_0169,Personal Care,Packaged Food,False,158.0,True,Out of Stock,2024-02-26,Accepted
+SUB_0013379,ORD_00112674,STR_009,SKU_0398,SKU_0304,Baby & Kids,Personal Care,False,-214.0,False,Out of Stock,2023-05-20,Rejected
+SUB_0048858,ORD_00406905,STR_008,SKU_0316,SKU_0155,Household,Packaged Food,False,106.0,True,Out of Stock,2024-04-25,Accepted
+SUB_0033414,ORD_00278310,STR_001,SKU_0310,SKU_0464,Personal Care,Snacks & Confectionery,False,-152.0,True,Out of Stock,2023-11-27,Accepted
+SUB_0000645,ORD_00005233,STR_008,SKU_0238,SKU_0185,Beverages,Packaged Food,False,-1.0,False,Out of Stock,2023-01-06,Rejected
+SUB_0003646,ORD_00031191,STR_008,SKU_0373,SKU_0325,Household,Household,True,-110.0,True,Out of Stock,2023-02-03,Accepted
+SUB_0028849,ORD_00241294,STR_005,SKU_0319,SKU_0079,Household,Dairy & Eggs,False,-53.0,False,Out of Stock,2023-10-25,Rejected
+SUB_0021187,ORD_00177952,STR_003,SKU_0077,SKU_0067,Dairy & Eggs,Dairy & Eggs,True,-1.0,True,Out of Stock,2023-08-16,Accepted
+SUB_0026745,ORD_00223724,STR_008,SKU_0336,SKU_0087,Household,Dairy & Eggs,False,16.0,True,Damaged,2023-10-09,Accepted
+SUB_0050872,ORD_00423670,STR_001,SKU_0392,SKU_0364,Baby & Kids,Household,False,-80.0,False,Out of Stock,2024-05-19,Rejected
+SUB_0033243,ORD_00276901,STR_001,SKU_0436,SKU_0201,Baby & Kids,Beverages,False,-131.0,False,Out of Stock,2023-11-26,Rejected
+SUB_0038625,ORD_00321702,STR_009,SKU_0050,SKU_0407,Fruits & Vegetables,Baby & Kids,False,299.0,False,Out of Stock,2024-01-11,Rejected
+SUB_0047585,ORD_00395968,STR_008,SKU_0346,SKU_0467,Household,Snacks & Confectionery,False,-208.0,True,Out of Stock,2024-04-11,Accepted
+SUB_0023522,ORD_00197399,STR_003,SKU_0028,SKU_0251,Fruits & Vegetables,Personal Care,False,65.0,False,Damaged,2023-09-10,Rejected
+SUB_0008809,ORD_00074422,STR_003,SKU_0175,SKU_0315,Packaged Food,Household,False,113.0,False,Out of Stock,2023-03-31,Rejected
+SUB_0004033,ORD_00034743,STR_010,SKU_0101,SKU_0077,Dairy & Eggs,Dairy & Eggs,True,-53.0,True,Out of Stock,2023-02-07,Accepted
+SUB_0038905,ORD_00324024,STR_002,SKU_0334,SKU_0411,Household,Baby & Kids,False,585.0,True,Out of Stock,2024-01-14,Accepted
+SUB_0030573,ORD_00255203,STR_007,SKU_0051,SKU_0003,Fruits & Vegetables,Fruits & Vegetables,True,53.0,True,Out of Stock,2023-11-06,Accepted
+SUB_0005477,ORD_00046430,STR_004,SKU_0129,SKU_0179,Packaged Food,Packaged Food,True,-13.0,True,Expired,2023-02-23,Accepted
+SUB_0016605,ORD_00139766,STR_003,SKU_0016,SKU_0231,Fruits & Vegetables,Beverages,False,22.0,False,Out of Stock,2023-06-28,Rejected
+SUB_0006922,ORD_00058361,STR_008,SKU_0333,SKU_0116,Household,Dairy & Eggs,False,18.0,True,Out of Stock,2023-03-10,Accepted
+SUB_0018957,ORD_00159068,STR_004,SKU_0286,SKU_0184,Personal Care,Packaged Food,False,60.0,False,Out of Stock,2023-07-23,Rejected
+SUB_0037808,ORD_00315039,STR_009,SKU_0411,SKU_0238,Baby & Kids,Beverages,False,-513.0,False,Out of Stock,2024-01-04,Rejected
+SUB_0052137,ORD_00433568,STR_010,SKU_0276,SKU_0118,Personal Care,Dairy & Eggs,False,56.0,True,Out of Stock,2024-06-01,Accepted
+SUB_0035697,ORD_00297415,STR_010,SKU_0405,SKU_0045,Baby & Kids,Fruits & Vegetables,False,-319.0,True,Out of Stock,2023-12-16,Accepted
+SUB_0018863,ORD_00158303,STR_005,SKU_0085,SKU_0154,Dairy & Eggs,Packaged Food,False,213.0,False,Damaged,2023-07-22,Rejected
+SUB_0009993,ORD_00083874,STR_010,SKU_0109,SKU_0336,Dairy & Eggs,Household,False,-52.0,True,Out of Stock,2023-04-11,Accepted
+SUB_0047373,ORD_00394333,STR_006,SKU_0101,SKU_0298,Dairy & Eggs,Personal Care,False,62.0,False,Out of Stock,2024-04-09,Rejected
+SUB_0023130,ORD_00194137,STR_001,SKU_0367,SKU_0244,Household,Beverages,False,85.0,True,Damaged,2023-09-06,Accepted
+SUB_0050505,ORD_00420494,STR_004,SKU_0045,SKU_0164,Fruits & Vegetables,Packaged Food,False,154.0,False,Damaged,2024-05-14,Rejected
+SUB_0029365,ORD_00245567,STR_002,SKU_0194,SKU_0134,Beverages,Packaged Food,False,-26.0,False,Out of Stock,2023-10-29,Rejected
+SUB_0039488,ORD_00328425,STR_010,SKU_0300,SKU_0315,Personal Care,Household,False,-223.0,True,Out of Stock,2024-01-18,Accepted
+SUB_0042995,ORD_00357773,STR_006,SKU_0144,SKU_0211,Packaged Food,Beverages,False,-30.0,False,Out of Stock,2024-02-22,Rejected
+SUB_0035096,ORD_00292476,STR_006,SKU_0359,SKU_0272,Household,Personal Care,False,37.0,False,Out of Stock,2023-12-11,Rejected
+SUB_0022572,ORD_00189559,STR_002,SKU_0036,SKU_0111,Fruits & Vegetables,Dairy & Eggs,False,58.0,True,Out of Stock,2023-08-31,Accepted
+SUB_0001139,ORD_00009705,STR_002,SKU_0467,SKU_0134,Snacks & Confectionery,Packaged Food,False,-28.0,False,Expired,2023-01-11,Rejected
+SUB_0015815,ORD_00133046,STR_007,SKU_0152,SKU_0017,Packaged Food,Fruits & Vegetables,False,-59.0,True,Damaged,2023-06-18,Accepted
+SUB_0019067,ORD_00159972,STR_004,SKU_0302,SKU_0359,Personal Care,Household,False,-165.0,True,Out of Stock,2023-07-24,Accepted
+SUB_0024906,ORD_00208881,STR_008,SKU_0193,SKU_0040,Beverages,Fruits & Vegetables,False,-6.0,True,Out of Stock,2023-09-24,Accepted
+SUB_0045373,ORD_00377949,STR_005,SKU_0226,SKU_0029,Beverages,Fruits & Vegetables,False,-140.0,False,Out of Stock,2024-03-19,Rejected
+SUB_0047906,ORD_00398855,STR_003,SKU_0236,SKU_0258,Beverages,Personal Care,False,132.0,False,Out of Stock,2024-04-15,Rejected
+SUB_0046123,ORD_00384085,STR_005,SKU_0449,SKU_0374,Snacks & Confectionery,Baby & Kids,False,366.0,False,Out of Stock,2024-03-27,Rejected
+SUB_0023963,ORD_00201180,STR_003,SKU_0486,SKU_0219,Snacks & Confectionery,Beverages,False,140.0,False,Out of Stock,2023-09-15,Rejected
+SUB_0042791,ORD_00356205,STR_004,SKU_0279,SKU_0335,Personal Care,Household,False,95.0,True,Damaged,2024-02-20,Accepted
+SUB_0031545,ORD_00262953,STR_006,SKU_0385,SKU_0286,Baby & Kids,Personal Care,False,-222.0,True,Out of Stock,2023-11-13,Accepted
+SUB_0002593,ORD_00022072,STR_002,SKU_0010,SKU_0314,Fruits & Vegetables,Household,False,102.0,False,Out of Stock,2023-01-24,Rejected
+SUB_0000730,ORD_00006072,STR_006,SKU_0181,SKU_0211,Packaged Food,Beverages,False,-20.0,False,Out of Stock,2023-01-07,Rejected
+SUB_0051111,ORD_00425560,STR_007,SKU_0164,SKU_0041,Packaged Food,Fruits & Vegetables,False,-212.0,False,Out of Stock,2024-05-21,Rejected
+SUB_0048884,ORD_00407133,STR_002,SKU_0054,SKU_0225,Fruits & Vegetables,Beverages,False,57.0,False,Out of Stock,2024-04-26,Rejected
+SUB_0019662,ORD_00164762,STR_006,SKU_0055,SKU_0243,Fruits & Vegetables,Beverages,False,71.0,False,Out of Stock,2023-07-30,Rejected
+SUB_0036203,ORD_00301846,STR_009,SKU_0195,SKU_0021,Beverages,Fruits & Vegetables,False,-29.0,False,Out of Stock,2023-12-21,Rejected
+SUB_0053624,ORD_00446556,STR_007,SKU_0042,SKU_0034,Fruits & Vegetables,Fruits & Vegetables,True,8.0,True,Out of Stock,2024-06-20,Accepted
+SUB_0017690,ORD_00148610,STR_008,SKU_0056,SKU_0294,Fruits & Vegetables,Personal Care,False,209.0,True,Out of Stock,2023-07-09,Accepted
+SUB_0052466,ORD_00436550,STR_002,SKU_0323,SKU_0073,Household,Dairy & Eggs,False,-3.0,True,Out of Stock,2024-06-06,Accepted
+SUB_0050050,ORD_00416700,STR_001,SKU_0412,SKU_0134,Baby & Kids,Packaged Food,False,-287.0,True,Out of Stock,2024-05-09,Accepted
+SUB_0030131,ORD_00251658,STR_009,SKU_0309,SKU_0132,Personal Care,Packaged Food,False,12.0,False,Out of Stock,2023-11-03,Rejected
+SUB_0043747,ORD_00364181,STR_010,SKU_0043,SKU_0161,Fruits & Vegetables,Packaged Food,False,-6.0,False,Out of Stock,2024-03-01,Rejected
+SUB_0036948,ORD_00308107,STR_005,SKU_0204,SKU_0041,Beverages,Fruits & Vegetables,False,-82.0,False,Out of Stock,2023-12-28,Rejected
+SUB_0018592,ORD_00156232,STR_007,SKU_0196,SKU_0437,Beverages,Snacks & Confectionery,False,-139.0,False,Out of Stock,2023-07-19,Rejected
+SUB_0006794,ORD_00057279,STR_002,SKU_0103,SKU_0155,Dairy & Eggs,Packaged Food,False,139.0,False,Out of Stock,2023-03-09,Rejected
+SUB_0005749,ORD_00048768,STR_002,SKU_0479,SKU_0304,Snacks & Confectionery,Personal Care,False,129.0,False,Damaged,2023-02-26,Rejected
+SUB_0037683,ORD_00314039,STR_006,SKU_0349,SKU_0231,Household,Beverages,False,-145.0,True,Out of Stock,2024-01-03,Accepted
+SUB_0018695,ORD_00157144,STR_010,SKU_0282,SKU_0001,Personal Care,Fruits & Vegetables,False,45.0,True,Out of Stock,2023-07-20,Accepted
+SUB_0030170,ORD_00251948,STR_001,SKU_0441,SKU_0268,Snacks & Confectionery,Personal Care,False,109.0,True,Out of Stock,2023-11-04,Accepted
+SUB_0012884,ORD_00108469,STR_007,SKU_0294,SKU_0112,Personal Care,Dairy & Eggs,False,-220.0,True,Damaged,2023-05-14,Accepted
+SUB_0023792,ORD_00199737,STR_002,SKU_0120,SKU_0348,Dairy & Eggs,Household,False,173.0,True,Out of Stock,2023-09-13,Accepted
+SUB_0029079,ORD_00243201,STR_003,SKU_0348,SKU_0093,Household,Dairy & Eggs,False,-292.0,False,Expired,2023-10-27,Rejected
+SUB_0040271,ORD_00335007,STR_009,SKU_0087,SKU_0353,Dairy & Eggs,Household,False,35.0,True,Damaged,2024-01-25,Accepted
+SUB_0031126,ORD_00259554,STR_010,SKU_0119,SKU_0056,Dairy & Eggs,Fruits & Vegetables,False,-5.0,False,Out of Stock,2023-11-10,Rejected
+SUB_0023147,ORD_00194239,STR_002,SKU_0119,SKU_0195,Dairy & Eggs,Beverages,False,19.0,True,Out of Stock,2023-09-06,Accepted
+SUB_0006162,ORD_00052108,STR_006,SKU_0175,SKU_0477,Packaged Food,Snacks & Confectionery,False,78.0,True,Out of Stock,2023-03-02,Accepted
+SUB_0043816,ORD_00364715,STR_006,SKU_0472,SKU_0206,Snacks & Confectionery,Beverages,False,70.0,False,Out of Stock,2024-03-02,Rejected
+SUB_0047425,ORD_00394735,STR_001,SKU_0135,SKU_0319,Packaged Food,Household,False,89.0,False,Out of Stock,2024-04-10,Rejected
+SUB_0050404,ORD_00419673,STR_001,SKU_0351,SKU_0487,Household,Snacks & Confectionery,False,-55.0,True,Out of Stock,2024-05-13,Accepted
+SUB_0045591,ORD_00379580,STR_009,SKU_0111,SKU_0164,Dairy & Eggs,Packaged Food,False,126.0,False,Out of Stock,2024-03-21,Rejected
+SUB_0023790,ORD_00199722,STR_002,SKU_0323,SKU_0116,Household,Dairy & Eggs,False,3.0,False,Out of Stock,2023-09-13,Rejected
+SUB_0045716,ORD_00380710,STR_004,SKU_0170,SKU_0381,Packaged Food,Baby & Kids,False,248.0,True,Out of Stock,2024-03-23,Accepted
+SUB_0033082,ORD_00275617,STR_002,SKU_0461,SKU_0159,Snacks & Confectionery,Packaged Food,False,89.0,False,Damaged,2023-11-25,Rejected
+SUB_0051961,ORD_00432047,STR_010,SKU_0468,SKU_0267,Snacks & Confectionery,Personal Care,False,44.0,False,Out of Stock,2024-05-30,Rejected
+SUB_0029344,ORD_00245436,STR_002,SKU_0166,SKU_0061,Packaged Food,Fruits & Vegetables,False,-74.0,True,Out of Stock,2023-10-29,Accepted
+SUB_0012895,ORD_00108523,STR_008,SKU_0362,SKU_0377,Household,Baby & Kids,False,426.0,True,Out of Stock,2023-05-14,Accepted
+SUB_0005702,ORD_00048237,STR_007,SKU_0393,SKU_0334,Baby & Kids,Household,False,-606.0,False,Out of Stock,2023-02-25,Rejected
+SUB_0034673,ORD_00289005,STR_002,SKU_0419,SKU_0048,Baby & Kids,Fruits & Vegetables,False,-498.0,True,Out of Stock,2023-12-08,Accepted
+SUB_0003289,ORD_00028258,STR_008,SKU_0436,SKU_0046,Baby & Kids,Fruits & Vegetables,False,-133.0,False,Damaged,2023-01-30,Rejected
+SUB_0046594,ORD_00387882,STR_001,SKU_0238,SKU_0454,Beverages,Snacks & Confectionery,False,-60.0,False,Damaged,2024-04-01,Rejected
+SUB_0038748,ORD_00322601,STR_010,SKU_0359,SKU_0200,Household,Beverages,False,19.0,False,Out of Stock,2024-01-12,Rejected
+SUB_0022134,ORD_00185712,STR_004,SKU_0165,SKU_0217,Packaged Food,Beverages,False,-99.0,True,Out of Stock,2023-08-26,Accepted
+SUB_0011598,ORD_00097857,STR_009,SKU_0489,SKU_0283,Snacks & Confectionery,Personal Care,False,57.0,True,Out of Stock,2023-04-29,Accepted
+SUB_0041849,ORD_00348309,STR_007,SKU_0374,SKU_0164,Baby & Kids,Packaged Food,False,-202.0,True,Out of Stock,2024-02-10,Accepted
+SUB_0047020,ORD_00391613,STR_002,SKU_0077,SKU_0121,Dairy & Eggs,Dairy & Eggs,True,87.0,True,Out of Stock,2024-04-06,Accepted
+SUB_0042106,ORD_00350558,STR_003,SKU_0011,SKU_0253,Fruits & Vegetables,Personal Care,False,-23.0,False,Out of Stock,2024-02-13,Rejected
+SUB_0008724,ORD_00073712,STR_002,SKU_0113,SKU_0008,Dairy & Eggs,Fruits & Vegetables,False,-10.0,False,Out of Stock,2023-03-30,Rejected
+SUB_0012948,ORD_00108897,STR_004,SKU_0046,SKU_0481,Fruits & Vegetables,Snacks & Confectionery,False,-31.0,False,Damaged,2023-05-15,Rejected
+SUB_0003738,ORD_00032164,STR_009,SKU_0250,SKU_0471,Personal Care,Snacks & Confectionery,False,57.0,False,Out of Stock,2023-02-04,Rejected
+SUB_0049374,ORD_00411016,STR_009,SKU_0037,SKU_0419,Fruits & Vegetables,Baby & Kids,False,542.0,False,Out of Stock,2024-04-30,Rejected
+SUB_0012352,ORD_00103914,STR_003,SKU_0090,SKU_0057,Dairy & Eggs,Fruits & Vegetables,False,8.0,False,Damaged,2023-05-08,Rejected
+SUB_0012213,ORD_00102816,STR_009,SKU_0388,SKU_0292,Baby & Kids,Personal Care,False,-272.0,False,Out of Stock,2023-05-06,Rejected
+SUB_0029336,ORD_00245360,STR_001,SKU_0228,SKU_0472,Beverages,Snacks & Confectionery,False,-70.0,True,Out of Stock,2023-10-29,Accepted
+SUB_0016378,ORD_00138001,STR_006,SKU_0081,SKU_0369,Dairy & Eggs,Household,False,60.0,False,Out of Stock,2023-06-25,Rejected
+SUB_0002908,ORD_00024883,STR_005,SKU_0180,SKU_0022,Packaged Food,Fruits & Vegetables,False,-96.0,True,Out of Stock,2023-01-27,Accepted
+SUB_0014166,ORD_00119319,STR_002,SKU_0107,SKU_0462,Dairy & Eggs,Snacks & Confectionery,False,-41.0,True,Expired,2023-05-30,Accepted
+SUB_0034331,ORD_00286204,STR_009,SKU_0437,SKU_0433,Snacks & Confectionery,Baby & Kids,False,508.0,False,Out of Stock,2023-12-04,Rejected
